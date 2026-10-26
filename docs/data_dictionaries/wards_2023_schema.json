@@ -1,0 +1,56 @@
+{
+  "id": "p293-wvbd",
+  "name": "Boundaries - Wards (2023-)",
+  "description": "Ward boundaries in Chicago from May 2023 onward, corresponding to the dates when a new City Council is sworn in, based on the immediately preceding elections. Neither this description nor the dataset should be relied upon in situations where legal precision is required.\n\n​​​​​This dataset is in a forma​​t for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.\n\nTo export the data in either tabular or geographic format, please use the Export button on this dataset.",
+  "rowsUpdatedAt": 1655332389,
+  "columns": [
+    {
+      "fieldName": "ward",
+      "name": "Ward",
+      "dataTypeName": "number",
+      "description": ""
+    },
+    {
+      "fieldName": "the_geom",
+      "name": "the_geom",
+      "dataTypeName": "multipolygon",
+      "description": ""
+    },
+    {
+      "fieldName": "objectid",
+      "name": "objectid",
+      "dataTypeName": "number",
+      "description": ""
+    },
+    {
+      "fieldName": "edit_date",
+      "name": "edit_date",
+      "dataTypeName": "calendar_date",
+      "description": ""
+    },
+    {
+      "fieldName": "ward_id",
+      "name": "ward_id",
+      "dataTypeName": "number",
+      "description": ""
+    },
+    {
+      "fieldName": "globalid",
+      "name": "globalid",
+      "dataTypeName": "text",
+      "description": ""
+    },
+    {
+      "fieldName": "st_area_sh",
+      "name": "st_area_sh",
+      "dataTypeName": "number",
+      "description": ""
+    },
+    {
+      "fieldName": "st_length_",
+      "name": "st_length_",
+      "dataTypeName": "number",
+      "description": ""
+    }
+  ]
+}

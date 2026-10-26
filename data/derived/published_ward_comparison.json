@@ -1,0 +1,452 @@
+[
+  {
+    "ward": 1,
+    "units": 643,
+    "sfh": 49,
+    "mfh": 594,
+    "sfShare": 0.07620528771384137,
+    "gross_rank": 7,
+    "multifamily_rank": 6
+  },
+  {
+    "ward": 2,
+    "units": 246,
+    "sfh": 13,
+    "mfh": 233,
+    "sfShare": 0.052845528455284556,
+    "gross_rank": 18,
+    "multifamily_rank": 18
+  },
+  {
+    "ward": 3,
+    "units": 1194,
+    "sfh": 6,
+    "mfh": 1188,
+    "sfShare": 0.005025125628140704,
+    "gross_rank": 3,
+    "multifamily_rank": 3
+  },
+  {
+    "ward": 4,
+    "units": 257,
+    "sfh": 17,
+    "mfh": 240,
+    "sfShare": 0.06614785992217899,
+    "gross_rank": 17,
+    "multifamily_rank": 17
+  },
+  {
+    "ward": 5,
+    "units": 67,
+    "sfh": 11,
+    "mfh": 56,
+    "sfShare": 0.16417910447761194,
+    "gross_rank": 33,
+    "multifamily_rank": 30
+  },
+  {
+    "ward": 6,
+    "units": 25,
+    "sfh": 9,
+    "mfh": 16,
+    "sfShare": 0.36,
+    "gross_rank": 45,
+    "multifamily_rank": 40
+  },
+  {
+    "ward": 7,
+    "units": 46,
+    "sfh": 3,
+    "mfh": 43,
+    "sfShare": 0.06521739130434782,
+    "gross_rank": 36,
+    "multifamily_rank": 33
+  },
+  {
+    "ward": 8,
+    "units": 81,
+    "sfh": 2,
+    "mfh": 79,
+    "sfShare": 0.024691358024691357,
+    "gross_rank": 31,
+    "multifamily_rank": 29
+  },
+  {
+    "ward": 9,
+    "units": 29,
+    "sfh": 29,
+    "mfh": 0,
+    "sfShare": 1.0,
+    "gross_rank": 41,
+    "multifamily_rank": 48
+  },
+  {
+    "ward": 10,
+    "units": 86,
+    "sfh": 3,
+    "mfh": 83,
+    "sfShare": 0.03488372093023256,
+    "gross_rank": 29,
+    "multifamily_rank": 28
+  },
+  {
+    "ward": 11,
+    "units": 185,
+    "sfh": 69,
+    "mfh": 116,
+    "sfShare": 0.372972972972973,
+    "gross_rank": 23,
+    "multifamily_rank": 24
+  },
+  {
+    "ward": 12,
+    "units": 73,
+    "sfh": 36,
+    "mfh": 37,
+    "sfShare": 0.4931506849315068,
+    "gross_rank": 32,
+    "multifamily_rank": 35
+  },
+  {
+    "ward": 13,
+    "units": 12,
+    "sfh": 12,
+    "mfh": 0,
+    "sfShare": 1.0,
+    "gross_rank": 49,
+    "multifamily_rank": 49
+  },
+  {
+    "ward": 14,
+    "units": 29,
+    "sfh": 6,
+    "mfh": 23,
+    "sfShare": 0.20689655172413793,
+    "gross_rank": 42,
+    "multifamily_rank": 38
+  },
+  {
+    "ward": 15,
+    "units": 29,
+    "sfh": 7,
+    "mfh": 22,
+    "sfShare": 0.2413793103448276,
+    "gross_rank": 43,
+    "multifamily_rank": 39
+  },
+  {
+    "ward": 16,
+    "units": 116,
+    "sfh": 4,
+    "mfh": 112,
+    "sfShare": 0.034482758620689655,
+    "gross_rank": 27,
+    "multifamily_rank": 25
+  },
+  {
+    "ward": 17,
+    "units": 14,
+    "sfh": 9,
+    "mfh": 5,
+    "sfShare": 0.6428571428571429,
+    "gross_rank": 48,
+    "multifamily_rank": 45
+  },
+  {
+    "ward": 18,
+    "units": 11,
+    "sfh": 5,
+    "mfh": 6,
+    "sfShare": 0.45454545454545453,
+    "gross_rank": 50,
+    "multifamily_rank": 44
+  },
+  {
+    "ward": 19,
+    "units": 28,
+    "sfh": 28,
+    "mfh": 0,
+    "sfShare": 1.0,
+    "gross_rank": 44,
+    "multifamily_rank": 50
+  },
+  {
+    "ward": 20,
+    "units": 575,
+    "sfh": 43,
+    "mfh": 532,
+    "sfShare": 0.07478260869565218,
+    "gross_rank": 8,
+    "multifamily_rank": 7
+  },
+  {
+    "ward": 21,
+    "units": 46,
+    "sfh": 20,
+    "mfh": 26,
+    "sfShare": 0.43478260869565216,
+    "gross_rank": 37,
+    "multifamily_rank": 37
+  },
+  {
+    "ward": 22,
+    "units": 192,
+    "sfh": 6,
+    "mfh": 186,
+    "sfShare": 0.03125,
+    "gross_rank": 22,
+    "multifamily_rank": 20
+  },
+  {
+    "ward": 23,
+    "units": 17,
+    "sfh": 15,
+    "mfh": 2,
+    "sfShare": 0.8823529411764706,
+    "gross_rank": 47,
+    "multifamily_rank": 47
+  },
+  {
+    "ward": 24,
+    "units": 327,
+    "sfh": 50,
+    "mfh": 277,
+    "sfShare": 0.1529051987767584,
+    "gross_rank": 13,
+    "multifamily_rank": 14
+  },
+  {
+    "ward": 25,
+    "units": 304,
+    "sfh": 4,
+    "mfh": 300,
+    "sfShare": 0.013157894736842105,
+    "gross_rank": 14,
+    "multifamily_rank": 13
+  },
+  {
+    "ward": 26,
+    "units": 280,
+    "sfh": 22,
+    "mfh": 258,
+    "sfShare": 0.07857142857142857,
+    "gross_rank": 16,
+    "multifamily_rank": 15
+  },
+  {
+    "ward": 27,
+    "units": 3058,
+    "sfh": 44,
+    "mfh": 3014,
+    "sfShare": 0.014388489208633094,
+    "gross_rank": 1,
+    "multifamily_rank": 1
+  },
+  {
+    "ward": 28,
+    "units": 538,
+    "sfh": 13,
+    "mfh": 525,
+    "sfShare": 0.024163568773234202,
+    "gross_rank": 9,
+    "multifamily_rank": 10
+  },
+  {
+    "ward": 29,
+    "units": 206,
+    "sfh": 19,
+    "mfh": 187,
+    "sfShare": 0.09223300970873786,
+    "gross_rank": 20,
+    "multifamily_rank": 19
+  },
+  {
+    "ward": 30,
+    "units": 123,
+    "sfh": 31,
+    "mfh": 92,
+    "sfShare": 0.25203252032520324,
+    "gross_rank": 26,
+    "multifamily_rank": 27
+  },
+  {
+    "ward": 31,
+    "units": 19,
+    "sfh": 11,
+    "mfh": 8,
+    "sfShare": 0.5789473684210527,
+    "gross_rank": 46,
+    "multifamily_rank": 43
+  },
+  {
+    "ward": 32,
+    "units": 827,
+    "sfh": 150,
+    "mfh": 677,
+    "sfShare": 0.18137847642079807,
+    "gross_rank": 5,
+    "multifamily_rank": 5
+  },
+  {
+    "ward": 33,
+    "units": 218,
+    "sfh": 48,
+    "mfh": 170,
+    "sfShare": 0.22018348623853212,
+    "gross_rank": 19,
+    "multifamily_rank": 21
+  },
+  {
+    "ward": 34,
+    "units": 1325,
+    "sfh": 0,
+    "mfh": 1325,
+    "sfShare": 0.0,
+    "gross_rank": 2,
+    "multifamily_rank": 2
+  },
+  {
+    "ward": 35,
+    "units": 147,
+    "sfh": 50,
+    "mfh": 97,
+    "sfShare": 0.3401360544217687,
+    "gross_rank": 25,
+    "multifamily_rank": 26
+  },
+  {
+    "ward": 36,
+    "units": 198,
+    "sfh": 61,
+    "mfh": 137,
+    "sfShare": 0.30808080808080807,
+    "gross_rank": 21,
+    "multifamily_rank": 22
+  },
+  {
+    "ward": 37,
+    "units": 92,
+    "sfh": 46,
+    "mfh": 46,
+    "sfShare": 0.5,
+    "gross_rank": 28,
+    "multifamily_rank": 31
+  },
+  {
+    "ward": 38,
+    "units": 59,
+    "sfh": 14,
+    "mfh": 45,
+    "sfShare": 0.23728813559322035,
+    "gross_rank": 34,
+    "multifamily_rank": 32
+  },
+  {
+    "ward": 39,
+    "units": 35,
+    "sfh": 32,
+    "mfh": 3,
+    "sfShare": 0.9142857142857143,
+    "gross_rank": 38,
+    "multifamily_rank": 46
+  },
+  {
+    "ward": 40,
+    "units": 180,
+    "sfh": 48,
+    "mfh": 132,
+    "sfShare": 0.26666666666666666,
+    "gross_rank": 24,
+    "multifamily_rank": 23
+  },
+  {
+    "ward": 41,
+    "units": 57,
+    "sfh": 44,
+    "mfh": 13,
+    "sfShare": 0.7719298245614035,
+    "gross_rank": 35,
+    "multifamily_rank": 42
+  },
+  {
+    "ward": 42,
+    "units": 853,
+    "sfh": 1,
+    "mfh": 852,
+    "sfShare": 0.0011723329425556857,
+    "gross_rank": 4,
+    "multifamily_rank": 4
+  },
+  {
+    "ward": 43,
+    "units": 303,
+    "sfh": 46,
+    "mfh": 257,
+    "sfShare": 0.15181518151815182,
+    "gross_rank": 15,
+    "multifamily_rank": 16
+  },
+  {
+    "ward": 44,
+    "units": 415,
+    "sfh": 26,
+    "mfh": 389,
+    "sfShare": 0.06265060240963856,
+    "gross_rank": 11,
+    "multifamily_rank": 11
+  },
+  {
+    "ward": 45,
+    "units": 84,
+    "sfh": 42,
+    "mfh": 42,
+    "sfShare": 0.5,
+    "gross_rank": 30,
+    "multifamily_rank": 34
+  },
+  {
+    "ward": 46,
+    "units": 338,
+    "sfh": 1,
+    "mfh": 337,
+    "sfShare": 0.0029585798816568047,
+    "gross_rank": 12,
+    "multifamily_rank": 12
+  },
+  {
+    "ward": 47,
+    "units": 666,
+    "sfh": 136,
+    "mfh": 530,
+    "sfShare": 0.2042042042042042,
+    "gross_rank": 6,
+    "multifamily_rank": 8
+  },
+  {
+    "ward": 48,
+    "units": 533,
+    "sfh": 3,
+    "mfh": 530,
+    "sfShare": 0.005628517823639775,
+    "gross_rank": 10,
+    "multifamily_rank": 9
+  },
+  {
+    "ward": 49,
+    "units": 33,
+    "sfh": 4,
+    "mfh": 29,
+    "sfShare": 0.12121212121212122,
+    "gross_rank": 40,
+    "multifamily_rank": 36
+  },
+  {
+    "ward": 50,
+    "units": 34,
+    "sfh": 19,
+    "mfh": 15,
+    "sfShare": 0.5588235294117647,
+    "gross_rank": 39,
+    "multifamily_rank": 41
+  }
+]

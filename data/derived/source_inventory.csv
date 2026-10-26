@@ -1,0 +1,8 @@
+name,dataset_id,fields,dictionary_file
+Assessor - Parcel Addresses,3723-97qp,18,docs/data_dictionaries/assessor_address_schema.json
+Assessor - Commercial Valuation Data,csik-bsws,76,docs/data_dictionaries/assessor_commercial_schema.json
+Assessor - Residential Condominium Unit Characteristics,3r7i-mrz4,25,docs/data_dictionaries/assessor_condominium_schema.json
+Assessor - Residential Single and Multi-Family Improvement Characteristics,x54s-btds,44,docs/data_dictionaries/assessor_residential_schema.json
+Assessor - Parcel Universe (Historical),nj4t-kc8j,124,docs/data_dictionaries/assessor_universe_schema.json
+Building Permits,ydr8-5enu,116,docs/data_dictionaries/permit_schema.json
+Boundaries - Wards (2023-),p293-wvbd,8,docs/data_dictionaries/wards_2023_schema.json

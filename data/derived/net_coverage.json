@@ -1,0 +1,38 @@
+[
+  {
+    "ward": 32,
+    "state": "Matched estimate",
+    "projects": 175,
+    "gross_units": 353
+  },
+  {
+    "ward": 32,
+    "state": "Unresolved",
+    "projects": 64,
+    "gross_units": 481
+  },
+  {
+    "ward": 1,
+    "state": "Matched estimate",
+    "projects": 76,
+    "gross_units": 263
+  },
+  {
+    "ward": 1,
+    "state": "Unresolved",
+    "projects": 37,
+    "gross_units": 357
+  },
+  {
+    "ward": 47,
+    "state": "Matched estimate",
+    "projects": 126,
+    "gross_units": 354
+  },
+  {
+    "ward": 47,
+    "state": "Unresolved",
+    "projects": 47,
+    "gross_units": 338
+  }
+]

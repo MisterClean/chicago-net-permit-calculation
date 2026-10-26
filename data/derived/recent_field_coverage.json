@@ -1,0 +1,110 @@
+[
+  {
+    "year": 2023,
+    "permit_type": "NEW CONSTRUCTION",
+    "records": 1224,
+    "with_pin10": 799,
+    "pinCoverage": 0.6527777777777778,
+    "with_current_ward": 1219,
+    "cancelled": 3
+  },
+  {
+    "year": 2023,
+    "permit_type": "RENOVATION/ALTERATION",
+    "records": 6428,
+    "with_pin10": 6338,
+    "pinCoverage": 0.9859987554449284,
+    "with_current_ward": 6398,
+    "cancelled": 14
+  },
+  {
+    "year": 2023,
+    "permit_type": "WRECKING/DEMOLITION",
+    "records": 615,
+    "with_pin10": 0,
+    "pinCoverage": 0.0,
+    "with_current_ward": 609,
+    "cancelled": 0
+  },
+  {
+    "year": 2024,
+    "permit_type": "NEW CONSTRUCTION",
+    "records": 1244,
+    "with_pin10": 826,
+    "pinCoverage": 0.6639871382636656,
+    "with_current_ward": 1242,
+    "cancelled": 1
+  },
+  {
+    "year": 2024,
+    "permit_type": "RENOVATION/ALTERATION",
+    "records": 6185,
+    "with_pin10": 6146,
+    "pinCoverage": 0.9936944219886823,
+    "with_current_ward": 6143,
+    "cancelled": 6
+  },
+  {
+    "year": 2024,
+    "permit_type": "WRECKING/DEMOLITION",
+    "records": 635,
+    "with_pin10": 0,
+    "pinCoverage": 0.0,
+    "with_current_ward": 632,
+    "cancelled": 0
+  },
+  {
+    "year": 2025,
+    "permit_type": "NEW CONSTRUCTION",
+    "records": 1460,
+    "with_pin10": 1033,
+    "pinCoverage": 0.7075342465753425,
+    "with_current_ward": 1453,
+    "cancelled": 5
+  },
+  {
+    "year": 2025,
+    "permit_type": "RENOVATION/ALTERATION",
+    "records": 5505,
+    "with_pin10": 5458,
+    "pinCoverage": 0.9914623069936421,
+    "with_current_ward": 5463,
+    "cancelled": 4
+  },
+  {
+    "year": 2025,
+    "permit_type": "WRECKING/DEMOLITION",
+    "records": 661,
+    "with_pin10": 0,
+    "pinCoverage": 0.0,
+    "with_current_ward": 657,
+    "cancelled": 0
+  },
+  {
+    "year": 2026,
+    "permit_type": "NEW CONSTRUCTION",
+    "records": 1247,
+    "with_pin10": 837,
+    "pinCoverage": 0.6712109061748196,
+    "with_current_ward": 1238,
+    "cancelled": 1
+  },
+  {
+    "year": 2026,
+    "permit_type": "RENOVATION/ALTERATION",
+    "records": 4240,
+    "with_pin10": 4223,
+    "pinCoverage": 0.9959905660377358,
+    "with_current_ward": 4212,
+    "cancelled": 1
+  },
+  {
+    "year": 2026,
+    "permit_type": "WRECKING/DEMOLITION",
+    "records": 522,
+    "with_pin10": 21,
+    "pinCoverage": 0.040229885057471264,
+    "with_current_ward": 511,
+    "cancelled": 0
+  }
+]

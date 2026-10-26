@@ -1,0 +1,71 @@
+{
+  "checks": [
+    {
+      "partition": "permits_records_2010_2019_demolition",
+      "expected": 12485,
+      "downloaded": 12485,
+      "where": "issue_date >= '2010-01-01T00:00:00' AND issue_date < '2020-01-01T00:00:00' AND permit_type='PERMIT - WRECKING/DEMOLITION'"
+    },
+    {
+      "partition": "permits_records_2017",
+      "expected": 11469,
+      "downloaded": 11469,
+      "where": "issue_date >= '2017-01-01T00:00:00' AND issue_date < '2018-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION')"
+    },
+    {
+      "partition": "permits_records_2018",
+      "expected": 11529,
+      "downloaded": 11529,
+      "where": "issue_date >= '2018-01-01T00:00:00' AND issue_date < '2019-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION')"
+    },
+    {
+      "partition": "permits_records_2019",
+      "expected": 11013,
+      "downloaded": 11013,
+      "where": "issue_date >= '2019-01-01T00:00:00' AND issue_date < '2020-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION')"
+    },
+    {
+      "partition": "permits_records_2020",
+      "expected": 9327,
+      "downloaded": 9327,
+      "where": "issue_date >= '2020-01-01T00:00:00' AND issue_date < '2021-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION','PERMIT - WRECKING/DEMOLITION')"
+    },
+    {
+      "partition": "permits_records_2021",
+      "expected": 9667,
+      "downloaded": 9667,
+      "where": "issue_date >= '2021-01-01T00:00:00' AND issue_date < '2022-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION','PERMIT - WRECKING/DEMOLITION')"
+    },
+    {
+      "partition": "permits_records_2022",
+      "expected": 10132,
+      "downloaded": 10132,
+      "where": "issue_date >= '2022-01-01T00:00:00' AND issue_date < '2023-01-01T00:00:00' AND permit_type in('PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION','PERMIT - WRECKING/DEMOLITION')"
+    },
+    {
+      "partition": "permits_records_2023",
+      "expected": 34389,
+      "downloaded": 34389,
+      "where": "issue_date >= '2023-01-01T00:00:00' AND issue_date < '2024-01-01T00:00:00'"
+    },
+    {
+      "partition": "permits_records_2024",
+      "expected": 33439,
+      "downloaded": 33439,
+      "where": "issue_date >= '2024-01-01T00:00:00' AND issue_date < '2025-01-01T00:00:00'"
+    },
+    {
+      "partition": "permits_records_2025",
+      "expected": 32032,
+      "downloaded": 32032,
+      "where": "issue_date >= '2025-01-01T00:00:00' AND issue_date < '2026-01-01T00:00:00'"
+    },
+    {
+      "partition": "permits_records_2026",
+      "expected": 24971,
+      "downloaded": 24971,
+      "where": "issue_date >= '2026-01-01T00:00:00' AND issue_date < '2026-10-09T00:00:00'"
+    }
+  ],
+  "errors": []
+}

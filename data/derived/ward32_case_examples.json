@@ -1,0 +1,196 @@
+[
+  {
+    "project_id": "new:100962980",
+    "ward": 32,
+    "cohort_date": "2023-01-11",
+    "address": "2159 N OAKLEY AVE",
+    "permit_numbers": [
+      "100962980"
+    ],
+    "kind": "new_construction",
+    "building_type": "single_family",
+    "gross_new_units": 1,
+    "partial_phase_only": false,
+    "filings": 1,
+    "linked_demolition_permits": [
+      "B100985903"
+    ],
+    "pre_clearance_date": "2022-12-12",
+    "baseline_units": 3,
+    "baseline_mfh_units": 3,
+    "baseline_year": 2021,
+    "baseline_requested_year": 2021,
+    "baseline_match": "native_pin10",
+    "baseline_pin10s": [
+      "1431120003"
+    ],
+    "baseline_sources": [
+      "residential"
+    ],
+    "baseline_flags": [],
+    "baseline_cards": 1,
+    "baseline_classes": [
+      "211"
+    ],
+    "net_project_units": -2,
+    "net_project_mfh_units": -3,
+    "intervening_authorization_permits": [],
+    "review_flags": [],
+    "description": "SPR 2019 CBC - ERECT 2-STORY SINGLE FAMILY RESIDENCE WITH BASEMENT. ERECT 2-CAR GARAGE. ERECT COMBINATION OF 5' HIGH WROUGHT IRON AND 6' HIGH PRIVACY FENCE.AS PER PLANS**CERTIFIED CORRECTIONS SUBJECT TO FIELD INSPECTIONS & AUDIT **"
+  },
+  {
+    "project_id": "new:101000816",
+    "ward": 32,
+    "cohort_date": "2023-03-07",
+    "address": "3523 N OAKLEY AVE",
+    "permit_numbers": [
+      "101000816"
+    ],
+    "kind": "new_construction",
+    "building_type": "single_family",
+    "gross_new_units": 1,
+    "partial_phase_only": false,
+    "filings": 1,
+    "linked_demolition_permits": [
+      "B100984865"
+    ],
+    "pre_clearance_date": "2023-02-09",
+    "baseline_units": 2,
+    "baseline_mfh_units": 2,
+    "baseline_year": 2022,
+    "baseline_requested_year": 2022,
+    "baseline_match": "native_pin10",
+    "baseline_pin10s": [
+      "1419302017"
+    ],
+    "baseline_sources": [
+      "residential"
+    ],
+    "baseline_flags": [],
+    "baseline_cards": 1,
+    "baseline_classes": [
+      "211"
+    ],
+    "net_project_units": -1,
+    "net_project_mfh_units": -2,
+    "intervening_authorization_permits": [],
+    "review_flags": [],
+    "description": "SC 2019 CBC: ERECT A 2 STORY MASONRY SINGLE FAMILY RESIDENCE WITH BASEMENT AND A DETACHED TWO CAR GARAGE WITH A ROOF DECK AND ACCESS STAIRS,  AS PER PLANS."
+  },
+  {
+    "project_id": "new:100998598",
+    "ward": 32,
+    "cohort_date": "2023-03-23",
+    "address": "3019 N LINCOLN AVE",
+    "permit_numbers": [
+      "100998598"
+    ],
+    "kind": "new_construction",
+    "building_type": "multifamily",
+    "gross_new_units": 3,
+    "partial_phase_only": false,
+    "filings": 1,
+    "linked_demolition_permits": [
+      "B100995874"
+    ],
+    "pre_clearance_date": "2023-02-22",
+    "baseline_units": 4,
+    "baseline_mfh_units": 4,
+    "baseline_year": 2022,
+    "baseline_requested_year": 2022,
+    "baseline_match": "native_pin10",
+    "baseline_pin10s": [
+      "1429109017"
+    ],
+    "baseline_sources": [
+      "residential"
+    ],
+    "baseline_flags": [],
+    "baseline_cards": 1,
+    "baseline_classes": [
+      "212"
+    ],
+    "net_project_units": -1,
+    "net_project_mfh_units": -1,
+    "intervening_authorization_permits": [],
+    "review_flags": [],
+    "description": "SELF-CERT 2019 CBC: FULL BUILDING PERMIT FOR 4 STORY 3 D.U. BUILDING, 1ST FLOOR RETAIL, ROOFTOP DECK, ROOFTOP STAIR ENCLOSURE, 1 CAR GARAGE AT 1ST FLOOR LEVEL, DETACHED 1 CAR GARAGE WITH ROOFTOP DECK, FRONT DECK & REAR PORCH WITH STAIR AT 2ND/3RD/4TH STORIES, 6' HIGH 4' BY 8'-10\" MASONRY TRASH ENCLOSURE, ENTIRE BUILDING SPRINKLERED, ELEVATOR OVER-RUN AS PER PLAN (OCCUPANCY GROUP R-2, M, TYPE IIIA CONSTRUCTION)."
+  },
+  {
+    "project_id": "new:100980037",
+    "ward": 32,
+    "cohort_date": "2023-03-24",
+    "address": "1457 W ROSCOE ST",
+    "permit_numbers": [
+      "100980037"
+    ],
+    "kind": "new_construction",
+    "building_type": "multifamily",
+    "gross_new_units": 3,
+    "partial_phase_only": false,
+    "filings": 1,
+    "linked_demolition_permits": [
+      "B100969525"
+    ],
+    "pre_clearance_date": "2022-07-26",
+    "baseline_units": 4,
+    "baseline_mfh_units": 4,
+    "baseline_year": 2021,
+    "baseline_requested_year": 2021,
+    "baseline_match": "native_pin10",
+    "baseline_pin10s": [
+      "1420317001"
+    ],
+    "baseline_sources": [
+      "residential"
+    ],
+    "baseline_flags": [],
+    "baseline_cards": 1,
+    "baseline_classes": [
+      "211"
+    ],
+    "net_project_units": -1,
+    "net_project_mfh_units": -1,
+    "intervening_authorization_permits": [],
+    "review_flags": [],
+    "description": "SC 2019 CBC: ERECT A 3 STORY, 3 DWELLING UNIT MASONRY BUILDING WITH A ROOF DECK, ACCESS STAIRCASE AND A THREE (3) UNENCLOSED OFF-STREET PARKING SPACES, ACCESSED BY THE PUBLIC ALLEY, AS PER PLANS. R-5/ III-A."
+  },
+  {
+    "project_id": "new:100970795",
+    "ward": 32,
+    "cohort_date": "2023-03-30",
+    "address": "2329 W FULLERTON AVE",
+    "permit_numbers": [
+      "100970795"
+    ],
+    "kind": "new_construction",
+    "building_type": "multifamily",
+    "gross_new_units": 4,
+    "partial_phase_only": false,
+    "filings": 1,
+    "linked_demolition_permits": [],
+    "pre_clearance_date": "2023-03-30",
+    "baseline_units": 0,
+    "baseline_mfh_units": 0,
+    "baseline_year": 2022,
+    "baseline_requested_year": 2022,
+    "baseline_match": "native_pin10",
+    "baseline_pin10s": [
+      "1431100013",
+      "1431100014"
+    ],
+    "baseline_sources": [
+      "classified_land_or_garage"
+    ],
+    "baseline_flags": [],
+    "baseline_cards": 0,
+    "baseline_classes": [
+      "100"
+    ],
+    "net_project_units": 4,
+    "net_project_mfh_units": 4,
+    "intervening_authorization_permits": [],
+    "review_flags": [],
+    "description": "SELF-CERT 2019 CBC: FULL BUILDING PERMIT FOR 3 STORY 4 D.U. BUILDING WITH BASEMENT, ROOFTOP DECK, ROOFTOP STAIR ENCLOSURES, DETACHED 5 CAR GARAGE WITH ROOF TOP DECK, REAR TERRACE AT 1ST STORY REAR BALCONY AT 2ND STORY AS PER PLAN (OCCUPANCY GROUP R-2, TYPE IIIA CONSTRUCTION)."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "ward": 32,
+    "year": 2023,
+    "known_event_subtotal": 73,
+    "unknown_events": 18,
+    "known_events": 97
+  },
+  {
+    "ward": 32,
+    "year": 2024,
+    "known_event_subtotal": 87,
+    "unknown_events": 26,
+    "known_events": 129
+  },
+  {
+    "ward": 32,
+    "year": 2025,
+    "known_event_subtotal": 148,
+    "unknown_events": 26,
+    "known_events": 107
+  },
+  {
+    "ward": 32,
+    "year": 2026,
+    "known_event_subtotal": 183,
+    "unknown_events": 25,
+    "known_events": 95
+  },
+  {
+    "ward": 1,
+    "year": 2023,
+    "known_event_subtotal": 6,
+    "unknown_events": 33,
+    "known_events": 47
+  },
+  {
+    "ward": 1,
+    "year": 2024,
+    "known_event_subtotal": 75,
+    "unknown_events": 26,
+    "known_events": 68
+  },
+  {
+    "ward": 1,
+    "year": 2025,
+    "known_event_subtotal": 98,
+    "unknown_events": 33,
+    "known_events": 46
+  },
+  {
+    "ward": 1,
+    "year": 2026,
+    "known_event_subtotal": 293,
+    "unknown_events": 31,
+    "known_events": 47
+  },
+  {
+    "ward": 47,
+    "year": 2023,
+    "known_event_subtotal": 169,
+    "unknown_events": 25,
+    "known_events": 90
+  },
+  {
+    "ward": 47,
+    "year": 2024,
+    "known_event_subtotal": 57,
+    "unknown_events": 26,
+    "known_events": 108
+  },
+  {
+    "ward": 47,
+    "year": 2025,
+    "known_event_subtotal": 141,
+    "unknown_events": 22,
+    "known_events": 111
+  },
+  {
+    "ward": 47,
+    "year": 2026,
+    "known_event_subtotal": 36,
+    "unknown_events": 7,
+    "known_events": 66
+  }
+]

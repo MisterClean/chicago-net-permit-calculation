@@ -1,0 +1,62 @@
+[
+  {
+    "ward": 32,
+    "outcome": "Negative",
+    "projects": 55
+  },
+  {
+    "ward": 32,
+    "outcome": "Zero",
+    "projects": 40
+  },
+  {
+    "ward": 32,
+    "outcome": "Positive",
+    "projects": 10
+  },
+  {
+    "ward": 32,
+    "outcome": "Unknown",
+    "projects": 25
+  },
+  {
+    "ward": 1,
+    "outcome": "Negative",
+    "projects": 12
+  },
+  {
+    "ward": 1,
+    "outcome": "Zero",
+    "projects": 16
+  },
+  {
+    "ward": 1,
+    "outcome": "Positive",
+    "projects": 7
+  },
+  {
+    "ward": 1,
+    "outcome": "Unknown",
+    "projects": 10
+  },
+  {
+    "ward": 47,
+    "outcome": "Negative",
+    "projects": 39
+  },
+  {
+    "ward": 47,
+    "outcome": "Zero",
+    "projects": 44
+  },
+  {
+    "ward": 47,
+    "outcome": "Positive",
+    "projects": 3
+  },
+  {
+    "ward": 47,
+    "outcome": "Unknown",
+    "projects": 24
+  }
+]

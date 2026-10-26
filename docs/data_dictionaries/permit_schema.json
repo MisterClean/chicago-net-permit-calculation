@@ -1,0 +1,704 @@
+{
+  "id": "ydr8-5enu",
+  "name": "Building Permits",
+  "description": "This dataset includes information about building permits issued by the City of Chicago from 2006 to the present, excluding permits that have been voided or revoked after issuance. Most types of permits are issued subject to payment of the applicable permit fee. Work under a permit may not begin until the applicable permit fee is paid. \n\nFor more information about building permits, see http://www.chicago.gov/permit.",
+  "rowsUpdatedAt": 1792670930,
+  "columns": [
+    {
+      "fieldName": "id",
+      "name": "ID",
+      "dataTypeName": "text",
+      "description": "Unique database record identifier"
+    },
+    {
+      "fieldName": "permit_",
+      "name": "PERMIT#",
+      "dataTypeName": "text",
+      "description": "Tracking number assigned at beginning of permit application process"
+    },
+    {
+      "fieldName": "permit_status",
+      "name": "PERMIT_STATUS",
+      "dataTypeName": "text",
+      "description": "Current status of permit (not available for all permit types)."
+    },
+    {
+      "fieldName": "permit_milestone",
+      "name": "PERMIT_MILESTONE",
+      "dataTypeName": "text",
+      "description": "Current milestone of permit (not available for all permit types)."
+    },
+    {
+      "fieldName": "permit_type",
+      "name": "PERMIT_TYPE",
+      "dataTypeName": "text",
+      "description": "Type of permit"
+    },
+    {
+      "fieldName": "review_type",
+      "name": "REVIEW_TYPE",
+      "dataTypeName": "text",
+      "description": "Process used to review permit application"
+    },
+    {
+      "fieldName": "application_start_date",
+      "name": "APPLICATION_START_DATE",
+      "dataTypeName": "calendar_date",
+      "description": "Date when City began reviewing permit application"
+    },
+    {
+      "fieldName": "issue_date",
+      "name": "ISSUE_DATE",
+      "dataTypeName": "calendar_date",
+      "description": "For most permit types, date when City determined permit was ready to issue, subject to payment of permit fees; For Express Permit Program, date when permit issued based on full payment of applicable permit fee"
+    },
+    {
+      "fieldName": "processing_time",
+      "name": "PROCESSING_TIME",
+      "dataTypeName": "number",
+      "description": "Number of days between APPLICATION_START_DATE and ISSUE_DATE"
+    },
+    {
+      "fieldName": "street_number",
+      "name": "STREET_NUMBER",
+      "dataTypeName": "number",
+      "description": "Address number - for buildings with address ranges, primary address is used"
+    },
+    {
+      "fieldName": "street_direction",
+      "name": "STREET_DIRECTION",
+      "dataTypeName": "text",
+      "description": "Street direction"
+    },
+    {
+      "fieldName": "street_name",
+      "name": "STREET_NAME",
+      "dataTypeName": "text",
+      "description": "Street name"
+    },
+    {
+      "fieldName": "work_type",
+      "name": "WORK_TYPE",
+      "dataTypeName": "text",
+      "description": "Classification of activity authorized by permit (not available for all permit types)."
+    },
+    {
+      "fieldName": "work_description",
+      "name": "WORK_DESCRIPTION",
+      "dataTypeName": "text",
+      "description": "Description of work authorized by the permit"
+    },
+    {
+      "fieldName": "permit_condition",
+      "name": "PERMIT_CONDITION",
+      "dataTypeName": "text",
+      "description": "Conditions or comments added by reviewing department(s)"
+    },
+    {
+      "fieldName": "building_fee_paid",
+      "name": "BUILDING_FEE_PAID",
+      "dataTypeName": "number",
+      "description": "Amount of building permit fees received"
+    },
+    {
+      "fieldName": "zoning_fee_paid",
+      "name": "ZONING_FEE_PAID",
+      "dataTypeName": "number",
+      "description": "Amount of zoning review fees received"
+    },
+    {
+      "fieldName": "other_fee_paid",
+      "name": "OTHER_FEE_PAID",
+      "dataTypeName": "number",
+      "description": "Amount of other permit-related fees received"
+    },
+    {
+      "fieldName": "subtotal_paid",
+      "name": "SUBTOTAL_PAID",
+      "dataTypeName": "number",
+      "description": "Sum of BUILDING_FEE_PAID, ZONING_FEE_PAID and OTHER_FEE_PAID"
+    },
+    {
+      "fieldName": "building_fee_unpaid",
+      "name": "BUILDING_FEE_UNPAID",
+      "dataTypeName": "number",
+      "description": "Amount of building permit fees due"
+    },
+    {
+      "fieldName": "zoning_fee_unpaid",
+      "name": "ZONING_FEE_UNPAID",
+      "dataTypeName": "number",
+      "description": "Amount of zoning review fees due"
+    },
+    {
+      "fieldName": "other_fee_unpaid",
+      "name": "OTHER_FEE_UNPAID",
+      "dataTypeName": "number",
+      "description": "Amount of other permit-related fees due"
+    },
+    {
+      "fieldName": "subtotal_unpaid",
+      "name": "SUBTOTAL_UNPAID",
+      "dataTypeName": "number",
+      "description": "Sum of BUILDING_FEE_UNPAID, ZONING_FEE_UNPAID and OTHER_FEE_UNPAID"
+    },
+    {
+      "fieldName": "building_fee_waived",
+      "name": "BUILDING_FEE_WAIVED",
+      "dataTypeName": "number",
+      "description": "Amount of building permit fees waived"
+    },
+    {
+      "fieldName": "building_fee_subtotal",
+      "name": "BUILDING_FEE_SUBTOTAL",
+      "dataTypeName": "number",
+      "description": "Sum of BUILDING_FEE_PAID, BUILDING_FEE_UNPAID and BUILDING_FEE_WAIVED"
+    },
+    {
+      "fieldName": "zoning_fee_subtotal",
+      "name": "ZONING_FEE_SUBTOTAL",
+      "dataTypeName": "number",
+      "description": "Sum of ZONING_FEE_PAID, ZONING _FEE_UNPAID and ZONING _FEE_WAIVED"
+    },
+    {
+      "fieldName": "other_fee_subtotal",
+      "name": "OTHER_FEE_SUBTOTAL",
+      "dataTypeName": "number",
+      "description": "Sum of OTHER_FEE_PAID, OTHER _FEE_UNPAID and OTHER _FEE_WAIVED"
+    },
+    {
+      "fieldName": "zoning_fee_waived",
+      "name": "ZONING_FEE_WAIVED",
+      "dataTypeName": "number",
+      "description": "Amount of zoning review fees waived"
+    },
+    {
+      "fieldName": "other_fee_waived",
+      "name": "OTHER_FEE_WAIVED",
+      "dataTypeName": "number",
+      "description": "Amount of other permit-related fees waived"
+    },
+    {
+      "fieldName": "subtotal_waived",
+      "name": "SUBTOTAL_WAIVED",
+      "dataTypeName": "number",
+      "description": "Sum of BUILDING_FEE_WAIVED, ZONING_FEE_WAIVED and OTHER_FEE_WAIVED"
+    },
+    {
+      "fieldName": "total_fee",
+      "name": "TOTAL_FEE",
+      "dataTypeName": "number",
+      "description": "Sum of SUBTOTAL_PAID, SUBTOTAL_UNPAID and SUBTOTAL_WAIVED"
+    },
+    {
+      "fieldName": "contact_1_type",
+      "name": "CONTACT_1_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 1's relationship to permit"
+    },
+    {
+      "fieldName": "contact_1_name",
+      "name": "CONTACT_1_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 1's full name"
+    },
+    {
+      "fieldName": "contact_1_city",
+      "name": "CONTACT_1_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 1's primary address city"
+    },
+    {
+      "fieldName": "contact_1_state",
+      "name": "CONTACT_1_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 1's primary address state"
+    },
+    {
+      "fieldName": "contact_1_zipcode",
+      "name": "CONTACT_1_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 1's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_2_type",
+      "name": "CONTACT_2_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 2's relationship to permit"
+    },
+    {
+      "fieldName": "contact_2_name",
+      "name": "CONTACT_2_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 2's full name"
+    },
+    {
+      "fieldName": "contact_2_city",
+      "name": "CONTACT_2_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 2's primary address city"
+    },
+    {
+      "fieldName": "contact_2_state",
+      "name": "CONTACT_2_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 2's primary address state"
+    },
+    {
+      "fieldName": "contact_2_zipcode",
+      "name": "CONTACT_2_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 2's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_3_type",
+      "name": "CONTACT_3_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 3's relationship to permit"
+    },
+    {
+      "fieldName": "contact_3_name",
+      "name": "CONTACT_3_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 3's full name"
+    },
+    {
+      "fieldName": "contact_3_city",
+      "name": "CONTACT_3_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 3's primary address city"
+    },
+    {
+      "fieldName": "contact_3_state",
+      "name": "CONTACT_3_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 3's primary address state"
+    },
+    {
+      "fieldName": "contact_3_zipcode",
+      "name": "CONTACT_3_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 3's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_4_type",
+      "name": "CONTACT_4_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 4's relationship to permit"
+    },
+    {
+      "fieldName": "contact_4_name",
+      "name": "CONTACT_4_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 4's full name"
+    },
+    {
+      "fieldName": "contact_4_city",
+      "name": "CONTACT_4_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 4's primary address city"
+    },
+    {
+      "fieldName": "contact_4_state",
+      "name": "CONTACT_4_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 4's primary address state"
+    },
+    {
+      "fieldName": "contact_4_zipcode",
+      "name": "CONTACT_4_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 4's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_5_type",
+      "name": "CONTACT_5_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 5's relationship to permit"
+    },
+    {
+      "fieldName": "contact_5_name",
+      "name": "CONTACT_5_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 5's full name"
+    },
+    {
+      "fieldName": "contact_5_city",
+      "name": "CONTACT_5_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 5's primary address city"
+    },
+    {
+      "fieldName": "contact_5_state",
+      "name": "CONTACT_5_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 5's primary address state"
+    },
+    {
+      "fieldName": "contact_5_zipcode",
+      "name": "CONTACT_5_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 5's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_6_type",
+      "name": "CONTACT_6_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 6's relationship to permit"
+    },
+    {
+      "fieldName": "contact_6_name",
+      "name": "CONTACT_6_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 6's full name"
+    },
+    {
+      "fieldName": "contact_6_city",
+      "name": "CONTACT_6_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 6's primary address city"
+    },
+    {
+      "fieldName": "contact_6_state",
+      "name": "CONTACT_6_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 6's primary address state"
+    },
+    {
+      "fieldName": "contact_6_zipcode",
+      "name": "CONTACT_6_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 6's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_7_type",
+      "name": "CONTACT_7_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 7's relationship to permit"
+    },
+    {
+      "fieldName": "contact_7_name",
+      "name": "CONTACT_7_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 7's full name"
+    },
+    {
+      "fieldName": "contact_7_city",
+      "name": "CONTACT_7_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 7's primary address city"
+    },
+    {
+      "fieldName": "contact_7_state",
+      "name": "CONTACT_7_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 7's primary address state"
+    },
+    {
+      "fieldName": "contact_7_zipcode",
+      "name": "CONTACT_7_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 7's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_8_type",
+      "name": "CONTACT_8_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 8's relationship to permit"
+    },
+    {
+      "fieldName": "contact_8_name",
+      "name": "CONTACT_8_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 8's full name"
+    },
+    {
+      "fieldName": "contact_8_city",
+      "name": "CONTACT_8_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 8's primary address city"
+    },
+    {
+      "fieldName": "contact_8_state",
+      "name": "CONTACT_8_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 8's primary address state"
+    },
+    {
+      "fieldName": "contact_8_zipcode",
+      "name": "CONTACT_8_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 8's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_9_type",
+      "name": "CONTACT_9_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 9's relationship to permit"
+    },
+    {
+      "fieldName": "contact_9_name",
+      "name": "CONTACT_9_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 9's full name"
+    },
+    {
+      "fieldName": "contact_9_city",
+      "name": "CONTACT_9_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 9's primary address city"
+    },
+    {
+      "fieldName": "contact_9_state",
+      "name": "CONTACT_9_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 9's primary address state"
+    },
+    {
+      "fieldName": "contact_9_zipcode",
+      "name": "CONTACT_9_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 9's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_10_type",
+      "name": "CONTACT_10_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 10's relationship to permit"
+    },
+    {
+      "fieldName": "contact_10_name",
+      "name": "CONTACT_10_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 10's full name"
+    },
+    {
+      "fieldName": "contact_10_city",
+      "name": "CONTACT_10_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 10's primary address city"
+    },
+    {
+      "fieldName": "contact_10_state",
+      "name": "CONTACT_10_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 10's primary address state"
+    },
+    {
+      "fieldName": "contact_10_zipcode",
+      "name": "CONTACT_10_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 10's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_11_type",
+      "name": "CONTACT_11_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 11's relationship to permit"
+    },
+    {
+      "fieldName": "contact_11_name",
+      "name": "CONTACT_11_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 11's full name"
+    },
+    {
+      "fieldName": "contact_11_city",
+      "name": "CONTACT_11_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 11's primary address city"
+    },
+    {
+      "fieldName": "contact_11_state",
+      "name": "CONTACT_11_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 11's primary address state"
+    },
+    {
+      "fieldName": "contact_11_zipcode",
+      "name": "CONTACT_11_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 11's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_12_type",
+      "name": "CONTACT_12_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 12's relationship to permit"
+    },
+    {
+      "fieldName": "contact_12_name",
+      "name": "CONTACT_12_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 12's full name"
+    },
+    {
+      "fieldName": "contact_12_city",
+      "name": "CONTACT_12_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 12's primary address city"
+    },
+    {
+      "fieldName": "contact_12_state",
+      "name": "CONTACT_12_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 12's primary address state"
+    },
+    {
+      "fieldName": "contact_12_zipcode",
+      "name": "CONTACT_12_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 12's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_13_type",
+      "name": "CONTACT_13_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 13's relationship to permit"
+    },
+    {
+      "fieldName": "contact_13_name",
+      "name": "CONTACT_13_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 13's full name"
+    },
+    {
+      "fieldName": "contact_13_city",
+      "name": "CONTACT_13_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 13's primary address city"
+    },
+    {
+      "fieldName": "contact_13_state",
+      "name": "CONTACT_13_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 13's primary address state"
+    },
+    {
+      "fieldName": "contact_13_zipcode",
+      "name": "CONTACT_13_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 13's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_14_type",
+      "name": "CONTACT_14_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 14's relationship to permit"
+    },
+    {
+      "fieldName": "contact_14_name",
+      "name": "CONTACT_14_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 14's full name"
+    },
+    {
+      "fieldName": "contact_14_city",
+      "name": "CONTACT_14_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 14's primary address city"
+    },
+    {
+      "fieldName": "contact_14_state",
+      "name": "CONTACT_14_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 14's primary address state"
+    },
+    {
+      "fieldName": "contact_14_zipcode",
+      "name": "CONTACT_14_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 14's primary address ZIP code"
+    },
+    {
+      "fieldName": "contact_15_type",
+      "name": "CONTACT_15_TYPE",
+      "dataTypeName": "text",
+      "description": "Contact 15's relationship to permit"
+    },
+    {
+      "fieldName": "contact_15_name",
+      "name": "CONTACT_15_NAME",
+      "dataTypeName": "text",
+      "description": "Contact 15's full name"
+    },
+    {
+      "fieldName": "contact_15_city",
+      "name": "CONTACT_15_CITY",
+      "dataTypeName": "text",
+      "description": "Contact 15's primary address city"
+    },
+    {
+      "fieldName": "contact_15_state",
+      "name": "CONTACT_15_STATE",
+      "dataTypeName": "text",
+      "description": "Contact 15's primary address state"
+    },
+    {
+      "fieldName": "contact_15_zipcode",
+      "name": "CONTACT_15_ZIPCODE",
+      "dataTypeName": "text",
+      "description": "Contact 15's primary address ZIP code"
+    },
+    {
+      "fieldName": "reported_cost",
+      "name": "REPORTED_COST",
+      "dataTypeName": "number",
+      "description": "Estimated cost of work provided by applicant (not available for all permits)"
+    },
+    {
+      "fieldName": "pin_list",
+      "name": "PIN_LIST",
+      "dataTypeName": "text",
+      "description": "Property index number(s) (PINs) disclosed by applicant and verified by city staff as part of permit application review (not available for all permits); PINs are assigned to parcels of land for property tax purposes. This column replaces columns PIN1 through PIN10, which will be removed soon, no earlier than 6/1/2024."
+    },
+    {
+      "fieldName": "community_area",
+      "name": "COMMUNITY_AREA",
+      "dataTypeName": "number",
+      "description": "The Chicago community area of the property's primary address. The community area map is available in a separate dataset."
+    },
+    {
+      "fieldName": "census_tract",
+      "name": "CENSUS_TRACT",
+      "dataTypeName": "number",
+      "description": "The census tract of the property's primary address. The census tract map is available in a separate dataset."
+    },
+    {
+      "fieldName": "ward",
+      "name": "WARD",
+      "dataTypeName": "number",
+      "description": "The ward (city council district) of the property's primary address at the time of permit issuance. The ward map is available in a separate dataset."
+    },
+    {
+      "fieldName": "xcoordinate",
+      "name": "XCOORDINATE",
+      "dataTypeName": "number",
+      "description": "The east-west coordinate of the property's primary address, defined in feet, based on NAD 83 - State Plane Eastern IL"
+    },
+    {
+      "fieldName": "ycoordinate",
+      "name": "YCOORDINATE",
+      "dataTypeName": "number",
+      "description": "The north-south coordinate of the property's primary address, defined in feet, based on NAD 83 - State Plane Eastern IL"
+    },
+    {
+      "fieldName": "latitude",
+      "name": "LATITUDE",
+      "dataTypeName": "number",
+      "description": "The latitude of the property's primary address"
+    },
+    {
+      "fieldName": "longitude",
+      "name": "LONGITUDE",
+      "dataTypeName": "number",
+      "description": "The longitude of the property's primary address"
+    },
+    {
+      "fieldName": "location",
+      "name": "LOCATION",
+      "dataTypeName": "point",
+      "description": "The location of the property's primary address in a format that allows for creation of maps and other geographic operations on this data portal"
+    }
+  ]
+}

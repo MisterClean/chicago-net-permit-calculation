@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the source snapshot date and this repository when using the analysis."
+title: "Chicago net permitted housing units"
+type: software
+authors:
+  - family-names: McLean
+    given-names: Michael
+date-released: 2026-10-22
+repository-code: "https://github.com/MisterClean/chicago-net-permit-calculation"
+license: MIT
+abstract: "Reproducible analysis of Chicago gross and net permitted housing units using historical pre-clearance assessor baselines, staged-project linkage, and explicit uncertainty."

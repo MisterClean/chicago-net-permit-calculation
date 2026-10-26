@@ -1,0 +1,10202 @@
+[
+  {
+    "ward": 1,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 1,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 32
+  },
+  {
+    "ward": 1,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 1,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 40
+  },
+  {
+    "ward": 1,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 30
+  },
+  {
+    "ward": 1,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 187
+  },
+  {
+    "ward": 1,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 40
+  },
+  {
+    "ward": 1,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 159
+  },
+  {
+    "ward": 1,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 62
+  },
+  {
+    "ward": 1,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 240
+  },
+  {
+    "ward": 1,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 35
+  },
+  {
+    "ward": 1,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 509
+  },
+  {
+    "ward": 1,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 39
+  },
+  {
+    "ward": 1,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 276
+  },
+  {
+    "ward": 1,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 42
+  },
+  {
+    "ward": 1,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 643
+  },
+  {
+    "ward": 1,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 1,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 409
+  },
+  {
+    "ward": 1,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 1,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 408
+  },
+  {
+    "ward": 1,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 1,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 95
+  },
+  {
+    "ward": 1,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 27
+  },
+  {
+    "ward": 1,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 1,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 1,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 132
+  },
+  {
+    "ward": 1,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 1,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 1,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 1,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 132
+  },
+  {
+    "ward": 1,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 1,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 130
+  },
+  {
+    "ward": 1,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 1,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 290
+  },
+  {
+    "ward": 2,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 2,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 410
+  },
+  {
+    "ward": 2,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 2,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 761
+  },
+  {
+    "ward": 2,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 2,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 354
+  },
+  {
+    "ward": 2,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 2,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 82
+  },
+  {
+    "ward": 2,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 2,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 392
+  },
+  {
+    "ward": 2,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 2,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 2815
+  },
+  {
+    "ward": 2,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 2,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 1287
+  },
+  {
+    "ward": 2,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 2,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 66
+  },
+  {
+    "ward": 2,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 2,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 556
+  },
+  {
+    "ward": 2,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 2,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 156
+  },
+  {
+    "ward": 2,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 2,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 92
+  },
+  {
+    "ward": 2,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 2,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 39
+  },
+  {
+    "ward": 2,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 2,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 278
+  },
+  {
+    "ward": 2,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 2,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 2,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 2,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 141
+  },
+  {
+    "ward": 2,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 2,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 74
+  },
+  {
+    "ward": 2,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 2,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 3,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 3,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 3,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 3,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 146
+  },
+  {
+    "ward": 3,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 3,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 3,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 3,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 111
+  },
+  {
+    "ward": 3,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 3,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 209
+  },
+  {
+    "ward": 3,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 3,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 313
+  },
+  {
+    "ward": 3,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 3,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 723
+  },
+  {
+    "ward": 3,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 3,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 551
+  },
+  {
+    "ward": 3,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 27
+  },
+  {
+    "ward": 3,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 494
+  },
+  {
+    "ward": 3,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 3,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 545
+  },
+  {
+    "ward": 3,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 3,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 64
+  },
+  {
+    "ward": 3,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 3,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 539
+  },
+  {
+    "ward": 3,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 3,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 206
+  },
+  {
+    "ward": 3,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 3,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 613
+  },
+  {
+    "ward": 3,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 3,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 151
+  },
+  {
+    "ward": 3,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 3,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 257
+  },
+  {
+    "ward": 3,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 3,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 167
+  },
+  {
+    "ward": 4,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 4,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 78
+  },
+  {
+    "ward": 4,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 4,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 96
+  },
+  {
+    "ward": 4,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 4,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 198
+  },
+  {
+    "ward": 4,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 4,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 104
+  },
+  {
+    "ward": 4,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 4,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 853
+  },
+  {
+    "ward": 4,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 4,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 4,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 4,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 504
+  },
+  {
+    "ward": 4,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 4,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 530
+  },
+  {
+    "ward": 4,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 4,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 194
+  },
+  {
+    "ward": 4,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 4,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 770
+  },
+  {
+    "ward": 4,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 4,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 33
+  },
+  {
+    "ward": 4,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 4,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 93
+  },
+  {
+    "ward": 4,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 4,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 256
+  },
+  {
+    "ward": 4,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 4,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 65
+  },
+  {
+    "ward": 4,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 4,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 72
+  },
+  {
+    "ward": 4,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 4,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 32
+  },
+  {
+    "ward": 4,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 4,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 71
+  },
+  {
+    "ward": 5,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 5,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 5,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 250
+  },
+  {
+    "ward": 5,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 5,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 246
+  },
+  {
+    "ward": 5,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 5,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 5,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 5,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 5,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 5,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 5,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 5,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 20
+  },
+  {
+    "ward": 5,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 5,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 22
+  },
+  {
+    "ward": 5,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 5,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 5,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 5,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 6,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 6,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 60
+  },
+  {
+    "ward": 6,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 6,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 6,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 6,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 6,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 6,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 6,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 6,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 6,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 6,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 6,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 7,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 7,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 7,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 88
+  },
+  {
+    "ward": 7,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 7,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 7,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 7,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 7,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 7,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 7,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 7,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 7,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 43
+  },
+  {
+    "ward": 7,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 7,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 8,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 8,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 8,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 8,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 8,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 140
+  },
+  {
+    "ward": 8,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 8,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 8,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 134
+  },
+  {
+    "ward": 8,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 8,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 8,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 8,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 8,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 8,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 8,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 9,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 9,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 9,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 9,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 26
+  },
+  {
+    "ward": 9,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 9,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 9,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 9,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 9,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 9,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 9,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 10,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 10,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 10,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 81
+  },
+  {
+    "ward": 10,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 10,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 10,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 10,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 11,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 11,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 11,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 27
+  },
+  {
+    "ward": 11,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 11,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 31
+  },
+  {
+    "ward": 11,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 27
+  },
+  {
+    "ward": 11,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 66
+  },
+  {
+    "ward": 11,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 11,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 53
+  },
+  {
+    "ward": 11,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 11,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 57
+  },
+  {
+    "ward": 11,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 73
+  },
+  {
+    "ward": 11,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 53
+  },
+  {
+    "ward": 11,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 27
+  },
+  {
+    "ward": 11,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 64
+  },
+  {
+    "ward": 11,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 11,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 37
+  },
+  {
+    "ward": 11,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 39
+  },
+  {
+    "ward": 11,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 32
+  },
+  {
+    "ward": 11,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 36
+  },
+  {
+    "ward": 11,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 11,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 81
+  },
+  {
+    "ward": 11,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 36
+  },
+  {
+    "ward": 11,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 28
+  },
+  {
+    "ward": 11,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 11,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 11,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 11,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 11,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 11,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 11,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 11,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 46
+  },
+  {
+    "ward": 11,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 11,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 35
+  },
+  {
+    "ward": 12,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 12,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 12,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 12,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 12,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 12,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 12,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 12,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 12,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 12,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 68
+  },
+  {
+    "ward": 12,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 12,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 12,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 12,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 12,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 12,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 89
+  },
+  {
+    "ward": 12,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 12,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 12,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 12,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 12,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 12,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 12,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 7
+  },
+  {
+    "ward": 12,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 12,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 12,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 12,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 12,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 12,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 24
+  },
+  {
+    "ward": 13,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 13,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 13,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 13,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 13,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 13,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 29
+  },
+  {
+    "ward": 13,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 13,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 13,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 13,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 13,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 13,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 13,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 13,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 13,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 13,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 13,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 13,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 14,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 14,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 14,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 78
+  },
+  {
+    "ward": 14,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 14,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 14,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 14,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 14,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 14,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 14,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 15,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 15,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 15,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 15,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 15,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 15,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 15,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 15,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 15,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 15,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 15,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 15,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 15,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 15,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 15,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 15,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 15,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 15,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 15,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 15,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 16,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 16,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 16,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 77
+  },
+  {
+    "ward": 16,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 24
+  },
+  {
+    "ward": 16,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 16,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 16,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 16,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 102
+  },
+  {
+    "ward": 16,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 16,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 17
+  },
+  {
+    "ward": 16,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 16,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 16,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 16,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 62
+  },
+  {
+    "ward": 16,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 16,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 16,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 16,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 17,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 54
+  },
+  {
+    "ward": 17,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 17,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 17,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 58
+  },
+  {
+    "ward": 17,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 17,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 17,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 17,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 17,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 17,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 17,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 18,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 18,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 18,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 18,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 18,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 18,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 18,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 18,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 18,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 18,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 19,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 146
+  },
+  {
+    "ward": 19,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 19,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 19,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 28
+  },
+  {
+    "ward": 19,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 19,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 19,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 19,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 19,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 19,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 19,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 19,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 19,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 19,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 19,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 19,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 19,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 19,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 19,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 19,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 19,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 19,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 20,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 20,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 67
+  },
+  {
+    "ward": 20,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 20,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 20,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 20,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 39
+  },
+  {
+    "ward": 20,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 20,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 20,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 20,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 50
+  },
+  {
+    "ward": 20,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 20,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 58
+  },
+  {
+    "ward": 20,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 20,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 35
+  },
+  {
+    "ward": 20,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 20,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 140
+  },
+  {
+    "ward": 20,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 20,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 67
+  },
+  {
+    "ward": 20,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 20,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 20,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 20,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 243
+  },
+  {
+    "ward": 20,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 20,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 177
+  },
+  {
+    "ward": 20,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 20,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 151
+  },
+  {
+    "ward": 20,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 20,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 152
+  },
+  {
+    "ward": 20,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 20,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 111
+  },
+  {
+    "ward": 20,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 33
+  },
+  {
+    "ward": 20,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 194
+  },
+  {
+    "ward": 20,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 20,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 75
+  },
+  {
+    "ward": 21,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 21,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 100
+  },
+  {
+    "ward": 21,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 21,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 21,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 21,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 21,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 92
+  },
+  {
+    "ward": 21,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 21,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 21,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 21,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 21,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 21,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 36
+  },
+  {
+    "ward": 21,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 21,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 21,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 21,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 21,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 21,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 21,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 21,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 21,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 21,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 21,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 21,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 22
+  },
+  {
+    "ward": 22,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 22,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 22,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 95
+  },
+  {
+    "ward": 22,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 22,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 65
+  },
+  {
+    "ward": 22,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 22,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 22,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 22,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 22,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 22,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 22,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 183
+  },
+  {
+    "ward": 22,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 22,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 23,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 23,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 23,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 89
+  },
+  {
+    "ward": 23,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 23,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 23,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 23,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 23,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 23,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 23,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 23,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 23,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 23,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 23,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 23,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 23,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 23,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 23,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 23,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 24,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 102
+  },
+  {
+    "ward": 24,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 24,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 24,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 172
+  },
+  {
+    "ward": 24,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 24,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 24,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 24,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 24,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 24,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 24,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 24,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 24,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 67
+  },
+  {
+    "ward": 24,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 24,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 26
+  },
+  {
+    "ward": 24,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 36
+  },
+  {
+    "ward": 24,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 77
+  },
+  {
+    "ward": 24,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 24,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 107
+  },
+  {
+    "ward": 25,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 25,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 25
+  },
+  {
+    "ward": 25,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 25,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 25,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 25,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 25,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 25,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 11
+  },
+  {
+    "ward": 25,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 25,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 57
+  },
+  {
+    "ward": 25,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 25,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 25,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 25,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 25,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 25,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 218
+  },
+  {
+    "ward": 25,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 25,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 73
+  },
+  {
+    "ward": 25,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 25,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 100
+  },
+  {
+    "ward": 25,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 25,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 35
+  },
+  {
+    "ward": 25,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 25,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 110
+  },
+  {
+    "ward": 25,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 25,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 25,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 25,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 54
+  },
+  {
+    "ward": 25,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 25,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 143
+  },
+  {
+    "ward": 25,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 25,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 51
+  },
+  {
+    "ward": 25,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 25,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 52
+  },
+  {
+    "ward": 26,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 26,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 26,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 26,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 46
+  },
+  {
+    "ward": 26,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 29
+  },
+  {
+    "ward": 26,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 26,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 40
+  },
+  {
+    "ward": 26,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 88
+  },
+  {
+    "ward": 26,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 45
+  },
+  {
+    "ward": 26,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 26,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 26,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 154
+  },
+  {
+    "ward": 26,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 26,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 90
+  },
+  {
+    "ward": 26,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 26,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 147
+  },
+  {
+    "ward": 26,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 26,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 132
+  },
+  {
+    "ward": 26,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 26,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 65
+  },
+  {
+    "ward": 26,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 35
+  },
+  {
+    "ward": 26,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 26,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 33
+  },
+  {
+    "ward": 26,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 40
+  },
+  {
+    "ward": 26,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 26,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 80
+  },
+  {
+    "ward": 26,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 26,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 111
+  },
+  {
+    "ward": 26,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 26,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 56
+  },
+  {
+    "ward": 26,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 26,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 26,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 26,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 75
+  },
+  {
+    "ward": 27,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 27,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 267
+  },
+  {
+    "ward": 27,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 27,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 23
+  },
+  {
+    "ward": 27,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 27,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 27,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 27,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 165
+  },
+  {
+    "ward": 27,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 27,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 437
+  },
+  {
+    "ward": 27,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 27,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 929
+  },
+  {
+    "ward": 27,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 27,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 925
+  },
+  {
+    "ward": 27,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 27,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 1212
+  },
+  {
+    "ward": 27,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 27,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 132
+  },
+  {
+    "ward": 27,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 27,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 1024
+  },
+  {
+    "ward": 27,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 27,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 1192
+  },
+  {
+    "ward": 27,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 27,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 1013
+  },
+  {
+    "ward": 27,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 27,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 3154
+  },
+  {
+    "ward": 27,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 27,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 406
+  },
+  {
+    "ward": 27,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 27,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 675
+  },
+  {
+    "ward": 27,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 27,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 1248
+  },
+  {
+    "ward": 27,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 27,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 685
+  },
+  {
+    "ward": 28,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 143
+  },
+  {
+    "ward": 28,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 28,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 28,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 20
+  },
+  {
+    "ward": 28,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 28,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 36
+  },
+  {
+    "ward": 28,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 28,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 28,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 28,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 75
+  },
+  {
+    "ward": 28,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 28,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 150
+  },
+  {
+    "ward": 28,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 28,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 28,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 28,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 121
+  },
+  {
+    "ward": 28,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 28,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 738
+  },
+  {
+    "ward": 28,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 28,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 344
+  },
+  {
+    "ward": 28,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 28,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 29
+  },
+  {
+    "ward": 28,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 28,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 237
+  },
+  {
+    "ward": 28,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 28,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 117
+  },
+  {
+    "ward": 28,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 28,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 142
+  },
+  {
+    "ward": 29,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 29,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 29,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 29,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 29,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 29,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 95
+  },
+  {
+    "ward": 29,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 29,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 90
+  },
+  {
+    "ward": 29,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 29,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 29,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 29,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 29,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 29,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 29,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 29,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 29,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 29,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 29,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 29,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 29,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 29,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 153
+  },
+  {
+    "ward": 29,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 29,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 20
+  },
+  {
+    "ward": 29,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 29,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 30,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 30,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 30,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 30,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 30,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 30,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 30,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 30,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 38
+  },
+  {
+    "ward": 30,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 30,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 30,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 25
+  },
+  {
+    "ward": 30,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 30,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 42
+  },
+  {
+    "ward": 30,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 30,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 30,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 30,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 30,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 11
+  },
+  {
+    "ward": 30,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 30,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 30,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 30,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 116
+  },
+  {
+    "ward": 30,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 30,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 30,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 30,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 25
+  },
+  {
+    "ward": 30,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 30,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 30,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 30,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 29
+  },
+  {
+    "ward": 30,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 30,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 30,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 30,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 31,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 31,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 31,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 31,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 31,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 31,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 31,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 31,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 31,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 104
+  },
+  {
+    "ward": 31,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 31,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 31,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 31,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 31,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 31,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 25
+  },
+  {
+    "ward": 31,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 31,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 31,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 31,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 31,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 31,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 31,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 31,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 32,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 32,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 32,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 46
+  },
+  {
+    "ward": 32,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 36
+  },
+  {
+    "ward": 32,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 64
+  },
+  {
+    "ward": 32,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 46
+  },
+  {
+    "ward": 32,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 108
+  },
+  {
+    "ward": 32,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 112
+  },
+  {
+    "ward": 32,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 112
+  },
+  {
+    "ward": 32,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 177
+  },
+  {
+    "ward": 32,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 101
+  },
+  {
+    "ward": 32,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 183
+  },
+  {
+    "ward": 32,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 89
+  },
+  {
+    "ward": 32,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 425
+  },
+  {
+    "ward": 32,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 43
+  },
+  {
+    "ward": 32,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 298
+  },
+  {
+    "ward": 32,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 38
+  },
+  {
+    "ward": 32,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 176
+  },
+  {
+    "ward": 32,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 44
+  },
+  {
+    "ward": 32,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 179
+  },
+  {
+    "ward": 32,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 33
+  },
+  {
+    "ward": 32,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 94
+  },
+  {
+    "ward": 32,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 48
+  },
+  {
+    "ward": 32,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 32,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 35
+  },
+  {
+    "ward": 32,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 72
+  },
+  {
+    "ward": 32,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 33
+  },
+  {
+    "ward": 32,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 121
+  },
+  {
+    "ward": 32,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 44
+  },
+  {
+    "ward": 32,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 141
+  },
+  {
+    "ward": 32,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 36
+  },
+  {
+    "ward": 32,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 196
+  },
+  {
+    "ward": 32,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 37
+  },
+  {
+    "ward": 32,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 219
+  },
+  {
+    "ward": 33,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 33,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 33,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 33,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 33,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 33,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 22
+  },
+  {
+    "ward": 33,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 33,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 86
+  },
+  {
+    "ward": 33,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 33,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 69
+  },
+  {
+    "ward": 33,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 33,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 33,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 33,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 33,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 33,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 33,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 33,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 64
+  },
+  {
+    "ward": 33,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 33,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 33,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 33,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 33,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 30
+  },
+  {
+    "ward": 33,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 90
+  },
+  {
+    "ward": 33,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 33,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 33,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 33,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 33
+  },
+  {
+    "ward": 33,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 33,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 33,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 33,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 112
+  },
+  {
+    "ward": 33,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 33,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 34,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 171
+  },
+  {
+    "ward": 34,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 34,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 502
+  },
+  {
+    "ward": 34,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 1331
+  },
+  {
+    "ward": 34,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 1880
+  },
+  {
+    "ward": 34,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 34,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 34,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 2234
+  },
+  {
+    "ward": 34,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 1531
+  },
+  {
+    "ward": 34,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 2010
+  },
+  {
+    "ward": 34,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 34,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 396
+  },
+  {
+    "ward": 34,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 34,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 570
+  },
+  {
+    "ward": 34,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 34,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 521
+  },
+  {
+    "ward": 34,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 1112
+  },
+  {
+    "ward": 34,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 190
+  },
+  {
+    "ward": 34,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 440
+  },
+  {
+    "ward": 34,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 34,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 34,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 681
+  },
+  {
+    "ward": 35,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 35,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 35,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 35,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 35,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 35,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 35,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 35,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 51
+  },
+  {
+    "ward": 35,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 35,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 35,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 35,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 40
+  },
+  {
+    "ward": 35,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 35,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 27
+  },
+  {
+    "ward": 35,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 26
+  },
+  {
+    "ward": 35,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 35,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 35,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 113
+  },
+  {
+    "ward": 35,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 35,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 80
+  },
+  {
+    "ward": 35,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 35,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 145
+  },
+  {
+    "ward": 35,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 35,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 40
+  },
+  {
+    "ward": 35,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 35,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 35,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 35,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 63
+  },
+  {
+    "ward": 35,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 35,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 35,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 35,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 35,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 35,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 25
+  },
+  {
+    "ward": 36,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 36,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 26
+  },
+  {
+    "ward": 36,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 36,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 36,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 32
+  },
+  {
+    "ward": 36,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 44
+  },
+  {
+    "ward": 36,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 46
+  },
+  {
+    "ward": 36,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 120
+  },
+  {
+    "ward": 36,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 40
+  },
+  {
+    "ward": 36,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 72
+  },
+  {
+    "ward": 36,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 36,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 123
+  },
+  {
+    "ward": 36,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 25
+  },
+  {
+    "ward": 36,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 129
+  },
+  {
+    "ward": 36,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 36,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 37
+  },
+  {
+    "ward": 36,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 24
+  },
+  {
+    "ward": 36,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 91
+  },
+  {
+    "ward": 36,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 36,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 37
+  },
+  {
+    "ward": 36,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 36,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 86
+  },
+  {
+    "ward": 36,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 36,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 90
+  },
+  {
+    "ward": 36,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 36,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 36,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 36,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 24
+  },
+  {
+    "ward": 36,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 36,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 26
+  },
+  {
+    "ward": 36,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 36,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 61
+  },
+  {
+    "ward": 36,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 36,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 26
+  },
+  {
+    "ward": 37,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 37,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 37,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 37,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 37,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 37,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 37,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 37,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 37,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 37,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 37,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 37,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 37,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 37,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 37,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 37,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 37,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 37,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 37,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 37,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 7
+  },
+  {
+    "ward": 37,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 37,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 37,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 37,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 38,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 38,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 38,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 38,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 38,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 38,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 38,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 38,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 38,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 38,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 38,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 38,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 38,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 38,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 38,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 38,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 38,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 38,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 38,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 38,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 38,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 38,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 38,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 38,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 38,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 38,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 24
+  },
+  {
+    "ward": 38,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 38,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 39,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 39,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 39,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 39,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 29
+  },
+  {
+    "ward": 39,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 39,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 39,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 39,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 67
+  },
+  {
+    "ward": 39,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 39,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 39,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 39,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 39,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 39,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 39,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 39,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 39,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 37
+  },
+  {
+    "ward": 39,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 39,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 17
+  },
+  {
+    "ward": 39,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 39,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 39,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 39,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 39,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 39,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 39,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 40,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 40,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 40,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 40,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 40,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 40,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 40,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 40,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 40,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 40,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 40,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 30
+  },
+  {
+    "ward": 40,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 37
+  },
+  {
+    "ward": 40,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 40,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 40,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 40,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 40,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 40,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 72
+  },
+  {
+    "ward": 40,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 40,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 40,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 40,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 72
+  },
+  {
+    "ward": 40,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 22
+  },
+  {
+    "ward": 40,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 40,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 31
+  },
+  {
+    "ward": 40,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 120
+  },
+  {
+    "ward": 40,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 40,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 40,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 40,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 40,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 40,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 67
+  },
+  {
+    "ward": 40,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 40,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 50
+  },
+  {
+    "ward": 41,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 41,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 41,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 41,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 41,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 41,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 41,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 41,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 41,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 41,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 41,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 41,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 41,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 41,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 41,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 41,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 41,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 41,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 41,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 48
+  },
+  {
+    "ward": 41,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 13
+  },
+  {
+    "ward": 41,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 41,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 41,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 41,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 41,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 41,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 13
+  },
+  {
+    "ward": 42,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 42,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 89
+  },
+  {
+    "ward": 42,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 1351
+  },
+  {
+    "ward": 42,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 42,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 848
+  },
+  {
+    "ward": 42,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 42,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 507
+  },
+  {
+    "ward": 42,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 1150
+  },
+  {
+    "ward": 42,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 407
+  },
+  {
+    "ward": 42,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 42,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 2046
+  },
+  {
+    "ward": 42,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 1222
+  },
+  {
+    "ward": 42,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 42,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 2459
+  },
+  {
+    "ward": 42,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 381
+  },
+  {
+    "ward": 42,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 227
+  },
+  {
+    "ward": 42,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 337
+  },
+  {
+    "ward": 42,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 635
+  },
+  {
+    "ward": 42,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 42,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 42,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 205
+  },
+  {
+    "ward": 42,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 42,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 43,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 43,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 43,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 43,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 43,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 43,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 25
+  },
+  {
+    "ward": 43,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 32
+  },
+  {
+    "ward": 43,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 64
+  },
+  {
+    "ward": 43,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 46
+  },
+  {
+    "ward": 43,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 41
+  },
+  {
+    "ward": 43,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 26
+  },
+  {
+    "ward": 43,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 74
+  },
+  {
+    "ward": 43,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 25
+  },
+  {
+    "ward": 43,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 250
+  },
+  {
+    "ward": 43,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 23
+  },
+  {
+    "ward": 43,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 762
+  },
+  {
+    "ward": 43,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 43,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 160
+  },
+  {
+    "ward": 43,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 43,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 128
+  },
+  {
+    "ward": 43,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 43,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 66
+  },
+  {
+    "ward": 43,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 43,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 148
+  },
+  {
+    "ward": 43,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 43,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 154
+  },
+  {
+    "ward": 43,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 43,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 38
+  },
+  {
+    "ward": 43,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 17
+  },
+  {
+    "ward": 43,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 43,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 43,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 61
+  },
+  {
+    "ward": 43,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 9
+  },
+  {
+    "ward": 43,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 88
+  },
+  {
+    "ward": 44,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 44,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 15
+  },
+  {
+    "ward": 44,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 44,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 38
+  },
+  {
+    "ward": 44,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 44,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 58
+  },
+  {
+    "ward": 44,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 44,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 70
+  },
+  {
+    "ward": 44,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 44,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 96
+  },
+  {
+    "ward": 44,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 44,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 217
+  },
+  {
+    "ward": 44,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 44,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 232
+  },
+  {
+    "ward": 44,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 44,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 111
+  },
+  {
+    "ward": 44,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 44,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 163
+  },
+  {
+    "ward": 44,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 44,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 263
+  },
+  {
+    "ward": 44,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 44,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 267
+  },
+  {
+    "ward": 44,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 44,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 85
+  },
+  {
+    "ward": 44,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 44,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 31
+  },
+  {
+    "ward": 44,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 44,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 187
+  },
+  {
+    "ward": 44,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 44,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 43
+  },
+  {
+    "ward": 44,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 44,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 75
+  },
+  {
+    "ward": 44,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 44,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 84
+  },
+  {
+    "ward": 45,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 45,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 45,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 45,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 45,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 45,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 45,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 45,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 110
+  },
+  {
+    "ward": 45,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 45,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 45,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 45,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 34
+  },
+  {
+    "ward": 45,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 16
+  },
+  {
+    "ward": 45,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 45,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 20
+  },
+  {
+    "ward": 45,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 61
+  },
+  {
+    "ward": 45,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 15
+  },
+  {
+    "ward": 45,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 29
+  },
+  {
+    "ward": 45,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 21
+  },
+  {
+    "ward": 45,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 38
+  },
+  {
+    "ward": 45,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 8
+  },
+  {
+    "ward": 45,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 33
+  },
+  {
+    "ward": 45,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 10
+  },
+  {
+    "ward": 45,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 45,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 18
+  },
+  {
+    "ward": 45,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 45,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 45,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 29
+  },
+  {
+    "ward": 45,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 14
+  },
+  {
+    "ward": 45,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 45,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 19
+  },
+  {
+    "ward": 45,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 45,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 45,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 46,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 21
+  },
+  {
+    "ward": 46,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 46,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 285
+  },
+  {
+    "ward": 46,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 19
+  },
+  {
+    "ward": 46,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 32
+  },
+  {
+    "ward": 46,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 173
+  },
+  {
+    "ward": 46,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 536
+  },
+  {
+    "ward": 46,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 46,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 208
+  },
+  {
+    "ward": 46,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 46,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 320
+  },
+  {
+    "ward": 46,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 272
+  },
+  {
+    "ward": 46,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 639
+  },
+  {
+    "ward": 46,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 51
+  },
+  {
+    "ward": 46,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 43
+  },
+  {
+    "ward": 46,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 46,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 101
+  },
+  {
+    "ward": 46,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 46,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 142
+  },
+  {
+    "ward": 47,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 25
+  },
+  {
+    "ward": 47,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 47,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 39
+  },
+  {
+    "ward": 47,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 47,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 50
+  },
+  {
+    "ward": 47,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 47
+  },
+  {
+    "ward": 47,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 67
+  },
+  {
+    "ward": 47,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 384
+  },
+  {
+    "ward": 47,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 75
+  },
+  {
+    "ward": 47,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 127
+  },
+  {
+    "ward": 47,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 67
+  },
+  {
+    "ward": 47,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 76
+  },
+  {
+    "ward": 47,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 51
+  },
+  {
+    "ward": 47,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 117
+  },
+  {
+    "ward": 47,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 35
+  },
+  {
+    "ward": 47,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 151
+  },
+  {
+    "ward": 47,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 46
+  },
+  {
+    "ward": 47,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 315
+  },
+  {
+    "ward": 47,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 37
+  },
+  {
+    "ward": 47,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 40
+  },
+  {
+    "ward": 47,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 28
+  },
+  {
+    "ward": 47,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 79
+  },
+  {
+    "ward": 47,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 39
+  },
+  {
+    "ward": 47,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 319
+  },
+  {
+    "ward": 47,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 41
+  },
+  {
+    "ward": 47,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 234
+  },
+  {
+    "ward": 47,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 26
+  },
+  {
+    "ward": 47,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 191
+  },
+  {
+    "ward": 47,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 47
+  },
+  {
+    "ward": 47,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 122
+  },
+  {
+    "ward": 47,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 36
+  },
+  {
+    "ward": 47,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 175
+  },
+  {
+    "ward": 47,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 27
+  },
+  {
+    "ward": 47,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 42
+  },
+  {
+    "ward": 48,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 6
+  },
+  {
+    "ward": 48,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 5
+  },
+  {
+    "ward": 48,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 24
+  },
+  {
+    "ward": 48,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 10
+  },
+  {
+    "ward": 48,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 48,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 45
+  },
+  {
+    "ward": 48,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 48,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 179
+  },
+  {
+    "ward": 48,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 160
+  },
+  {
+    "ward": 48,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 78
+  },
+  {
+    "ward": 48,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 48,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 95
+  },
+  {
+    "ward": 48,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 143
+  },
+  {
+    "ward": 48,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 266
+  },
+  {
+    "ward": 48,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 48,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 108
+  },
+  {
+    "ward": 48,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 48,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 48,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 126
+  },
+  {
+    "ward": 49,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 7
+  },
+  {
+    "ward": 49,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 12
+  },
+  {
+    "ward": 49,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 41
+  },
+  {
+    "ward": 49,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 49,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 49,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 2
+  },
+  {
+    "ward": 49,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 49,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 49,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 161
+  },
+  {
+    "ward": 49,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 92
+  },
+  {
+    "ward": 49,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 22
+  },
+  {
+    "ward": 49,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 30
+  },
+  {
+    "ward": 49,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 49,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 14
+  },
+  {
+    "ward": 49,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 0
+  },
+  {
+    "ward": 49,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 16
+  },
+  {
+    "ward": 49,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 49,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 9
+  },
+  {
+    "ward": 49,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 49,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 49,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 49,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2010,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 50,
+    "year": 2010,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 50,
+    "year": 2011,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2011,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2012,
+    "building_type": "Single-family",
+    "units": 6
+  },
+  {
+    "ward": 50,
+    "year": 2012,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2013,
+    "building_type": "Single-family",
+    "units": 12
+  },
+  {
+    "ward": 50,
+    "year": 2013,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2014,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2014,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2015,
+    "building_type": "Single-family",
+    "units": 11
+  },
+  {
+    "ward": 50,
+    "year": 2015,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2016,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 50,
+    "year": 2016,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2017,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 50,
+    "year": 2017,
+    "building_type": "Multifamily (published)",
+    "units": 8
+  },
+  {
+    "ward": 50,
+    "year": 2018,
+    "building_type": "Single-family",
+    "units": 2
+  },
+  {
+    "ward": 50,
+    "year": 2018,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2019,
+    "building_type": "Single-family",
+    "units": 1
+  },
+  {
+    "ward": 50,
+    "year": 2019,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2020,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2020,
+    "building_type": "Multifamily (published)",
+    "units": 11
+  },
+  {
+    "ward": 50,
+    "year": 2021,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2021,
+    "building_type": "Multifamily (published)",
+    "units": 18
+  },
+  {
+    "ward": 50,
+    "year": 2022,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 50,
+    "year": 2022,
+    "building_type": "Multifamily (published)",
+    "units": 3
+  },
+  {
+    "ward": 50,
+    "year": 2023,
+    "building_type": "Single-family",
+    "units": 5
+  },
+  {
+    "ward": 50,
+    "year": 2023,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  },
+  {
+    "ward": 50,
+    "year": 2024,
+    "building_type": "Single-family",
+    "units": 7
+  },
+  {
+    "ward": 50,
+    "year": 2024,
+    "building_type": "Multifamily (published)",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2025,
+    "building_type": "Single-family",
+    "units": 3
+  },
+  {
+    "ward": 50,
+    "year": 2025,
+    "building_type": "Multifamily (published)",
+    "units": 11
+  },
+  {
+    "ward": 50,
+    "year": 2026,
+    "building_type": "Single-family",
+    "units": 4
+  },
+  {
+    "ward": 50,
+    "year": 2026,
+    "building_type": "Multifamily (published)",
+    "units": 0
+  }
+]

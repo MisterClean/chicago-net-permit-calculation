@@ -1,0 +1,25 @@
+test_rejects_corrupt_archive_before_restoring_sources (test_frozen_snapshot.FrozenSnapshotTests.test_rejects_corrupt_archive_before_restoring_sources) ... ok
+test_restores_exact_bytes_without_overwriting_different_evidence (test_frozen_snapshot.FrozenSnapshotTests.test_restores_exact_bytes_without_overwriting_different_evidence) ... ok
+test_adjacent_condos_are_not_garage_scope (test_methodology.MethodTests.test_adjacent_condos_are_not_garage_scope) ... ok
+test_authorization_timing_does_not_double_subtract (test_methodology.MethodTests.test_authorization_timing_does_not_double_subtract) ... ok
+test_deconversion_sign (test_methodology.MethodTests.test_deconversion_sign) ... ok
+test_full_filing_reference_to_caissons_is_not_partial (test_methodology.MethodTests.test_full_filing_reference_to_caissons_is_not_partial) ... ok
+test_multi_building_adu_lot_total_not_repeated (test_methodology.MethodTests.test_multi_building_adu_lot_total_not_repeated) ... ok
+test_occupancy_code_is_not_five_dwellings (test_methodology.MethodTests.test_occupancy_code_is_not_five_dwellings) ... ok
+test_polygon_holes_and_boundary (test_methodology.MethodTests.test_polygon_holes_and_boundary) ... ok
+test_rooftop_work_does_not_add_existing_units (test_methodology.MethodTests.test_rooftop_work_does_not_add_existing_units) ... ok
+test_stages_are_one_project_and_full_cohort_date (test_methodology.MethodTests.test_stages_are_one_project_and_full_cohort_date) ... ok
+test_story_and_parking_are_not_units (test_methodology.MethodTests.test_story_and_parking_are_not_units) ... ok
+test_townhouse_group_is_distinct_from_apartment_building (test_methodology.MethodTests.test_townhouse_group_is_distinct_from_apartment_building) ... ok
+test_word_counts_are_decoded_and_none_is_unknown (test_methodology.MethodTests.test_word_counts_are_decoded_and_none_is_unknown) ... ok
+test_assessor_does_not_look_forward (test_methodology.SnapshotTests.test_assessor_does_not_look_forward) ... ok
+test_conflicting_assessor_fields_are_withheld (test_methodology.SnapshotTests.test_conflicting_assessor_fields_are_withheld) ... ok
+test_missing_baselines_are_not_zero_nets (test_methodology.SnapshotTests.test_missing_baselines_are_not_zero_nets) ... ok
+test_net_and_baseline_identity_for_matched_principal_projects (test_methodology.SnapshotTests.test_net_and_baseline_identity_for_matched_principal_projects) ... ok
+test_one_project_membership_per_filing (test_methodology.SnapshotTests.test_one_project_membership_per_filing) ... ok
+test_published_units_reconcile (test_methodology.SnapshotTests.test_published_units_reconcile) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.301s
+
+OK

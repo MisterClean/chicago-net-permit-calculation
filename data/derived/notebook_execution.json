@@ -1,0 +1,16 @@
+[
+  {
+    "notebook": "notebooks/01_source_exploration.ipynb",
+    "executed_code_cells": 6,
+    "status": "passed",
+    "executor": "included standard-library runner",
+    "html": "notebooks/01_source_exploration.html"
+  },
+  {
+    "notebook": "notebooks/02_net_units_pilot.ipynb",
+    "executed_code_cells": 7,
+    "status": "passed",
+    "executor": "included standard-library runner",
+    "html": "notebooks/02_net_units_pilot.html"
+  }
+]

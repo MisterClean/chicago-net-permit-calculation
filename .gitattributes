@@ -1,0 +1,7 @@
+# Release checksums cover exact bytes, including CSV record delimiters.
+# Disable checkout line-ending conversion on every operating system.
+* -text
+*.csv whitespace=trailing-space,space-before-tab,cr-at-eol
+*.html whitespace=trailing-space,space-before-tab,cr-at-eol
+*.zip binary
+*.png binary

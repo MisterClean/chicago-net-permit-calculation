@@ -1,0 +1,62 @@
+[
+  {
+    "ward": 32,
+    "building_type": "Single-family principal buildings",
+    "units": 130
+  },
+  {
+    "ward": 32,
+    "building_type": "Multifamily buildings",
+    "units": 661
+  },
+  {
+    "ward": 32,
+    "building_type": "Townhouse groups",
+    "units": 35
+  },
+  {
+    "ward": 32,
+    "building_type": "Detached accessory dwellings",
+    "units": 8
+  },
+  {
+    "ward": 1,
+    "building_type": "Single-family principal buildings",
+    "units": 45
+  },
+  {
+    "ward": 1,
+    "building_type": "Multifamily buildings",
+    "units": 570
+  },
+  {
+    "ward": 1,
+    "building_type": "Townhouse groups",
+    "units": 0
+  },
+  {
+    "ward": 1,
+    "building_type": "Detached accessory dwellings",
+    "units": 5
+  },
+  {
+    "ward": 47,
+    "building_type": "Single-family principal buildings",
+    "units": 110
+  },
+  {
+    "ward": 47,
+    "building_type": "Multifamily buildings",
+    "units": 562
+  },
+  {
+    "ward": 47,
+    "building_type": "Townhouse groups",
+    "units": 0
+  },
+  {
+    "ward": 47,
+    "building_type": "Detached accessory dwellings",
+    "units": 20
+  }
+]

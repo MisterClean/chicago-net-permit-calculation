@@ -1,0 +1,116 @@
+{
+  "id": "3723-97qp",
+  "name": "Assessor - Parcel Addresses",
+  "description": "Situs and mailing addresses of Cook County parcels. Used by the Assessor's office to mail assessment notices.\n\nThis dataset was updated in March 2026 to include both owner <i>and</i> taxpayer information. Please note that owner name and mailing address is, to our knowledge, only intermittently updated in the ias source data. Users can use <a href=\"https://datacatalog.cookcountyil.gov/Property-Taxation/Assessor-Parcel-Sales/wvhk-k5uv/about_data\">Parcel Sales data</a> to query owner and seller names.\n\nWhen working with Parcel Index Numbers (PINs) make sure to zero-pad them to 14 digits. Some datasets may lose leading zeros for PINs when downloaded.\n\nAdditional notes:\n<ul><li>Newer properties may be missing a mailing or property address, as they need to be assigned one by the postal service.</li>\n<li>Rowcount for a given year is final once the Assessor <a href=\"https://www.cookcountyassessoril.gov/assessment-calendar-and-deadlines\">has certified the assessment roll</a> all townships.</li>\n<li>Data will be updated semi-monthly.</li></ul>For more information on the sourcing of attached data and the preparation of this dataset, see the <a href=\"https://github.com/ccao-data/wiki/blob/master/SOPs/Open-Data.md\">Assessor's Standard Operating Procedures for Open Data</a> on GitHub.\n\nSee additional datasets in the <a href=\"https://datacatalog.cookcountyil.gov/stories/s/gzdr-q7c4\">Assessor's Open Data Catalog.</a>",
+  "rowsUpdatedAt": 1792065356,
+  "columns": [
+    {
+      "fieldName": "pin",
+      "name": "pin",
+      "dataTypeName": "text",
+      "description": "Parcel Identification Number (PIN)"
+    },
+    {
+      "fieldName": "pin10",
+      "name": "pin10",
+      "dataTypeName": "text",
+      "description": "Parcel Identification Number (10-digit)"
+    },
+    {
+      "fieldName": "year",
+      "name": "tax_year",
+      "dataTypeName": "number",
+      "description": "Tax year"
+    },
+    {
+      "fieldName": "prop_address_full",
+      "name": "property_address",
+      "dataTypeName": "text",
+      "description": "Property street address"
+    },
+    {
+      "fieldName": "prop_address_city_name",
+      "name": "property_city",
+      "dataTypeName": "text",
+      "description": "Property city"
+    },
+    {
+      "fieldName": "prop_address_state",
+      "name": "property_state",
+      "dataTypeName": "text",
+      "description": "Property state"
+    },
+    {
+      "fieldName": "prop_address_zipcode_1",
+      "name": "property_zip",
+      "dataTypeName": "text",
+      "description": "Property zip code"
+    },
+    {
+      "fieldName": "mail_address_name",
+      "name": "mailing_name",
+      "dataTypeName": "text",
+      "description": "Taxpayer mailing name"
+    },
+    {
+      "fieldName": "mail_address_full",
+      "name": "mailing_address",
+      "dataTypeName": "text",
+      "description": "Taxpayer mailing street address"
+    },
+    {
+      "fieldName": "mail_address_city_name",
+      "name": "mailing_city",
+      "dataTypeName": "text",
+      "description": "Taxpayer mailing city"
+    },
+    {
+      "fieldName": "mail_address_state",
+      "name": "mailing_state",
+      "dataTypeName": "text",
+      "description": "Taxpayer mailing state"
+    },
+    {
+      "fieldName": "mail_address_zipcode_1",
+      "name": "mailing_zip",
+      "dataTypeName": "text",
+      "description": "Taxpayer mailing zip code"
+    },
+    {
+      "fieldName": "owner_address_name",
+      "name": "owner_name",
+      "dataTypeName": "text",
+      "description": "Owner mailing name"
+    },
+    {
+      "fieldName": "owner_address_full",
+      "name": "owner_address",
+      "dataTypeName": "text",
+      "description": "Owner mailing street address"
+    },
+    {
+      "fieldName": "owner_address_city_name",
+      "name": "owner_city",
+      "dataTypeName": "text",
+      "description": "Owner mailing city"
+    },
+    {
+      "fieldName": "owner_address_state",
+      "name": "owner_state",
+      "dataTypeName": "text",
+      "description": "Owner mailing state"
+    },
+    {
+      "fieldName": "owner_address_zipcode_1",
+      "name": "owner_zip",
+      "dataTypeName": "text",
+      "description": "Owner mailing zip code"
+    },
+    {
+      "fieldName": "row_id",
+      "name": "row_id",
+      "dataTypeName": "text",
+      "description": "Unique row key for API"
+    }
+  ]
+}

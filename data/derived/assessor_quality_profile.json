@@ -1,0 +1,60 @@
+{
+  "addresses": {
+    "downloaded": 20432,
+    "unique": 11492,
+    "duplicate_keys": 8940,
+    "conflicting_keys": 0
+  },
+  "universe": {
+    "downloaded": 11562,
+    "unique": 11562,
+    "duplicate_keys": 0,
+    "conflicting_keys": 0
+  },
+  "residential": {
+    "downloaded": 7055,
+    "unique": 7055,
+    "duplicate_keys": 0,
+    "conflicting_keys": 0
+  },
+  "condominium": {
+    "downloaded": 2851,
+    "unique": 2851,
+    "duplicate_keys": 0,
+    "conflicting_keys": 0
+  },
+  "residential_characteristics": {
+    "apartment_values": {
+      "Two": 3235,
+      "Three": 911,
+      "Six": 160,
+      "None": 2187,
+      "Four": 457,
+      "<missing>": 44,
+      "Five": 61
+    },
+    "use_values": {
+      "Multi-Family": 4829,
+      "Single-Family": 2225,
+      "<missing>": 1
+    },
+    "multicard_rows": 944,
+    "tieback_rows": 105,
+    "year_built_after_tax_year": 0,
+    "single_family_use_with_multiple_apartments": 6,
+    "multifamily_use_without_apartment_count": 11
+  },
+  "condominium_characteristics": {
+    "parking_or_storage_rows": 1089,
+    "common_area_rows": 0,
+    "unclassified_use_rows": 0
+  },
+  "commercial_characteristics": {
+    "rows": 68113,
+    "entity_year_keys": 66836,
+    "entity_year_keys_with_multiple_rows": 472,
+    "rows_with_apt": 0,
+    "rows_with_tot_units": 13355,
+    "rows_with_model": 802
+  }
+}
