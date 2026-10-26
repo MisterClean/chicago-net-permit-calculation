@@ -50,7 +50,6 @@ addition:101008499,32,2023-06-14,new_construction,1,0,3329 N HOYNE AVE,"[""10100
 addition:101014599,47,2023-06-14,new_construction,1,0,3740 N PAULINA ST,"[""101014599""]",[]
 addition:101013663,32,2023-07-06,new_construction,1,0,2119 N OAKLEY AVE,"[""101013663""]",[]
 addition:101007078,47,2023-07-13,new_construction,63,63,4713 N WESTERN AVE,"[""101007078""]",[]
-addition:101019642,1,2023-07-18,new_construction,2,2,2440 N WASHTENAW AVE,"[""101019642""]",[]
 addition:101005732,1,2023-07-21,new_construction,4,4,1712 W AUGUSTA BLVD,"[""101005732""]",[]
 addition:101012770,47,2023-07-24,new_construction,1,0,1848 W CUYLER AVE,"[""101012770""]","[""overlapping_new_project_site""]"
 addition:100984145,32,2023-07-31,new_construction,3,3,3050 N GREENVIEW AVE,"[""100984145""]",[]
@@ -276,9 +275,9 @@ addition:101040953,1,2025-02-04,new_construction,3,3,1433 W CORTEZ ST,"[""101040
 addition:101062821,32,2025-02-04,new_construction,4,4,2832 N RACINE AVE,"[""101062821""]",[]
 addition:101064627,47,2025-02-05,new_construction,1,0,4846 N HERMITAGE AVE,"[""101064627""]","[""overlapping_new_project_site""]"
 addition:101060332,1,2025-02-06,new_construction,16,16,1235 N ASHLAND AVE,"[""101060332""]",[]
+addition:101060346,1,2025-02-07,new_construction,24,24,1257 N ASHLAND AVE,"[""101060346""]","[""multiple_existing_buildings_scope_unresolved""]"
 addition:101064623,47,2025-02-11,new_construction,1,0,4844 N HERMITAGE AVE,"[""101064623""]","[""overlapping_new_project_site""]"
 addition:101058570,47,2025-02-14,new_construction,62,62,1805 W GRACE ST,"[""101058570""]",[]
-addition:101059696,1,2025-02-26,new_construction,4,4,1420 W GRAND AVE,"[""101059696""]",[]
 addition:101063545,32,2025-03-04,new_construction,2,2,2246 W LYNDALE ST,"[""101063545""]",[]
 addition:101065309,47,2025-03-07,new_construction,1,0,4427 N HAMILTON AVE,"[""101065309""]","[""multiple_existing_buildings_scope_unresolved""]"
 addition:101065429,47,2025-03-07,new_accessory,1,0,4427 N HAMILTON AVE,"[""101065429""]","[""accessory_scope_retained_main_building"", ""accessory_with_housing_demolition_requires_review""]"
@@ -297,10 +296,8 @@ addition:101065246,32,2025-04-02,new_construction,1,0,3530 N BELL AVE,"[""101065
 addition:101032326,47,2025-04-07,new_construction,12,12,4309 N LINCOLN AVE,"[""101032326""]","[""existing_structure_context""]"
 addition:101063917,32,2025-04-08,new_construction,3,3,2741 N GREENVIEW AVE,"[""101063917""]",[]
 addition:101066508,32,2025-04-10,new_construction,1,0,1900 W CORTLAND ST,"[""101066508""]","[""existing_structure_context""]"
-addition:101066514,47,2025-04-14,new_construction,2,2,3849 N LEAVITT ST,"[""101066514""]",[]
 addition:101064176,32,2025-04-15,new_construction,2,2,2202 N LEAVITT ST,"[""101064176""]",[]
 addition:101066659,47,2025-04-15,new_accessory,1,0,4247 N DAMEN AVE,"[""101066659""]","[""accessory_scope_retained_main_building"", ""accessory_with_housing_demolition_requires_review""]"
-addition:101067870,1,2025-04-15,new_construction,1,0,2048 N ALBANY AVE,"[""101067870""]","[""existing_structure_context""]"
 addition:101062116,32,2025-04-17,new_construction,3,3,2847 N DAMEN AVE,"[""101062116""]",[]
 addition:101065851,47,2025-04-17,new_construction,1,0,2442 W BERTEAU AVE,"[""101065851""]",[]
 addition:101066663,47,2025-04-25,new_construction,1,0,3909 N HAMILTON AVE,"[""101066663""]",[]
@@ -411,7 +408,6 @@ addition:101076697,47,2026-01-20,new_construction,1,0,3738 N LEAVITT ST,"[""1010
 addition:101072032,1,2026-01-21,new_construction,3,3,1280 N MILWAUKEE AVE,"[""101072032""]",[]
 addition:101068144,1,2026-01-28,new_construction,1,0,1230 N PAULINA ST,"[""101068144""]","[""overlapping_new_project_site"", ""parcel_scope_requires_review""]"
 addition:101065174,1,2026-02-02,new_construction,1,0,2057 N BINGHAM ST,"[""101065174""]","[""intervening_authorization_requires_stock_review""]"
-addition:101072671,1,2026-02-02,new_construction,1,0,2024 W THOMAS ST,"[""101072671""]",[]
 addition:101076059,1,2026-02-03,new_construction,1,0,2523 N ROCKWELL ST,"[""101076059""]",[]
 addition:101078075,32,2026-02-05,new_construction,2,2,1502 W SCHOOL ST,"[""101078075""]",[]
 addition:101070882,32,2026-02-09,new_construction,3,3,1951 W DICKENS AVE,"[""101070882""]",[]
@@ -440,7 +436,6 @@ addition:101080560,47,2026-04-09,new_construction,1,0,2149 W BELLE PLAINE AVE,"[
 addition:101076531,47,2026-04-16,new_accessory,1,0,4247 N DAMEN AVE,"[""101076531""]","[""accessory_scope_retained_main_building"", ""accessory_with_housing_demolition_requires_review""]"
 addition:101078638,47,2026-04-16,new_construction,1,0,4817 N HOYNE AVE,"[""101078638""]",[]
 addition:101079460,47,2026-04-16,new_accessory,1,0,3812 N HERMITAGE AVE,"[""101079460""]","[""accessory_scope_retained_main_building""]"
-addition:101075498,47,2026-04-17,new_accessory,1,0,2203 W GIDDINGS ST,"[""101075498""]","[""accessory_scope_retained_main_building""]"
 addition:101081777,47,2026-04-21,new_construction,1,0,4302 N HERMITAGE AVE,"[""101081777""]","[""overlapping_new_project_site""]"
 addition:101073651,47,2026-04-23,new_construction,1,0,2145 W BRADLEY PL,"[""101073651""]","[""multiple_existing_buildings_scope_unresolved""]"
 addition:101078042,47,2026-04-27,new_construction,6,6,1351 W FOSTER AVE,"[""101078042""]","[""overlapping_new_project_site""]"
@@ -469,7 +464,6 @@ addition:101080097,32,2026-07-01,new_construction,1,0,1824 N WOOD ST,"[""1010800
 addition:101070491,32,2026-07-02,new_construction,1,0,1659 W WOLFRAM ST,"[""101070491""]",[]
 addition:101083317,1,2026-07-07,new_construction,2,2,1945 W POTOMAC AVE,"[""101083317""]",[]
 addition:101083922,32,2026-07-07,new_construction,1,0,2910 N SEELEY AVE,"[""101083922""]",[]
-addition:101081251,1,2026-07-08,new_construction,2,2,2518 W MEDILL AVE,"[""101081251""]",[]
 addition:101084103,32,2026-07-10,new_construction,6,6,2210 W BELMONT AVE,"[""101084103""]","[""existing_structure_context""]"
 addition:101055540,32,2026-07-14,new_construction,16,16,2648 N HOYNE AVE,"[""101055540""]","[""overlapping_new_project_site""]"
 addition:101070510,32,2026-07-14,new_construction,8,8,1730 W BELMONT AVE,"[""101070510""]","[""parcel_scope_requires_review""]"
@@ -484,18 +478,16 @@ addition:101081347,1,2026-07-29,new_construction,4,4,2039 N KEDZIE AVE,"[""10108
 addition:101055542,32,2026-08-04,new_construction,59,59,2740 N HOYNE AVE,"[""101055542""]","[""overlapping_new_project_site""]"
 addition:101076899,1,2026-08-07,new_construction,1,0,1225 N HERMITAGE AVE,"[""101076899""]","[""overlapping_new_project_site""]"
 addition:101084366,32,2026-08-10,new_construction,2,2,2624 N RACINE AVE,"[""101084366""]",[]
-addition:101085867,1,2026-08-10,new_construction,7,7,1002 N WOOD ST,"[""101085867""]","[""existing_structure_context"", ""retained_housing_scope_unresolved""]"
 addition:101082353,32,2026-08-11,new_construction,6,6,3041 N WESTERN AVE,"[""101082353""]","[""overlapping_new_project_site""]"
 addition:101085004,47,2026-08-11,new_construction,1,0,2149 W EASTWOOD AVE,"[""101085004""]",[]
 addition:101085403,1,2026-08-12,new_construction,3,3,858 N MARSHFIELD AVE,"[""101085403""]",[]
 addition:101076909,1,2026-08-14,new_accessory,1,0,1251 N HOYNE AVE,"[""101076909""]","[""accessory_scope_retained_main_building""]"
-addition:101082363,32,2026-08-14,new_construction,1,0,1948 N DAMEN AVE,"[""101082363""]",[]
+addition:101082363,32,2026-08-14,new_construction,1,,1948 N DAMEN AVE,"[""101082363""]",[]
 addition:101086157,32,2026-08-14,new_construction,4,4,3214 N DAMEN AVE,"[""101086157""]",[]
 addition:101085577,32,2026-08-17,new_construction,1,0,3340 N SEELEY AVE,"[""101085577""]",[]
 addition:101082611,47,2026-08-20,new_construction,1,0,3814 N OAKLEY AVE,"[""101082611""]",[]
 addition:101079067,47,2026-08-24,new_construction,16,16,4943 N DAMEN AVE,"[""101079067""]",[]
 addition:101084199,32,2026-08-27,new_construction,4,4,1517 W SCHOOL ST,"[""101084199""]",[]
-addition:101080490,47,2026-08-28,new_construction,2,2,1455 W WILSON AVE,"[""101080490""]","[""existing_structure_context""]"
 addition:101082351,1,2026-09-01,new_construction,7,7,1532 N BELL AVE,"[""101082351""]","[""overlapping_new_project_site""]"
 addition:101082357,1,2026-09-01,new_construction,7,7,1540 N BELL AVE,"[""101082357""]","[""overlapping_new_project_site""]"
 addition:101082364,1,2026-09-01,new_construction,7,7,1541 N OAKLEY BLVD,"[""101082364""]","[""overlapping_new_project_site""]"
@@ -519,7 +511,6 @@ addition:101085778,1,2026-09-22,new_construction,9,9,1334 W GRAND AVE,"[""101085
 addition:101088232,47,2026-09-24,new_construction,1,0,2026 W LELAND AVE,"[""101088232""]",[]
 addition:101086415,32,2026-09-29,new_construction,1,0,3310 N OAKLEY AVE,"[""101086415""]",[]
 addition:101088102,32,2026-10-01,new_construction,1,0,1738 N WOLCOTT AVE,"[""101088102""]","[""existing_structure_context"", ""parcel_scope_requires_review""]"
-addition:101078983,1,2026-10-02,new_construction,6,6,1901 W DIVISION ST,"[""101078983""]",[]
 addition:101085903,32,2026-10-02,new_construction,3,3,1846 N DAMEN AVE,"[""101085903""]",[]
 addition:101087547,32,2026-10-06,new_construction,1,0,3445 N OAKLEY AVE,"[""101087547""]",[]
 addition:101087238,47,2026-10-07,new_construction,8,8,2353 W BYRON ST,"[""101087238""]",[]
@@ -1167,7 +1158,6 @@ unresolved:100985541,32,2023-01-20,unresolved_housing_candidate,,,3311 N RAVENSW
 unresolved:100954243,1,2023-01-24,unresolved_housing_candidate,,,2155 W POTOMAC AVE,"[""100954243""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:100990664,47,2023-01-30,unresolved_housing_candidate,,,3605 N BELL AVE,"[""100990664""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:100997389,1,2023-02-06,unresolved_housing_candidate,,,2046 W AUGUSTA BLVD,"[""100997389""]","[""conversion_without_explicit_unit_pair""]"
-unresolved:100996988,47,2023-02-28,unresolved_housing_candidate,,,2173 W WILSON AVE,"[""100996988""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:100992757,1,2023-03-03,unresolved_housing_candidate,,,2620 N MOZART ST,"[""100992757""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:100979091,1,2023-03-24,unresolved_housing_candidate,,,2614 N CALIFORNIA AVE,"[""100979091""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:100997688,32,2023-03-31,unresolved_housing_candidate,,,2940 N LEAVITT ST,"[""100997688""]","[""conversion_without_explicit_unit_pair""]"
@@ -1214,7 +1204,7 @@ unresolved:101019537,47,2024-04-22,unresolved_housing_candidate,,,1451 W WARNER 
 unresolved:101021219,1,2024-05-20,unresolved_housing_candidate,,,2501 N SACRAMENTO AVE,"[""101021219""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101048568,47,2024-05-28,unresolved_housing_candidate,,,1918 W ADDISON ST,"[""101048568""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101039924,47,2024-05-29,unresolved_housing_candidate,,,3927 N MARSHFIELD AVE,"[""101039924""]","[""adu_or_legalization_requires_scope_review""]"
-unresolved:101049894,47,2024-07-25,unresolved_housing_candidate,,,4254 N DAMEN AVE,"[""101049894""]","[""adu_or_legalization_requires_scope_review""]"
+unresolved:101049894,47,2024-07-25,unresolved_housing_candidate,,,4254 N DAMEN AVE,"[""101049894""]","[""legalization_physical_change_unverified""]"
 unresolved:101051880,47,2024-07-25,unresolved_housing_candidate,,,2266 W LELAND AVE,"[""101051880""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101048992,32,2024-07-30,unresolved_housing_candidate,,,2144 N BELL AVE,"[""101048992""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101054658,47,2024-08-21,unresolved_housing_candidate,,,4015 N PAULINA ST,"[""101054658""]","[""adu_or_legalization_requires_scope_review""]"
@@ -1225,7 +1215,7 @@ unresolved:101058607,47,2024-09-12,unresolved_housing_candidate,,,1925 W WARNER 
 unresolved:101044345,1,2024-09-19,unresolved_housing_candidate,,,1859 N WASHTENAW AVE,"[""101044345""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101056183,1,2024-09-23,unresolved_housing_candidate,,,1719 W CHICAGO AVE,"[""101056183""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101052237,1,2024-09-25,unresolved_housing_candidate,,,1408 N BELL AVE,"[""101052237""]","[""adu_or_legalization_requires_scope_review""]"
-unresolved:101054643,47,2024-09-25,unresolved_housing_candidate,,,1755 W WINNEMAC AVE,"[""101054643""]","[""adu_or_legalization_requires_scope_review""]"
+unresolved:101054643,47,2024-09-25,unresolved_housing_candidate,,,1755 W WINNEMAC AVE,"[""101054643""]","[""legalization_physical_change_unverified""]"
 unresolved:101056680,47,2024-10-09,unresolved_housing_candidate,,,1747 W CORNELIA AVE,"[""101056680""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101060797,32,2024-10-10,unresolved_housing_candidate,,,3445 N SEELEY AVE,"[""101060797""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101051602,1,2024-10-17,unresolved_housing_candidate,,,2719 W ST GEORGES CT,"[""101051602""]","[""adu_or_legalization_requires_scope_review""]"
@@ -1236,7 +1226,7 @@ unresolved:101060156,1,2024-11-25,unresolved_housing_candidate,,,1970 W EVERGREE
 unresolved:101042404,32,2024-12-03,unresolved_housing_candidate,,,1854 N BESLY CT,"[""101042404""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101062580,47,2024-12-06,unresolved_housing_candidate,,,2417 W DAKIN ST,"[""101062580""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101061789,1,2024-12-19,unresolved_housing_candidate,,,1814 N TALMAN AVE,"[""101061789""]","[""adu_or_legalization_requires_scope_review""]"
-unresolved:101059955,47,2024-12-24,unresolved_housing_candidate,,,2525 W HUTCHINSON ST,"[""101059955""]","[""adu_or_legalization_requires_scope_review""]"
+unresolved:101059955,47,2024-12-24,unresolved_housing_candidate,,,2525 W HUTCHINSON ST,"[""101059955""]","[""legalization_physical_change_unverified""]"
 unresolved:101049895,1,2025-01-15,unresolved_housing_candidate,,,1242 N HOYNE AVE,"[""101049895""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101060522,32,2025-01-17,unresolved_housing_candidate,,,2236 W DICKENS AVE,"[""101060522""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101054819,1,2025-01-27,unresolved_housing_candidate,,,2418 W BLOOMINGDALE AVE,"[""101054819""]","[""conversion_without_explicit_unit_pair""]"
@@ -1266,7 +1256,8 @@ unresolved:101054894,1,2025-07-23,unresolved_housing_candidate,,,858 N PAULINA S
 unresolved:101066611,47,2025-07-28,unresolved_housing_candidate,,,2247 W LAWRENCE AVE,"[""101066611""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101066450,47,2025-07-30,unresolved_housing_candidate,,,1431 W WINONA ST,"[""101066450""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101069021,1,2025-08-04,unresolved_housing_candidate,,,1331 N OAKLEY BLVD,"[""101069021""]","[""adu_or_legalization_requires_scope_review""]"
-unresolved:101058466,32,2025-08-07,unresolved_housing_candidate,,,3025 N SOUTHPORT AVE,"[""101058466""]","[""adu_or_legalization_requires_scope_review""]"
+unresolved:101058466,32,2025-08-07,unresolved_housing_candidate,,,3025 N SOUTHPORT AVE,"[""101058466""]","[""legalization_physical_change_unverified""]"
+unresolved:101043784,1,2025-08-13,unresolved_housing_candidate,,,1638 W OHIO ST,"[""101043784""]","[""legalization_physical_change_unverified""]"
 unresolved:101066027,32,2025-09-09,unresolved_housing_candidate,,,3301 N CLAREMONT AVE,"[""101066027""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101071657,1,2025-09-11,unresolved_housing_candidate,,,2853 W SHAKESPEARE AVE,"[""101071657""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101069911,47,2025-09-12,unresolved_housing_candidate,,,4884 N HERMITAGE AVE,"[""101069911""]","[""adu_or_legalization_requires_scope_review""]"
@@ -1290,7 +1281,7 @@ unresolved:101074365,1,2026-03-25,unresolved_housing_candidate,,,2917 W MCLEAN A
 unresolved:101076444,1,2026-03-30,unresolved_housing_candidate,,,1655 W DIVISION ST,"[""101076444""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101074814,1,2026-04-15,unresolved_housing_candidate,,,2115 W POTOMAC AVE,"[""101074814""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101081146,32,2026-04-21,unresolved_housing_candidate,,,3529 N OAKLEY AVE,"[""101081146""]","[""conversion_without_explicit_unit_pair""]"
-unresolved:101079012,1,2026-04-28,unresolved_housing_candidate,,,1446 N CAMPBELL AVE,"[""101079012""]","[""adu_or_legalization_requires_scope_review""]"
+unresolved:101079012,1,2026-04-28,unresolved_housing_candidate,,,1446 N CAMPBELL AVE,"[""101079012""]","[""legalization_physical_change_unverified""]"
 unresolved:101080870,32,2026-05-08,unresolved_housing_candidate,,,3000 N RACINE AVE,"[""101080870""]","[""adu_or_legalization_requires_scope_review""]"
 unresolved:101073139,32,2026-05-13,unresolved_housing_candidate,,,2115 W MELROSE ST,"[""101073139""]","[""conversion_without_explicit_unit_pair""]"
 unresolved:101066456,1,2026-05-15,unresolved_housing_candidate,,,1538 W CHICAGO AVE,"[""101066456""]","[""conversion_without_explicit_unit_pair""]"

@@ -17,7 +17,7 @@
     "commercial": "csik-bsws",
     "universe": "nj4t-kc8j"
   },
-  "rules_version": "1.0.0",
+  "rules_version": "1.1.0",
   "random_seed": 3201,
   "notes": [
     "Report cutoff matches the dashboard's published October 8, 2026 cutoff; live source revisions may differ from its earlier snapshot.",
@@ -25,5 +25,5 @@
     "Missing existing-unit baselines remain unknown, never zero.",
     "Snapshot replay is distinct from a live source refresh."
   ],
-  "analysis_generated_at_utc": "2026-10-22T15:35:11.477886+00:00"
+  "analysis_generated_at_utc": "2026-10-26T17:43:41.789003+00:00"
 }

@@ -1,13 +1,15 @@
 # Frozen evidence and derived results
 
-`frozen-inputs-001.zip` and `frozen-inputs-002.zip` contain all 363 frozen source responses and request receipts from the October 22, 2026 snapshot. They are split into ordinary ZIP files below GitHub's browser-upload limit; they are not a proprietary archive format.
+The source manifest covers **495 frozen files**. `frozen-inputs-001.zip` and `frozen-inputs-002.zip` preserve all 363 responses and receipts from the original October 22, 2026 snapshot byte for byte. `frozen-inputs-003.zip` adds 132 assessor response/receipt files acquired for the citywide single-family extension on October 26, 2026. These are ordinary ZIP archives.
 
-`python code/run.py --offline` restores and verifies them automatically. To restore the sources separately, run `python code/snapshot.py` from the repository root. The authoritative per-file digests are in `input_hashes.json`; bundle digests and exact member lists are in `frozen_inputs_manifest.json`.
+`python code/run.py --offline` restores and verifies all inputs. `python code/snapshot.py` restores sources alone. `input_hashes.json` records source-file digests; `frozen_inputs_manifest.json` records each bundle's digest and exact members. Restored sources remain in ignored `data/raw/`. Public data retains its providers' terms; see [SOURCES.md](../SOURCES.md).
 
-The source data is attributed in `../SOURCES.md` and retains its original provider terms. No credentials or live connections are needed. Input caches are distinct from a refresh: replacing them changes the evidence basis and requires a separately dated snapshot.
+`derived/` contains the three-ward report's project/event ledgers and evidence. `citywide/derived/` contains only the citywide principal single-family outputs. The profile's wider all-housing intermediates are ignored because the supplement does not supply complete all-housing baselines. The two profiles use separate configuration, assessor manifests and expected output hashes.
 
-`derived/` contains final project/event ledgers, coverage and quality profiles, source-derived aggregates, and the reviewed report snapshot. The two large intermediate permit caches are regenerated instead of checked in. `replay_expected_hashes.json` records six expected output hashes. Five preserve the original analysis bytes; the report snapshot has the delivery-only metadata changes documented below. The public Markdown report adds tables and figures.
+## Benchmark versions
 
-## Public repository delivery metadata
+Rules 1.1.0 correct construction scope, separate one-dwelling mixed-use buildings, and withhold mismatched condo sites. Both profiles' outputs are regenerated and frozen under those rules. `benchmark_history.json` retains the previous six expected hashes and their Git commit. Check out that commit to replay the original public benchmark. Source archives 001 and 002 are unchanged; changing the rules does not rewrite the upstream evidence.
 
-The public repository replaces an internal hosted-report identifier with a stable project identifier and corrects obsolete hosted-runtime instructions inside `report_snapshot.json`. Its expected hash is therefore `279458b5df94326f759b399f29385a9af3d89e3ecf11461fd746a4aab09b0763` (the supplied package used `7901c4147862b0352ba8086952b6cf536c8f2471600e45f0b5788439b1f6bc48`). These delivery-only changes leave the statistics, query rows, all frozen upstream evidence, and the other five core-output benchmark hashes unchanged. The unused hosted-app build receipt is omitted.
+The initial public edition also replaced the internal hosted-report identifier and obsolete hosted-runtime instructions. Its report snapshot hash was `279458b5df94326f759b399f29385a9af3d89e3ecf11461fd746a4aab09b0763`, versus `7901c4147862b0352ba8086952b6cf536c8f2471600e45f0b5788439b1f6bc48` in the supplied package. That historical delivery-only change preceded the analytical changes in 1.1.0.
+
+A future source refresh needs new responses, receipts, dates, validation and explicitly reviewed benchmark hashes. Never treat cache resumption as a fresh snapshot or replace unknown stock with zero.

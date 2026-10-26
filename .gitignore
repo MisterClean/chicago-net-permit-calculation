@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 .venv/
 data/raw/
+data/citywide/intermediate/
 data/derived/permits_enriched.json.gz
 data/derived/permits_classified.json.gz
 *.run.log

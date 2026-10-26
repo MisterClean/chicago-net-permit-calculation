@@ -18,8 +18,19 @@ test_missing_baselines_are_not_zero_nets (test_methodology.SnapshotTests.test_mi
 test_net_and_baseline_identity_for_matched_principal_projects (test_methodology.SnapshotTests.test_net_and_baseline_identity_for_matched_principal_projects) ... ok
 test_one_project_membership_per_filing (test_methodology.SnapshotTests.test_one_project_membership_per_filing) ... ok
 test_published_units_reconcile (test_methodology.SnapshotTests.test_published_units_reconcile) ... ok
+test_partial_subtotals_include_gains_zeroes_and_explicit_unknown_coverage (test_scope_review.CitywideSummaryTests.test_partial_subtotals_include_gains_zeroes_and_explicit_unknown_coverage) ... ok
+test_unknown_only_ward_is_not_ranked_as_zero_and_ties_share_a_rank (test_scope_review.CitywideSummaryTests.test_unknown_only_ward_is_not_ranked_as_zero_and_ties_share_a_rank) ... ok
+test_matching_condominium_site_can_support_a_baseline (test_scope_review.CondominiumScopeTests.test_matching_condominium_site_can_support_a_baseline) ... ok
+test_native_condominium_pin_does_not_override_different_historical_address (test_scope_review.CondominiumScopeTests.test_native_condominium_pin_does_not_override_different_historical_address) ... ok
+test_fence_combination_is_not_a_unit_combination (test_scope_review.ScopeReviewTests.test_fence_combination_is_not_a_unit_combination) ... ok
+test_garage_work_does_not_hide_a_separate_explicit_new_house (test_scope_review.ScopeReviewTests.test_garage_work_does_not_hide_a_separate_explicit_new_house) ... ok
+test_mixed_use_one_dwelling_is_not_a_single_family_house (test_scope_review.ScopeReviewTests.test_mixed_use_one_dwelling_is_not_a_single_family_house) ... ok
+test_new_houses_under_renovation_type_remain_eligible (test_scope_review.ScopeReviewTests.test_new_houses_under_renovation_type_remain_eligible) ... ok
+test_new_multifamily_programs_keep_commercial_space_and_roof_amenities (test_scope_review.ScopeReviewTests.test_new_multifamily_programs_keep_commercial_space_and_roof_amenities) ... ok
+test_reviewed_citywide_exclusions_are_not_new_single_family_houses (test_scope_review.ScopeReviewTests.test_reviewed_citywide_exclusions_are_not_new_single_family_houses) ... ok
+test_unit_combination_retains_uncertain_conversion_scope (test_scope_review.ScopeReviewTests.test_unit_combination_retains_uncertain_conversion_scope) ... ok
 
 ----------------------------------------------------------------------
-Ran 20 tests in 0.301s
+Ran 31 tests in 0.314s
 
 OK

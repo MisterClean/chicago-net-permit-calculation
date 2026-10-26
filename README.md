@@ -7,11 +7,11 @@ Reproduce a source-level audit of how building permits change the existing housi
 
 **Project net units = authorized post-project dwellings − pre-clearance existing dwellings.** Negative and zero results remain in the measure. Permits are authorizations, not completed construction.
 
-The analysis covers **January 1, 2023–October 8, 2026**, using sources collected October 22, 2026. Gross published comparisons cover all 50 Chicago wards; detailed historical-stock linkage currently covers Wards **32, 1, and 47**.
+The analysis covers **January 1, 2023–October 8, 2026**, using the October 22, 2026 permit snapshot. The main report covers detailed historical-stock linkage in Wards **32, 1, and 47**. A separate citywide principal single-family profile adds historical assessor responses collected October 26, 2026 and reports supported subtotals with coverage for all 50 wards.
 
 ## Finding and limit
 
-In the matched Ward 32 principal single-family cohort, 105 new homes replace an estimated 172 existing dwellings: **−67 net units**. Another 25 single-family projects remain unresolved. Across all classified new projects, supported baselines cover only **42.3% of gross units**. These are selected, matched projects: **the analysis does not establish a full ward net total or rank wards by net production**.
+In the matched Ward 32 principal single-family cohort, 104 new homes replace an estimated 171 existing dwellings: **-67 net units**. Another 25 single-family projects remain unresolved. Across all classified new projects, supported baselines cover only **42.3% of gross units**. These are selected, matched projects: **the analysis does not establish a full ward net total or rank wards by net production**.
 
 ![Single-family project outcomes](report/figures/ward32-single-family-outcomes.png)
 
@@ -35,6 +35,7 @@ flowchart TD
     S -. "site addresses and PINs for acquisition" .-> CA
     S --> N["Link projects and historical stock<br/>05_analyze_net.py / assessor.py"]
     R --> N
+    N --> CS["Separate citywide single-family profile<br/>09_citywide_single_family.py<br/>data/citywide/derived/"]
     N --> L["Project and annual event ledgers<br/>net_projects.csv<br/>annual_authorization_events.csv"]
     R --> B["Independent published-gross comparison"]
     L --> T["Summarize coverage and supported subtotals<br/>06_summarize.py"]
@@ -52,7 +53,7 @@ The principal new-construction calculation uses the permit's authorized final dw
 
 ```mermaid
 flowchart TD
-    P["Chicago permits: ydr8-5enu<br/>permit_, issue_date, work_description,<br/>pin_list, street fields, coordinates, status"] --> S["Parse final dwelling program and scope<br/>units.py + review_decisions.csv<br/>Exclude cancelled or revoked permits"]
+    P["Chicago permits: ydr8-5enu<br/>permit_, issue_date, work_description,<br/>pin_list, street fields, coordinates, status"] --> S["Parse final dwelling program and scope<br/>units.py + review_decisions.csv<br/>Exclude cancelled or revoked permits<br/>Separate repairs, legalizations, combinations and mixed use"]
     W["2023 wards: p293-wvbd"] --> S
     S --> I["Deduplicate staged filings and explicit references<br/>Group same-site, same-program phases<br/>Use first full filing for cohort date when available"]
     I --> A["Authorized post-project dwellings<br/>gross_new_units"]
@@ -64,7 +65,7 @@ flowchart TD
     Y --> ID
     I --> ID
     ID --> R["Residential: x54s-btds<br/>char_apts / char_use<br/>Deduplicate physical tieback PIN + card"]
-    ID --> C["Condominium: 3r7i-mrz4<br/>Count distinct dwelling PINs<br/>Exclude parking and common-area records"]
+    ID --> C["Condominium: 3r7i-mrz4<br/>Confirm historical site address and count dwelling PINs<br/>Exclude parking and common-area records"]
     ID --> M["Commercial: csik-bsws<br/>Distinct keypin + year entities<br/>apt, or restricted apartment-class tot_units proxy"]
     K["Assessor property class dictionary<br/>ccao.class_dict.csv"] -. "class interpretation" .-> Z["Explicit supported land or garage classes<br/>May support zero existing dwellings<br/>Missing rows never establish zero"]
     ID --> Z
@@ -95,7 +96,7 @@ cd chicago-net-permit-calculation
 python code/run.py --offline
 ```
 
-The command restores 363 hash-verified frozen source files from the two ZIP bundles in `data/`, reconstructs geography and permit classifications, joins historical assessor characteristics, regenerates project/event ledgers and the Markdown report, runs 20 tests, and independently verifies **six expected core-output SHA-256 hashes**. Source files are restored to ignored `data/raw/`; the two large intermediate caches are regenerated.
+The command restores 495 hash-verified frozen source files from three ZIP bundles in `data/`, reconstructs geography and permit classifications, joins historical assessor characteristics, regenerates project/event ledgers and the Markdown report, runs the methodology and snapshot regression suite, and independently verifies **six expected core-output SHA-256 hashes**. Source files are restored to ignored `data/raw/`; the two large intermediate caches are regenerated.
 
 To rerun notebook cells and regenerate the three figures:
 
@@ -110,6 +111,16 @@ The saved notebooks also run in a conventional Jupyter Python kernel after resto
 python code/validate.py
 ```
 
+## Citywide single-family analysis
+
+```bash
+python code/run.py --offline --citywide-single-family
+```
+
+This separate profile reruns geography, scope classification, project linkage, and historical-stock estimation across all wards. It independently recounts every supported baseline from frozen residential cards or supported zero-stock classes and verifies a separate set of expected output hashes. It does not overwrite the three-ward report or its configuration. No credentials or network calls are needed.
+
+See [citywide methodology and results](docs/citywide_methodology.md), [ward subtotals and coverage](data/citywide/derived/ward_summary.csv), [project-level evidence](data/citywide/derived/single_family_projects.csv), and [reviewed scope decisions](docs/citywide_scope_review.csv). Wards with no supported projects have an unknown subtotal, not an invented zero. The supplemental source selection targets single-family candidates; it does not establish citywide all-housing net totals.
+
 ## What is included
 
 | Path | Purpose |
@@ -122,6 +133,9 @@ python code/validate.py
 | `data/derived/annual_authorization_events.csv` | Additions/removals in their authorization years; distinct from project impact |
 | `data/derived/unresolved_project_review_queue.csv` | Remaining projects ordered for review |
 | `docs/review_decisions.csv` | Explicit record-level scope corrections |
+| `docs/citywide_scope_review.csv` | Audited citywide scope exclusions and one withheld condo-site estimate |
+| `data/citywide/` | Separate citywide configuration, source manifest, results, coverage and expected hashes |
+| `data/benchmark_history.json` | Previous rules version and expected benchmark hashes |
 | `notebooks/` | Two executed notebooks, 13 code cells, portable HTML readouts |
 | `report/` | Regenerated GitHub-readable report and analytical PNGs |
 | `tests/` | Scope, identity, timing, geography, and missing-value regression tests |
@@ -146,8 +160,10 @@ Contributions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). The next exte
 
 ## Project checks and support
 
-GitHub Actions replays the frozen analysis on Python 3.11, 3.12, and 3.13, and executes the notebooks on Python 3.12. Actions are pinned to commit hashes; Dependabot proposes dependency updates. The core replay uses only the standard library.
+GitHub Actions replays the focused analysis on Python 3.11, 3.12, and 3.13, executes the notebooks on Python 3.12, and separately replays the citywide single-family profile. Actions are pinned to commit hashes; Dependabot proposes dependency updates. The core replay uses only the standard library.
 
 Run `python code/check_public_files.py` to verify release checksums and scan public files, including ZIP/gzip members, for local-path and credential patterns. This is a pattern-based guard; review new contributions and source selections before publishing them. To create a portable ZIP and refresh `MANIFEST.sha256`, run `python code/make_public_archive.py`.
 
 Use [issues](https://github.com/MisterClean/chicago-net-permit-calculation/issues) for reproducible bugs or source-backed methodology questions, [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance, and [SECURITY.md](SECURITY.md) for private vulnerability reporting. Cite this project using [CITATION.cff](CITATION.cff).
+
+Methodology changes and benchmark versioning are documented in [CHANGELOG.md](CHANGELOG.md). Rules 1.1.0 add scope regression cases and a condominium site-address guard; derived benchmarks are explicitly versioned rather than silently retaining obsolete hashes.

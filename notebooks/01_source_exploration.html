@@ -45,8 +45,7 @@ def show_rows(rows, fields, limit=12):
     print(buffer.getvalue())
 config = read(ROOT / &#x27;config.json&#x27;)
 stats = read(DERIVED / &#x27;report_statistics.json&#x27;)
-</pre></details><pre class="output">Matplotlib is building the font cache; this may take a moment.
-</pre><h2>Data</h2>
+</pre></details><h2>Data</h2>
 <h3>1. Source and extract coverage</h3><details><summary>Code cell 2</summary><pre>print(json.dumps({k:v for k,v in stats.items() if k!=&#x27;focus_summary&#x27;}, indent=2))
 print(&#x27;Partition checks:&#x27;, read(DERIVED / &#x27;permit_extraction_checks.json&#x27;))
 print(&#x27;Geography and duplicate-key checks:&#x27;, read(DERIVED / &#x27;permit_geography_profile.json&#x27;))</pre></details><pre class="output">{

@@ -48,6 +48,39 @@ def references(text):
     return sorted(set(re.findall(r'(?<!\d)(?:B)?10\d{7}(?!\d)',text)))
 
 
+def principal_dwelling_evidence(text: str) -> bool:
+    """Require the construction verb to describe a dwelling, not work at one."""
+    pattern = re.compile(
+        r'(?=\b(?P<action>ERECT(?:ION)?|CONSTRUCT|CONSTRUCTION OF|NEW(?: CONSTRUCTION)?|'
+        r'FULL BUILDING PERMIT(?: FOR)?|PROPOSED|PROPOED|PROPSOED)\b'
+        r'(?P<prefix>.{0,140}?)'
+        r'(?:RESIDEN\w*|SINGLE[ -]?FAMILY|SFR\b|SFH\b|HOUSE\b|HOME\b|BUILDING\b|'
+        r'\d+\s*(?:DWELLING|D\.?\s?U\b|UNIT\b|FLAT\b)|TOWNHOU\w*))'
+    )
+    ancillary = re.compile(
+        r'\b(?:DECK|PORCH|DORMER|POOL|WALKWAY|CARPORT|STAIR\w*|GARAGE|ROOF|'
+        r'WINDOW\w*|INTERIOR|KITCHEN|BATHROOM|ELECTRICAL|MECHANICAL|RENOVAT\w*|REPAIR\w*|'
+        r'FINISH\w*|MEPS?|SIDING|LAYOUT|STEPS|DETAILING|RESTORE|'
+        r'PARKING|PAD|CONCRETE|STORAGE|PUMP|ROOM|CONNECTION|SKYLIGHTS?|DRIVEWAY|'
+        r'CURB|FENCE|LANDSCAP\w*|TRASH|ENCLOSURE|PERGOLA|DINING|PAVIL\w*)\b'
+    )
+    for match in pattern.finditer(text):
+        prefix = match['prefix']
+        if re.match(r'\s*USE\b', prefix):
+            continue
+        # A roof deck listed with a new building's basement is an amenity,
+        # unlike a permit whose construction object is a deck at a building.
+        scope_prefix = re.sub(r'\bWITH BASEMENT AND ROOF DECKS?\b', '', prefix)
+        preceding = text[:match.start()]
+        if re.search(r'\b(?:OF|AT|ON|FOR|TO)\s+(?:(?:A|AN|THE)\s+)*$', preceding) and ancillary.search(preceding):
+            continue
+        if match['action'].startswith('CONSTRUCT') and re.match(r'\s*TYPE\b', prefix):
+            continue
+        if ancillary.search(scope_prefix) is None:
+            return True
+    return False
+
+
 def classify(row):
     original=row.get('work_description','');text=normalize(original)
     mentions=unit_mentions(text)
@@ -66,13 +99,17 @@ def classify(row):
         result['after_units']=0
         result['parser_reason']='demolition_requires_existing_stock'
         return result
-    if 'REINSTATE' in ptype or re.search(r'\bREVISIONS?\b|\bREINSTATEMENT\b',text):
+    if 'REINSTATE' in ptype or re.search(r'\bREVISIONS?\b|\bREVISED\b|\bREINSTATEMENT\b',text):
         result['kind']='amendment';result['parser_reason']='amendment_not_additional_units'
         return result
     if ptype not in ['PERMIT - NEW CONSTRUCTION','PERMIT - RENOVATION/ALTERATION']:
         result['parser_reason']='outside_primary_building_permit_types';return result
     if not HOUSING.search(text):
         result['parser_reason']='no_dwelling_evidence';return result
+    if re.search(r'\b(?:COMBINE|COMBINING(?: OF)?|COMBINATION OF)\s+(?:(?:\d+|EXISTING|CONDOMINIUM|CONDO|DWELLING|RESIDENTIAL)\s+){0,5}(?:UNITS?|DWELLINGS?)\b',text):
+        result['kind']='conversion_unresolved'
+        result['parser_reason']='unit_combination_requires_building_scope_review'
+        return result
     # Conversion counts are deliberately limited to building-scope explicit pairs.
     if re.search(r'\b(?:DE)?CONVERT|\b(?:DE)?CONVERSION',text):
         if re.search(r'\bCONVERT(?:ING)?\s+(?:THE\s+)?(?:EXISTING\s+)?(?:GARAGE|PORCH|DECK)',text) and not mentions:
@@ -96,11 +133,22 @@ def classify(row):
                 return result
         result['kind']='conversion_unresolved';result['parser_reason']='conversion_without_explicit_unit_pair'
         return result
-    # ADUs and legalizations are not inferred to be newly created physical homes.
+    # A permit legalizing already-built work does not date its physical creation.
+    if re.search(r'\bLEGALIZ\w*\b|BUILT WITHOUT (?:A |OBTAINING (?:A )?)?(?:BUILDING )?PERMIT',text):
+        result['kind']='addition_unresolved'
+        result['parser_reason']='legalization_physical_change_unverified'
+        return result
+    # ADUs are not inferred to be newly created physical homes.
     if re.search(r'\bADU\b|A\.D\.U\.|ADDITIONAL (?:LEGAL )?DWELLING|COACH[ -]?HOUSE',text) and 'NEW CONSTRUCTION' not in ptype:
         result['kind']='addition_unresolved';result['parser_reason']='adu_or_legalization_requires_scope_review';return result
     new_type='NEW CONSTRUCTION' in ptype
-    new_building=bool(re.search(r'(?:ERECT|CONSTRUCT|NEW CONSTRUCTION|FULL BUILDING PERMIT|PROPOSED|NEW).{0,100}(?:RESIDEN|SFR|SINGLE[ -]?FAMILY|\d\s*(?:DWELLING|D\.?\s?U|UNIT|FLAT)|TOWNHOU)',text))
+    new_building=principal_dwelling_evidence(text)
+    context=HOUSING.search(text)
+    lead=text[:context.start()] if context else text
+    if new_type and not new_building and re.search(r'INTERIOR|RENOVAT|REMODEL|REPAIR|ALTERATION|WINDOW|DECK|PORCH|STAIR|POOL|DORMER|ROOF|EXISTING|EXISITNG|EXSTING',lead):
+        result['kind']='renovation_no_explicit_change'
+        result['parser_reason']='work_at_existing_dwelling_not_principal_construction'
+        return result
     if not new_type and (not new_building or re.search(r'\bADDITION\b|\bEXISTING\b',text)):
         result['kind']='renovation_no_explicit_change';return result
     if new_type and re.search(r'COACH[ -]?HOUSE|\bADU\b|A\.D\.U',text) and not re.search(r'INTERIOR RENOV|ALTERATION.*EXISTING.*COACH',text):
@@ -113,11 +161,11 @@ def classify(row):
     sf=SF.search(text)
     if sf:dwelling_positions.append(sf.start())
     accessory=re.search(r'\bGARAGE\b|\bPERGOLA\b|\bROOF DECK\b|DINING PAV',text)
-    if accessory and dwelling_positions and accessory.start()<min(dwelling_positions) and not re.search(r'COACH[ -]?HOUSE|\bADU\b',text):
+    if accessory and dwelling_positions and accessory.start()<min(dwelling_positions) and not new_building and not re.search(r'COACH[ -]?HOUSE|\bADU\b',text):
         result['parser_reason']='accessory_work_before_existing_dwelling_context';return result
     if new_type and re.search(r'\bADD(?:ITION)?\b.{0,100}(?:EXISTING|\bTO\b)',text) and not re.search(r'(?:NEW CONSTRUCTION|ERECT).{0,50}(?:DWELLING|SFR|SINGLE FAMILY)',text):
         result['parser_reason']='addition_or_deck_without_explicit_dwelling_gain';return result
-    if re.search(r'(?:REPLACE|REPLACEMENT OF|NEW|ERECT).{0,35}GARAGE.{0,35}(?:FOR|AT|TO).{0,30}(?:EXISTING|SINGLE FAMILY|SFR)',text) and not mentions:
+    if re.search(r'(?:REPLACE|REPLACEMENT OF|NEW|ERECT).{0,35}GARAGE.{0,35}(?:FOR|AT|TO).{0,30}(?:EXISTING|SINGLE FAMILY|SFR)',text) and not mentions and not new_building:
         result['parser_reason']='garage_scope_only';return result
     if not mentions and SF.search(text) and re.search(r'EXISTING.{0,40}(?:SINGLE FAMILY|SFR|SFH)',text) and not re.search(r'(?:NEW|ERECT|PROPOSED).{0,65}(?:SINGLE FAMILY|SFR|SFH)',text):
         result['parser_reason']='existing_home_context_only';return result
@@ -130,6 +178,8 @@ def classify(row):
     if units==0:
         result['parser_reason']='zero_units_stated';return result
     building_type='townhouse_or_multibuilding' if re.search(r'TOWNHOU|ROW[ -]?HOM|ROW[ -]?HOUSE',text) else ('single_family' if units==1 else 'multifamily')
+    if units==1 and re.search(r'MIXED[ -]?USE|RETAIL|COFF[E]*[ -]?SHOP|YOGA STUDIO|\bRESTAURANT\b|\b1 OFFICE\b',text):
+        building_type='mixed_use'
     result.update(kind='new_construction',after_units=units,building_type=building_type,unit_evidence=mentions or ['single_family_description'],parser_reason='explicit_new_dwelling_count')
     if re.search(r'\b\d+\s+(?:NEW\s+)?\d[ -]STORY.*BUILDINGS|BUILDINGS.*EACH|EACH.*BUILDINGS',text):result['review_flags'].append('multiple_building_multiplicity')
     if re.search(r'NURSING|ASSISTED LIVING|HOTEL|DORMITORY|DORMITORIES|SHELTER|STUDENT HOUSING',text):result['review_flags'].append('residential_definition_review')

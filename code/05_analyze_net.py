@@ -1,10 +1,13 @@
 """Build reviewed project and annual-permit ledgers; unknown losses stay null."""
 import collections
 import datetime as dt
+from functools import cache
 import json
 import re
 from assessor import Assessor,base_address
-from source_io import ROOT,DERIVED,read,write_csv,write_json
+from source_io import ROOT,DERIVED,CONFIG_PATH,read,write_csv,write_json
+
+base_address = cache(base_address)
 
 def date(value):return dt.date.fromisoformat(value[:10])
 
@@ -37,7 +40,7 @@ def is_garage_only(text):
 
 
 def main():
-    config=read(ROOT/'config.json');assessor=Assessor()
+    config=read(CONFIG_PATH);assessor=Assessor()
     all_rows=read(DERIVED/'permits_classified.json.gz')
     focus=[r for r in all_rows if r['current_ward'] in config['focus_wards']]
     new=[r for r in focus if r['kind'] in ['new_construction','new_accessory'] and not r['cancelled']]

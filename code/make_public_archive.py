@@ -8,7 +8,7 @@ from source_io import ROOT
 def included(path):
     rel = path.relative_to(ROOT)
     omitted = {'data/derived/permits_enriched.json.gz', 'data/derived/permits_classified.json.gz', 'MANIFEST.sha256'}
-    return path.is_file() and not path.is_symlink() and not any(p in {'.git', '__pycache__', '.venv', '.idea', '.vscode', '.pytest_cache', '.ruff_cache'} for p in rel.parts) and not rel.as_posix().startswith('data/raw/') and rel.as_posix() not in omitted and path.name != '.DS_Store' and not path.name.startswith('.env') and not path.name.endswith(('.log', '.pyc', '.pem', '.key'))
+    return path.is_file() and not path.is_symlink() and not any(p in {'.git', '__pycache__', '.venv', '.idea', '.vscode', '.pytest_cache', '.ruff_cache'} for p in rel.parts) and not rel.as_posix().startswith(('data/raw/', 'data/citywide/intermediate/')) and rel.as_posix() not in omitted and path.name != '.DS_Store' and not path.name.startswith('.env') and not path.name.endswith(('.log', '.pyc', '.pem', '.key'))
 
 
 def main():

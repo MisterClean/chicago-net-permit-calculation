@@ -5,7 +5,8 @@ type: software
 authors:
   - family-names: McLean
     given-names: Michael
-date-released: 2026-10-22
+date-released: 2026-10-26
+version: 1.1.0
 repository-code: "https://github.com/MisterClean/chicago-net-permit-calculation"
 license: MIT
 abstract: "Reproducible analysis of Chicago gross and net permitted housing units using historical pre-clearance assessor baselines, staged-project linkage, and explicit uncertainty."

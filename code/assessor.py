@@ -114,6 +114,12 @@ class Assessor:
             if not parcels:unknown.append(pin10+':missing_universe');continue
             condo=self.condominium.get((pin10,year),[])
             if condo:
+                historical_addresses={base_address(r.get('prop_address_full')) for r in self.rows['addresses']
+                                      if r['pin10']==pin10 and integer(r['year'])==year}
+                if historical_addresses and base_address(record.get('address')) not in historical_addresses:
+                    unknown.append(pin10+':condominium_site_address_mismatch')
+                    result['baseline_flags'].append('condominium_site_scope_unverified')
+                    continue
                 bypin={r['pin']:r for r in condo}
                 required={p['pin'] for p in parcels if p.get('class')=='299'}
                 if required-set(bypin):unknown.append(pin10+':incomplete_condominium_records');continue

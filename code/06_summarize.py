@@ -45,7 +45,7 @@ def main():
         for state in ['Matched estimate','Unresolved']:
             subset=[r for r in p if (r['net_project_units'] is not None)==(state=='Matched estimate')]
             coverage.append({'ward':ward,'state':state,'projects':len(subset),'gross_units':sum(r['gross_new_units'] for r in subset)})
-        for label,key in [('Single-family principal buildings','single_family'),('Multifamily buildings','multifamily'),('Townhouse groups','townhouse_or_multibuilding')]:
+        for label,key in [('Single-family principal buildings','single_family'),('Multifamily buildings','multifamily'),('Townhouse groups','townhouse_or_multibuilding'),('One-dwelling mixed-use buildings','mixed_use')]:
             subset=[r for r in p if r['building_type']==key and r['kind']=='new_construction']
             building_mix.append({'ward':ward,'building_type':label,'units':sum(r['gross_new_units'] for r in subset)})
         building_mix.append({'ward':ward,'building_type':'Detached accessory dwellings','units':sum(r['gross_new_units'] for r in p if r['kind']=='new_accessory')})

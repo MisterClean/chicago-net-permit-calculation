@@ -17,6 +17,6 @@ The root MIT license covers this project's original Python code, original analyt
 
 Exact requests, retrieval times, response digests, and selected-field definitions are in the frozen bundles and restored `data/raw/` directory. Acquisition code selects property attributes needed for the analysis; it does not request taxpayer or owner contact fields. Permit descriptions and property locations are public-source records and may still contain incidental source text. The archive contains data/metadata, not the publisher's executable app code.
 
-The source snapshot was collected October 22, 2026. The report's cohort ends October 8, 2026. Annual assessor records are estimates and may lag physical change. Source terms are those of the original providers; no provider endorses these findings.
+The original source snapshot was collected October 22, 2026. The citywide single-family supplement adds historical assessor responses collected October 26, 2026; their exact receipts and dates are retained in archive 003 and the citywide validation output. The report's cohort ends October 8, 2026. Annual assessor records are estimates and may lag physical change. Source terms are those of the original providers; no provider endorses these findings.
 
 Optional notebook dependencies, matplotlib and numpy, are installed from their standard distributions and retain their own licenses. The original ChatGPT report app runtime and its vendored dependencies are not redistributed in this public repository.

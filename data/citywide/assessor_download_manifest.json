@@ -1,0 +1,92 @@
+{
+  "target_pin10_count": 1004,
+  "resolved_pin14_count": 1163,
+  "year_filter": "year >= 2017 AND year <= 2025",
+  "files": {
+    "addresses": [
+      "assessor_addresses_by_address_08e71e05b4.json.gz",
+      "assessor_addresses_by_address_0f1bdad4f7.json.gz",
+      "assessor_addresses_by_address_1269363b1d.json.gz",
+      "assessor_addresses_by_address_195329b10e.json.gz",
+      "assessor_addresses_by_address_1c59a00d99.json.gz",
+      "assessor_addresses_by_address_326e34e285.json.gz",
+      "assessor_addresses_by_address_3c120c5e90.json.gz",
+      "assessor_addresses_by_address_57edb5fd6b.json.gz",
+      "assessor_addresses_by_address_58566e9ef9.json.gz",
+      "assessor_addresses_by_address_5b8d428eb6.json.gz",
+      "assessor_addresses_by_address_7b5fee62f8.json.gz",
+      "assessor_addresses_by_address_815eebce7d.json.gz",
+      "assessor_addresses_by_address_82d2c20c35.json.gz",
+      "assessor_addresses_by_address_869173c158.json.gz",
+      "assessor_addresses_by_address_97693dca2a.json.gz",
+      "assessor_addresses_by_address_97e84f248f.json.gz",
+      "assessor_addresses_by_address_a1ef1b8526.json.gz",
+      "assessor_addresses_by_address_a535acc53e.json.gz",
+      "assessor_addresses_by_address_b53a077ddf.json.gz",
+      "assessor_addresses_by_address_b7e276a9c5.json.gz",
+      "assessor_addresses_by_address_bc8af46b88.json.gz",
+      "assessor_addresses_by_address_c6ca0022e9.json.gz",
+      "assessor_addresses_by_address_c7fc4dc31f.json.gz",
+      "assessor_addresses_by_address_d39aecee9c.json.gz",
+      "assessor_addresses_by_address_d9ad7d8549.json.gz",
+      "assessor_addresses_by_address_dd7a3a0373.json.gz",
+      "assessor_addresses_by_address_ecf8f3d405.json.gz",
+      "assessor_addresses_by_address_f356e23981.json.gz",
+      "assessor_addresses_by_address_fdd7754ece.json.gz",
+      "assessor_addresses_by_address_fde67cf668.json.gz",
+      "assessor_addresses_by_address_ffef0761ec.json.gz",
+      "assessor_addresses_by_pin_0e3c9a6f3f.json.gz",
+      "assessor_addresses_by_pin_3f6d301e0b.json.gz",
+      "assessor_addresses_by_pin_570ee35eb4.json.gz",
+      "assessor_addresses_by_pin_6bbe6f4024.json.gz",
+      "assessor_addresses_by_pin_79cd91fb15.json.gz",
+      "assessor_addresses_by_pin_b2cb4d149a.json.gz",
+      "assessor_addresses_by_pin_b3c87d4a2c.json.gz",
+      "assessor_addresses_by_pin_bbe57c9a9c.json.gz",
+      "assessor_addresses_by_pin_ebbfaf4373.json.gz"
+    ],
+    "universe": [
+      "assessor_universe_092c4eb7a7.json.gz",
+      "assessor_universe_15eb7f393a.json.gz",
+      "assessor_universe_17ea98c24b.json.gz",
+      "assessor_universe_19cfaf3ee4.json.gz",
+      "assessor_universe_32247b7370.json.gz",
+      "assessor_universe_3d915f4cda.json.gz",
+      "assessor_universe_5319852c90.json.gz",
+      "assessor_universe_8635423f2a.json.gz",
+      "assessor_universe_c5f0b27dbc.json.gz",
+      "assessor_universe_ed9fc578ce.json.gz",
+      "assessor_universe_f611120999.json.gz"
+    ],
+    "residential": [
+      "assessor_residential_5ee1de3642.json.gz",
+      "assessor_residential_71a60c17c6.json.gz",
+      "assessor_residential_92ef3dfca4.json.gz",
+      "assessor_residential_cfd7da7dd0.json.gz",
+      "assessor_residential_d568240496.json.gz",
+      "assessor_residential_d60c05f86a.json.gz"
+    ],
+    "condominium": [
+      "assessor_condominium_1c0985ef3c.json.gz",
+      "assessor_condominium_57ff999227.json.gz",
+      "assessor_condominium_5ec273d624.json.gz",
+      "assessor_condominium_6672758a95.json.gz",
+      "assessor_condominium_7005c8b345.json.gz",
+      "assessor_condominium_94f281d01b.json.gz",
+      "assessor_condominium_d36f76a05c.json.gz",
+      "assessor_condominium_f6ea5330fa.json.gz",
+      "assessor_condominium_fd79a58b41.json.gz"
+    ],
+    "commercial": [
+      "assessor_commercial_611dba0dd7.json.gz",
+      "assessor_commercial_88bf6cea2f.json.gz"
+    ]
+  },
+  "rows": {
+    "addresses": 16487,
+    "universe": 9671,
+    "residential": 5386,
+    "condominium": 1465,
+    "commercial": 68113
+  }
+}

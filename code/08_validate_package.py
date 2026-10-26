@@ -7,6 +7,7 @@ from source_io import ROOT,RAW,DERIVED,read,write_json
 
 def main():
     inputs=read(ROOT/'data/input_hashes.json')
+    test_count=read(DERIVED/'test_execution.json')['tests']
     for relative,digest in inputs.items():
         assert hashlib.sha256((ROOT/relative).read_bytes()).hexdigest()==digest,relative
     projects=read(DERIVED/'net_projects.json')
@@ -50,13 +51,15 @@ def main():
     assert (ROOT/'report/report.md').stat().st_size>10_000
     assert all(r['status']=='passed' for r in read(DERIVED/'notebook_execution.json'))
     replay={}
-    for name,expected in read(ROOT/'data/replay_expected_hashes.json').items():
+    expected_outputs=read(ROOT/'data/replay_expected_hashes.json')
+    assert set(expected_outputs)=={'focus_net_summary.json','net_projects.json','annual_authorization_events.json','report_statistics.json','sf_sensitivity.json','report_snapshot.json'}
+    for name,expected in expected_outputs.items():
         actual=hashlib.sha256((DERIVED/name).read_bytes()).hexdigest()
         replay[name]={'expected_sha256':expected,'actual_sha256':actual,'matches':actual==expected}
         assert actual==expected,'Replay mismatch: '+name
     report={'status':'share_with_caveats','frozen_input_files_verified':len(inputs),'unique_permit_records':len(permits),
             'independent_single_family_aggregates':independent,'ward32_source_card_baselines_independently_recomputed':len(source_checks),
-            'deterministic_replay':replay,'methodology_tests':20,'notebook_code_cells':13,
+            'deterministic_replay':replay,'methodology_tests':test_count,'notebook_code_cells':13,
             'visual_checks':{'notebook_png_figures':'three inspected at reading size','report':'GitHub-readable Markdown; hosted app shell excluded from open-source edition'},
             'limitations':['Assessor estimates are not completed housing-stock observations.','Material unresolved baselines prevent full ward net totals and rankings.','Current-source status differs from historical issuance status.']}
     write_json(DERIVED/'validation.json',report)
@@ -67,7 +70,7 @@ def main():
 - Verified all {len(inputs)} source-file SHA-256 digests.
 - Reconciled {len(permits):,} downloaded permit records and independently verified source-card baselines for {len(source_checks)} Ward 32 single-family projects.
 - All six frozen core-output hashes match exactly.
-- The replay runs 20 methodology and snapshot tests.
+- The replay runs {test_count} methodology and snapshot tests, including the reviewed citywide scope fixtures.
 - Both saved notebooks contain 13 executed cells in total. Three analytical PNG figures were visually inspected in the original analysis.
 - Core calculations and Markdown report use Python 3.11+ and the standard library. Optional notebook execution uses pinned matplotlib/numpy dependencies.
 

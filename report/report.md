@@ -4,17 +4,17 @@ A reproducible audit of gross construction counts, historical housing stock and 
 
 ## Executive Summary
 
-- **Matched single-family projects show a housing loss.** 105 Ward 32 projects describe 105 new principal homes, replacing an estimated 172 existing dwellings: **-67 net units**. This is an assessor-based estimate of project impact, not completed housing production.
-- **Coverage limits the wardwide answer.** 25 of 130 classified single-family projects remain unresolved. Across all classified new projects, supported net estimates cover only **42.3% of described gross units**. A full Ward 32 net total or citywide net ranking is not established.
+- **Matched single-family projects show a housing loss.** 104 Ward 32 projects describe 104 new principal homes, replacing an estimated 171 existing dwellings: **-67 net units**. This is an assessor-based estimate of project impact, not completed housing production.
+- **Coverage limits the wardwide answer.** 25 of 129 classified single-family projects remain unresolved. Across all classified new projects, supported net estimates cover only **42.3% of described gross units**. A full Ward 32 net total or citywide net ranking is not established.
 - **Keep multifamily construction visible, with a clearer definition.** The publisher reports 677 multifamily units and fifth place for Ward 32. The description audit identifies **35 townhouse units** that should be shown separately and several examples where permit type or an occupancy code gives the wrong unit count.
 
 ## Replacements change the single-family story
 
-Among the 105 matched Ward 32 single-family principal-building projects, **55 reduce the estimated dwelling count, 40 replace homes one for one, and 10 add units**. Another 25 classified projects have unresolved site or baseline evidence. Detached accessory dwellings are a separate category.
+Among the 104 matched Ward 32 single-family principal-building projects, **55 reduce the estimated dwelling count, 39 replace homes one for one, and 10 add units**. Another 25 classified projects have unresolved site or baseline evidence. Detached accessory dwellings are a separate category.
 
 This supports the proposed replacement mechanism within the matched cohort. It does not establish a causal effect of an alder, a completed-stock change, or the net impact of every permit in the ward. Assessor characteristics may lag physical changes.
 
-The sign also remains negative in the narrower native-PIN subset with no baseline flags: **-65 units across 103 projects**. These subsets are selected by matchability, not random samples; the comparison does not remove assessor error.
+The sign also remains negative in the narrower native-PIN subset with no baseline flags: **-65 units across 102 projects**. These subsets are selected by matchability, not random samples; the comparison does not remove assessor error.
 
 ![Matched and unresolved single-family projects](figures/ward32-single-family-outcomes.png)
 
@@ -34,15 +34,15 @@ The examples below show why a permit for one house can contribute a negative net
 
 The independent classifier identifies **239 new projects describing 834 units** in Ward 32 after stage deduplication and current cancellation screening. The 175 projects with supported baselines describe 353 gross units and yield **+77 estimated net units**. The remaining 64 projects are unresolved and are concentrated in larger developments.
 
-Do not subtract the matched losses from all published gross units and label the result net. Do not rank wards by these partial subtotals or call them lower bounds. Unknown removals can reduce a result and unknown additions or scope changes can increase it. The project and unit denominators are both retained for inspection.
+Do not subtract the matched losses from all published gross units and label the result net. Any ordering of supported subtotals must be labeled as partial and shown with coverage; it is not a complete ward ranking or a lower bound. Unknown removals can reduce a result and unknown additions or scope changes can increase it. The project and unit denominators are both retained for inspection.
 
 ![Unit-weighted baseline coverage](figures/unit-weighted-coverage.png)
 
 | Ward | Projects | Gross units | Supported projects | Gross units with baseline | Partial net subtotal |
 | --- | --- | --- | --- | --- | --- |
 | 32 | 239 | 834 | 175 | 353 | 77 |
-| 1 | 113 | 620 | 76 | 263 | 161 |
-| 47 | 173 | 692 | 126 | 354 | 190 |
+| 1 | 107 | 621 | 70 | 247 | 162 |
+| 47 | 170 | 687 | 123 | 349 | 190 |
 
 ## Gross multifamily counts remain a useful companion
 
@@ -131,6 +131,10 @@ These are specific observed cases, not an estimated error rate for the publisher
 
 **Project net units = authorized post-project site dwellings − documented pre-project site dwellings.** Count the same site on both sides, include retained housing, and preserve negative and zero results. Count vacant dwellings in the existing stock. Ownership conversions alone contribute zero. Legalizing an existing unit does not establish a new physical dwelling; possible legalizations are flagged.
 
+**Principal single-family scope (rules 1.1.0).** A new house must be the object of the construction scope. A new roof, deck, porch, pool, stair, equipment installation or interior renovation at a house does not create a new principal dwelling, even when the permit type says New Construction. Conversely, an explicit new principal house remains eligible when filed as Renovation/Alteration. A construction-type or occupancy label is not evidence of dwelling construction. Legalizations of already-built work and condo-unit combinations remain outside the new-house cohort. One-dwelling mixed-use buildings are tracked separately from principal single-family houses. Reviewed exceptions and source descriptions are retained in docs/review_decisions.csv and docs/citywide_scope_review.csv.
+
+**Condominium site scope.** A native 10-digit condo parent PIN does not establish that every dwelling on the parent parcel is removed by a house permit. When available historical condo addresses do not match the permit site, withhold the baseline and net estimate and retain condominium_site_scope_unverified. This guard does not certify retained-building or complex-site scope simply because an address matches.
+
 **Project identity.** Resolve explicit permit references and same-site foundation/full filings with the same unit program. Count a program once. Multiple principal buildings sharing a site, conflicting programs, retained housing and unclear parcel assemblies remain review cases. Use the first full-building filing for a project cohort when present; show partial-only projects as pipeline.
 
 **Existing-stock baseline.** Use a historical assessor year before the earliest linked project/clearance event. A prior year immediately before the construction permit may already describe cleared land. Resolve 10-digit parcel identities to year-specific 14-digit records; count distinct buildings/cards, filter condo parking/storage, and avoid repeated commercial entity rows. A missing row is not evidence of zero housing. Intervening housing authorizations require stock review rather than an assumption that the work was completed.
@@ -139,7 +143,7 @@ These are specific observed cases, not an estimated error rate for the publisher
 
 **Multifamily companion measures.** Publish gross newly authorized dwellings in buildings with two or more units, plus net multifamily stock authorized: multifamily dwellings afterward minus multifamily dwellings beforehand. A two-flat becoming one house means −1 total dwelling and −2 multifamily dwellings. Keep townhouse groups and detached accessory dwellings separate where the building definition is uncertain.
 
-**Release rule.** Publish coverage beside every subtotal and withhold complete ward totals/rankings while material baselines or scope remain unresolved. Compare 2023–2025 complete years separately from 2026 YTD. Fix ward boundaries for geographic comparisons and do not equate permit issuance with construction completion or causal political credit.
+**Release rule.** Publish coverage beside every subtotal and withhold complete ward totals/rankings while material baselines or scope remain unresolved. Exploratory ordering of supported subtotals is permitted only with an explicit partial-estimate label and unresolved-project counts; include positive and zero projects in every net subtotal. Compare 2023–2025 complete years separately from 2026 YTD. Fix ward boundaries for geographic comparisons and do not equate permit issuance with construction completion or causal political credit.
 
 ## Keep annual authorizations separate from project impact
 
@@ -153,19 +157,19 @@ The annual figures below are **known-event subtotals, not complete net totals**.
 | 32 | 2024 | 87 | 26 | 129 |
 | 32 | 2025 | 148 | 26 | 107 |
 | 32 | 2026 | 183 | 25 | 95 |
-| 1 | 2023 | 6 | 33 | 47 |
+| 1 | 2023 | 4 | 33 | 46 |
 | 1 | 2024 | 75 | 26 | 68 |
-| 1 | 2025 | 98 | 33 | 46 |
-| 1 | 2026 | 293 | 31 | 47 |
-| 47 | 2023 | 169 | 25 | 90 |
+| 1 | 2025 | 117 | 34 | 45 |
+| 1 | 2026 | 277 | 31 | 43 |
+| 47 | 2023 | 169 | 24 | 90 |
 | 47 | 2024 | 57 | 26 | 108 |
-| 47 | 2025 | 141 | 22 | 111 |
-| 47 | 2026 | 36 | 7 | 66 |
+| 47 | 2025 | 139 | 22 | 110 |
+| 47 | 2026 | 33 | 7 | 64 |
 
 ## Reproduce the result and finish the unresolved cases
 
 The package contains frozen compressed source responses, exact non-secret request URLs and retrieval timestamps, source dictionaries, configuration, classification rules, review decisions, complete project/event CSVs, two executed notebooks, tests, and an open-source Python pipeline that generates the reviewed report data and Markdown.
 
-Run `python code/run.py --offline` to recompute the analysis from the saved inputs. The command regenerates this Markdown report, all project and event ledgers, and the reviewed evidence snapshot. Run `python code/validate.py` to check the six frozen core-output hashes. Run `python code/execute_notebooks.py` to rerun the notebook companions. No credentials or live connections are required for replay. Acquisition scripts resume cached requests; a live refresh is a separate new snapshot, not a replay of this one.
+Run `python code/run.py --offline` to recompute the three-ward analysis from the saved inputs. Run `python code/run.py --offline --citywide-single-family` for the separate citywide principal-house profile and its own expected output hashes. Its supplemental historical assessor responses were collected October 26, 2026; the permit cohort still ends October 8, 2026. The command regenerates this Markdown report, all project and event ledgers, and the reviewed evidence snapshot. Run `python code/validate.py` to check the six frozen core-output hashes. Run `python code/execute_notebooks.py` to rerun the notebook companions. No credentials or live connections are required for replay. Acquisition scripts resume cached requests; a live refresh is a separate new snapshot, not a replay of this one.
 
 The next substantive task is the unresolved-project review queue, sorted by gross-unit impact. Resolve parcel assemblies, larger commercial/apartment baselines, retained buildings and mismatched existing-unit counts before releasing a full ward net total. The current evidence supports the replacement mechanism in the matched single-family cohort, while leaving Ward 32's complete net ranking open.

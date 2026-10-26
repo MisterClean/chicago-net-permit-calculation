@@ -3,6 +3,7 @@ import datetime as dt
 import gzip
 import hashlib
 import json
+import os
 from pathlib import Path
 import time
 import urllib.parse
@@ -10,7 +11,11 @@ import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / 'data/raw'
-DERIVED = ROOT / 'data/derived'
+PROFILE = os.environ.get('CHICAGO_PERMITS_PROFILE', 'focus')
+if PROFILE not in {'focus', 'citywide-single-family'}:
+    raise ValueError('Unsupported analysis profile.')
+DERIVED = ROOT / ('data/citywide/intermediate' if PROFILE == 'citywide-single-family' else 'data/derived')
+CONFIG_PATH = ROOT / ('data/citywide/config.json' if PROFILE == 'citywide-single-family' else 'config.json')
 
 
 def project_metadata(value):
@@ -68,14 +73,14 @@ def read(path):
 
 
 def write_json(path, value):
-    Path(path).write_text(json.dumps(value,indent=2,ensure_ascii=False)+'\n')
+    Path(path).write_text(json.dumps(value,indent=2,ensure_ascii=False)+'\n', encoding='utf-8', newline='\n')
 
 
 def write_csv(path, rows, fields=None):
     import csv
     rows=list(rows)
     fields=fields or list(rows[0]) if rows else fields or []
-    with Path(path).open('w',newline='') as stream:
+    with Path(path).open('w',newline='',encoding='utf-8') as stream:
         writer=csv.DictWriter(stream,fieldnames=fields,extrasaction='ignore')
         writer.writeheader()
         for row in rows:

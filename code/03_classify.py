@@ -3,15 +3,15 @@ import collections
 import gzip
 import json
 import csv
-from source_io import ROOT,RAW,DERIVED,read,write_json,write_csv
+from source_io import ROOT,RAW,DERIVED,CONFIG_PATH,read,write_json,write_csv
 from units import classify
 
 
 def main():
     raw=read(DERIVED/'permits_enriched.json.gz')
-    config=read(ROOT/'config.json')
+    config=read(CONFIG_PATH)
     decisions_path=ROOT/'docs/review_decisions.csv'
-    decisions={r['permit_number']:r for r in csv.DictReader(decisions_path.open())} if decisions_path.exists() else {}
+    decisions={r['permit_number']:r for r in csv.DictReader(decisions_path.open(encoding='utf-8',newline=''))} if decisions_path.exists() else {}
     rows=[]
     for r in raw:
         c=classify(r)

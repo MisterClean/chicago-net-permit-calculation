@@ -1,0 +1,433 @@
+{
+  "status": "share_with_caveats",
+  "rules_version": "1.1.0",
+  "report_start": "2023-01-01",
+  "report_end_exclusive": "2026-10-09",
+  "permit_snapshot_collected": "2026-10-22",
+  "assessor_receipt_dates": [
+    "2026-10-22",
+    "2026-10-26"
+  ],
+  "single_family_projects": 872,
+  "matched_projects": 631,
+  "unresolved_projects": 241,
+  "independently_recomputed_baselines": 631,
+  "reviewed_scope_cases": 48,
+  "assessor_source_receipts": [
+    {
+      "file": "data/raw/assessor_addresses_by_address_08e71e05b4.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_08e71e05b4.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:49.812378+00:00",
+      "sha256": "e8c10eb3027e9b2216448f04763bd011ad18a95e150fa70a5f8455743380ca7b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_0f1bdad4f7.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_0f1bdad4f7.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:46.358653+00:00",
+      "sha256": "092e0a93d0f207c646c9cfecf00b152669bd79b0444c508dc252598a9b99a874"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_1269363b1d.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_1269363b1d.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:33.958513+00:00",
+      "sha256": "40aae2f2528c97e73b61a806ec25cd1f71e3d0175af9429566b9a548a13ec938"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_195329b10e.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_195329b10e.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:22.718748+00:00",
+      "sha256": "9a993291cd5eb1e8fe82ed438b13a8001da64c208e189cdb4eea288d068ef2ef"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_1c59a00d99.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_1c59a00d99.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:28.315673+00:00",
+      "sha256": "bbd16f4881f0bfc6becfd7b467dae4106fbf187d3c1953d57edfbb5071a704d2"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_326e34e285.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_326e34e285.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:45.304565+00:00",
+      "sha256": "bd2ffd160525f454ae745594aa3741e198fb5ba381092aab0bb902f2635fd6b3"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_3c120c5e90.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_3c120c5e90.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:55.799557+00:00",
+      "sha256": "b240f94d60261faea9dace7b97555dda39b6fc22d7ccdd402ed0fe2a346a29dc"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_57edb5fd6b.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_57edb5fd6b.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:45.393934+00:00",
+      "sha256": "bb5a597ccee71b997b2fe617ddde6952ac38cc1dbb60c3aeeb4195c267a949a4"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_58566e9ef9.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_58566e9ef9.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:31.729699+00:00",
+      "sha256": "4f2d03edaf6f6e0d741118e84f3ce46f4bb2dc51c19fb62a6b0d7c7031df7f94"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_5b8d428eb6.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_5b8d428eb6.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:28.597348+00:00",
+      "sha256": "37b8e4d323a1a61fb130cfe7a2241ada0657f352086b8939473592bfba638c16"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_7b5fee62f8.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_7b5fee62f8.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:38.393038+00:00",
+      "sha256": "df5a9da48bb32cba568fd2228500b713c433f6a939ea77ebf0ca7805345d024b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_815eebce7d.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_815eebce7d.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:54.035321+00:00",
+      "sha256": "1cf5886664dc42a9dc6512e03301dc93529feb1391c7d16905f742533be92ea8"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_82d2c20c35.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_82d2c20c35.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:30.336567+00:00",
+      "sha256": "adf7ad711a3fecb6e9cd6b1f8b8e6e9d6ec4d07cc6ca36d5b6a3f304c8c136fd"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_869173c158.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_869173c158.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:07.547295+00:00",
+      "sha256": "440d0c4b1a408d54ac8b1b8cffa79c2ef0368553f736e96e1decc5b4b1c26f6d"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_97693dca2a.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_97693dca2a.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:33.380219+00:00",
+      "sha256": "a6701128bad0704eb39841b762dd7e5fd62a65dd76d4a99c3f4659027ae2ea62"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_97e84f248f.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_97e84f248f.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:57.344302+00:00",
+      "sha256": "26e77b65558323f06da3f1c86bdf3eddf4e4868834755d611fdde8c5b2bddbe3"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_a1ef1b8526.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_a1ef1b8526.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:41.603057+00:00",
+      "sha256": "1fac9c7e529e8c6821f3fb5eaa6cd4cbf83325796bb43d9fa153a591921da47e"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_a535acc53e.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_a535acc53e.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:01.461048+00:00",
+      "sha256": "9cbac2007042d7c08d0d25d1d7e95728c5e0e3ba9bbafab987ecabadf423756e"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_b53a077ddf.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_b53a077ddf.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:06.514564+00:00",
+      "sha256": "626446a69d6d3fd5fcbaaf6610485055bc4a17ab3c0f1afd4c8a9e0d27ef7c0b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_b7e276a9c5.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_b7e276a9c5.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:01.868635+00:00",
+      "sha256": "5b4c3df50bf3ee8aecfd98d366bb2100b3175f9dd87d757af617a26b3e59f20b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_bc8af46b88.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_bc8af46b88.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:36.981715+00:00",
+      "sha256": "a14c59ab7cce7d61e16b99817f96638768c3d625d707f56bfd2992bf995c269e"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_c6ca0022e9.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_c6ca0022e9.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:33.424159+00:00",
+      "sha256": "c31fb34cd1af88f57c254a33f7c6e3e24b7cc90c79d928427243ef8d21d34d38"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_c7fc4dc31f.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_c7fc4dc31f.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:46.863109+00:00",
+      "sha256": "a82a2f883a2232f7b20bebf5403db9e0c5bbabd1d112698d195320e6a376f98b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_d39aecee9c.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_d39aecee9c.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:39.288297+00:00",
+      "sha256": "fe737697952956171e2a79268ba9864db08c6cfc13dc135a7028697da20b3710"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_d9ad7d8549.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_d9ad7d8549.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:50.162761+00:00",
+      "sha256": "d1351ac84e22f912de8fcfa44e0c310b5cc7eaa1134cf0a5f453b686eb38003d"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_dd7a3a0373.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_dd7a3a0373.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:21.451644+00:00",
+      "sha256": "5fe7f29bb0b4e6f1986d0243245969855e62048c11b4eb0f2af585485302455b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_ecf8f3d405.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_ecf8f3d405.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:37.274048+00:00",
+      "sha256": "5ad7233abfa2d440f90c26b5bf2800200e10a889f22e70fd435ef1597195b89d"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_f356e23981.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_f356e23981.request.json",
+      "retrieved_at_utc": "2026-10-26T16:44:46.499682+00:00",
+      "sha256": "8db532f3da560c497891bc84df611ea8c00fe3edc009f4adba4f30bb98ca97a5"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_fdd7754ece.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_fdd7754ece.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:40.562370+00:00",
+      "sha256": "68f7a1080f794f2654e2aded2c34540c9499df32cda1ad98e6eecee902b1aac5"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_fde67cf668.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_fde67cf668.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:15.580466+00:00",
+      "sha256": "0f612cb9c7e97e8dcccba2e125e29d1251e445f43f34ac1d2c48b0e7135d7543"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_address_ffef0761ec.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_address_ffef0761ec.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:45.573469+00:00",
+      "sha256": "7dc52d3ed979fa134b85f994725c994b3eef4250c66f69a67fd06d1c0dca5bd0"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_0e3c9a6f3f.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_0e3c9a6f3f.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:54.033060+00:00",
+      "sha256": "d256cf2b759a71ada6f093f516898bc6eaf5233f1b143d766e2a416148809e0b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_3f6d301e0b.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_3f6d301e0b.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:19.796032+00:00",
+      "sha256": "8704370bceb6a4f9e57d25d92cade2d0a2b530375bd412eb43c7a7742be0b9fe"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_570ee35eb4.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_570ee35eb4.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:00.664998+00:00",
+      "sha256": "417154f1eaac2ed32c8c0bb6dcd658189e521a24cbf0144f8f0007029cd04ead"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_6bbe6f4024.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_6bbe6f4024.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:15.756999+00:00",
+      "sha256": "89bdb853f365fed0cc45b57825024c82e249263d02b21dfc4a08003c6de5d944"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_79cd91fb15.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_79cd91fb15.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:50.509635+00:00",
+      "sha256": "21a3c767795144ef2a7786f7619b77765fa5f53bf8fb6780b3edcf0798f67b58"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_b2cb4d149a.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_b2cb4d149a.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:50.510339+00:00",
+      "sha256": "835a895a7f02e87d8618ae73fd3385f702b7b3170d18bc2d2fb633a701935ffb"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_b3c87d4a2c.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_b3c87d4a2c.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:19.027377+00:00",
+      "sha256": "7ca3065300f333d60bd400c1b96533a963b26722eff48531358d86c38f37cb7b"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_bbe57c9a9c.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_bbe57c9a9c.request.json",
+      "retrieved_at_utc": "2026-10-26T16:45:54.033723+00:00",
+      "sha256": "8e5f85520e7c8c8076e09b86d0bfd366e475a071a750a1e7fef3db3ecfad18ab"
+    },
+    {
+      "file": "data/raw/assessor_addresses_by_pin_ebbfaf4373.json.gz",
+      "receipt": "data/raw/assessor_addresses_by_pin_ebbfaf4373.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:22.647221+00:00",
+      "sha256": "085b8074533e63edb28ee170310236711440fb4f24106e2d9c3f1ea0740b933e"
+    },
+    {
+      "file": "data/raw/assessor_commercial_611dba0dd7.json.gz",
+      "receipt": "data/raw/assessor_commercial_611dba0dd7.request.json",
+      "retrieved_at_utc": "2026-10-22T15:07:14.719567+00:00",
+      "sha256": "5ed0101a20f9ddedef0c379297586753d78535a6e0cb417e099b2451d339c651"
+    },
+    {
+      "file": "data/raw/assessor_commercial_88bf6cea2f.json.gz",
+      "receipt": "data/raw/assessor_commercial_88bf6cea2f.request.json",
+      "retrieved_at_utc": "2026-10-22T15:07:12.276368+00:00",
+      "sha256": "12aa6578e0a8e0b1a9c5b3da5de2db31858fe47f981b3d95a243e2800eca25dd"
+    },
+    {
+      "file": "data/raw/assessor_condominium_1c0985ef3c.json.gz",
+      "receipt": "data/raw/assessor_condominium_1c0985ef3c.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:52.071610+00:00",
+      "sha256": "9729e9ba2d9386d811d31675638e38cc739370aa55c4e41b5fe9a49108dac226"
+    },
+    {
+      "file": "data/raw/assessor_condominium_57ff999227.json.gz",
+      "receipt": "data/raw/assessor_condominium_57ff999227.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:55.893504+00:00",
+      "sha256": "420a1e47b25c2f9f64aaf1a18edf25dbccef5390fcda23952190fa30a7ae2d2b"
+    },
+    {
+      "file": "data/raw/assessor_condominium_5ec273d624.json.gz",
+      "receipt": "data/raw/assessor_condominium_5ec273d624.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:46.165917+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_6672758a95.json.gz",
+      "receipt": "data/raw/assessor_condominium_6672758a95.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:39.168645+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_7005c8b345.json.gz",
+      "receipt": "data/raw/assessor_condominium_7005c8b345.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:41.431930+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_94f281d01b.json.gz",
+      "receipt": "data/raw/assessor_condominium_94f281d01b.request.json",
+      "retrieved_at_utc": "2026-10-26T16:48:21.543297+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_d36f76a05c.json.gz",
+      "receipt": "data/raw/assessor_condominium_d36f76a05c.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:56.769676+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_f6ea5330fa.json.gz",
+      "receipt": "data/raw/assessor_condominium_f6ea5330fa.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:47.252910+00:00",
+      "sha256": "c5a41d7ea306751f1e447839dbb90f15ee27cb51d30061c3f65660a34ff6f1ee"
+    },
+    {
+      "file": "data/raw/assessor_condominium_fd79a58b41.json.gz",
+      "receipt": "data/raw/assessor_condominium_fd79a58b41.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:52.771839+00:00",
+      "sha256": "338ff6233042d533fa6d34720b025edad1a246b8698904f9111827e8ad76ab7b"
+    },
+    {
+      "file": "data/raw/assessor_residential_5ee1de3642.json.gz",
+      "receipt": "data/raw/assessor_residential_5ee1de3642.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:32.253200+00:00",
+      "sha256": "d19eae7050031a1e3d6428f900914d3f1166fa096741a8986bc7633058e2c10a"
+    },
+    {
+      "file": "data/raw/assessor_residential_71a60c17c6.json.gz",
+      "receipt": "data/raw/assessor_residential_71a60c17c6.request.json",
+      "retrieved_at_utc": "2026-10-26T16:48:38.310409+00:00",
+      "sha256": "ddd8540790a9bae6cb4760adbad63119ee6e609626c1f47f15ebdcb1c263876f"
+    },
+    {
+      "file": "data/raw/assessor_residential_92ef3dfca4.json.gz",
+      "receipt": "data/raw/assessor_residential_92ef3dfca4.request.json",
+      "retrieved_at_utc": "2026-10-26T16:48:32.091610+00:00",
+      "sha256": "8336207ff79a366cf35aef37d1d8ba75c8b7195cf255d653bd85efd48543e75c"
+    },
+    {
+      "file": "data/raw/assessor_residential_cfd7da7dd0.json.gz",
+      "receipt": "data/raw/assessor_residential_cfd7da7dd0.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:32.762787+00:00",
+      "sha256": "4ef15216ac19c54cf2f5d3bccd41595c2613f99385d408882fc171a77c4fb232"
+    },
+    {
+      "file": "data/raw/assessor_residential_d568240496.json.gz",
+      "receipt": "data/raw/assessor_residential_d568240496.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:26.909654+00:00",
+      "sha256": "4588a997554030d0b5bed8ff7bae7e7f203e6b7eadf7cb68220ba18c2368ccb8"
+    },
+    {
+      "file": "data/raw/assessor_residential_d60c05f86a.json.gz",
+      "receipt": "data/raw/assessor_residential_d60c05f86a.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:25.350101+00:00",
+      "sha256": "64c9ae2efbfb8c4f92b2accb317b5823b5bcd8a56c599a51cc7007fc3463c783"
+    },
+    {
+      "file": "data/raw/assessor_universe_092c4eb7a7.json.gz",
+      "receipt": "data/raw/assessor_universe_092c4eb7a7.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:05.143382+00:00",
+      "sha256": "bc804798982039fd38e28273f484b99f214a091313d6014501882bfd8e33be88"
+    },
+    {
+      "file": "data/raw/assessor_universe_15eb7f393a.json.gz",
+      "receipt": "data/raw/assessor_universe_15eb7f393a.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:10.620883+00:00",
+      "sha256": "f0dd7bd43c45104b1522d916660e27d13811a64c096e3a21c4e0da3ed647a809"
+    },
+    {
+      "file": "data/raw/assessor_universe_17ea98c24b.json.gz",
+      "receipt": "data/raw/assessor_universe_17ea98c24b.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:02.573200+00:00",
+      "sha256": "ae9ae8a269c9e5ee48b651416fe048f31b44f4d0ae19f80ff59c1b333ec62f21"
+    },
+    {
+      "file": "data/raw/assessor_universe_19cfaf3ee4.json.gz",
+      "receipt": "data/raw/assessor_universe_19cfaf3ee4.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:57.614512+00:00",
+      "sha256": "9187b2ec2ad96de7d14d5f978758b8c57cb42871cdf937ae781f243f07adb05f"
+    },
+    {
+      "file": "data/raw/assessor_universe_32247b7370.json.gz",
+      "receipt": "data/raw/assessor_universe_32247b7370.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:08.001196+00:00",
+      "sha256": "b5728f61ec00cf54c28ce20177fb8df0d1ab7adb9381af21298c808a171f45a5"
+    },
+    {
+      "file": "data/raw/assessor_universe_3d915f4cda.json.gz",
+      "receipt": "data/raw/assessor_universe_3d915f4cda.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:58.667605+00:00",
+      "sha256": "f430cbc125460c869535e4dbea47864016c220d46d7c27ffbccd6625e4fd9fce"
+    },
+    {
+      "file": "data/raw/assessor_universe_5319852c90.json.gz",
+      "receipt": "data/raw/assessor_universe_5319852c90.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:57.570117+00:00",
+      "sha256": "f98d722552b35a7e2c7219af6520a93c9f21b7d59a5ba172459cec498688a54c"
+    },
+    {
+      "file": "data/raw/assessor_universe_8635423f2a.json.gz",
+      "receipt": "data/raw/assessor_universe_8635423f2a.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:20.775760+00:00",
+      "sha256": "6b051cf4299cddd14f3bcbf164f58e5537576ff23fd7317fc493c9dbe3dd8515"
+    },
+    {
+      "file": "data/raw/assessor_universe_c5f0b27dbc.json.gz",
+      "receipt": "data/raw/assessor_universe_c5f0b27dbc.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:05.313115+00:00",
+      "sha256": "c39866d04a4c8423399314dd18008a683cef9ddb034c4a4824a0133ce43400b4"
+    },
+    {
+      "file": "data/raw/assessor_universe_ed9fc578ce.json.gz",
+      "receipt": "data/raw/assessor_universe_ed9fc578ce.request.json",
+      "retrieved_at_utc": "2026-10-26T16:46:56.627612+00:00",
+      "sha256": "9df9b356934d58a06651158c090915f2140ef390a9baf83793cb8841b06c0082"
+    },
+    {
+      "file": "data/raw/assessor_universe_f611120999.json.gz",
+      "receipt": "data/raw/assessor_universe_f611120999.request.json",
+      "retrieved_at_utc": "2026-10-26T16:47:05.352605+00:00",
+      "sha256": "ec84764ab7b7742bd7d7eaa41569be44cfcdec8e2a3f6454e4c2ddfafd3f40b7"
+    }
+  ],
+  "limitations": [
+    "Supported project subtotals are partial estimates, not complete ward totals or definitive citywide rankings.",
+    "Permits authorize work; completion of construction and demolition is unverified.",
+    "The citywide supplement targets principal single-family candidates, not all housing production.",
+    "Historical assessor records can lag physical changes; uncertain site scope and missing stock remain unknown.",
+    "Unresolved and unclassified housing scope is outside supported single-family subtotals."
+  ]
+}

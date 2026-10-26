@@ -1,4 +1,4 @@
-"""Restore only hash-verified frozen inputs from the two bundled ZIP files."""
+"""Restore only hash-verified frozen inputs from the bundled ZIP files."""
 import hashlib
 import json
 from pathlib import Path, PurePosixPath

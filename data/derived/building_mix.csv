@@ -1,13 +1,16 @@
 ward,building_type,units
-32,Single-family principal buildings,130
+32,Single-family principal buildings,129
 32,Multifamily buildings,661
 32,Townhouse groups,35
+32,One-dwelling mixed-use buildings,1
 32,Detached accessory dwellings,8
-1,Single-family principal buildings,45
-1,Multifamily buildings,570
+1,Single-family principal buildings,43
+1,Multifamily buildings,573
 1,Townhouse groups,0
+1,One-dwelling mixed-use buildings,0
 1,Detached accessory dwellings,5
 47,Single-family principal buildings,110
-47,Multifamily buildings,562
+47,Multifamily buildings,558
 47,Townhouse groups,0
-47,Detached accessory dwellings,20
+47,One-dwelling mixed-use buildings,0
+47,Detached accessory dwellings,19

@@ -1,10 +1,11 @@
 {
   "id": "chicago-net-permit-calculation:2026-10-22",
+  "rulesVersion": "1.1.0",
   "title": "Replacement housing changes Ward 32’s permit picture",
   "surface": "report",
   "status": "reviewed_with_caveats",
   "buildStatus": "complete",
-  "generatedAt": "2026-10-22T15:35:11.477886+00:00",
+  "generatedAt": "2026-10-26T17:43:41.789003+00:00",
   "report": {
     "asOf": "2026-10-08"
   },
@@ -20,11 +21,11 @@
           "project_net_unknown_projects": 64,
           "gross_units_on_known_net_projects": 353,
           "project_net_known_subtotal": 77,
-          "sf_projects": 130,
-          "sf_known_projects": 105,
+          "sf_projects": 129,
+          "sf_known_projects": 104,
           "sf_net_known_subtotal": -67,
           "sf_known_negative": 55,
-          "sf_known_zero": 40,
+          "sf_known_zero": 39,
           "sf_known_positive": 10,
           "demolition_episodes": 228,
           "demolition_known_episodes": 174,
@@ -38,35 +39,35 @@
         },
         {
           "ward": 1,
-          "new_projects": 113,
-          "gross_new_units_classified": 620,
-          "project_net_known_projects": 76,
+          "new_projects": 107,
+          "gross_new_units_classified": 621,
+          "project_net_known_projects": 70,
           "project_net_unknown_projects": 37,
-          "gross_units_on_known_net_projects": 263,
-          "project_net_known_subtotal": 161,
-          "sf_projects": 45,
-          "sf_known_projects": 35,
+          "gross_units_on_known_net_projects": 247,
+          "project_net_known_subtotal": 162,
+          "sf_projects": 43,
+          "sf_known_projects": 33,
           "sf_net_known_subtotal": -8,
           "sf_known_negative": 12,
-          "sf_known_zero": 16,
+          "sf_known_zero": 14,
           "sf_known_positive": 7,
           "demolition_episodes": 95,
           "demolition_known_episodes": 69,
           "demolition_known_unit_losses": 135,
           "explicit_conversion_permits": 53,
           "declared_conversion_net": 9,
-          "annual_net_known_subtotal": 472,
-          "annual_events_unknown": 123,
+          "annual_net_known_subtotal": 473,
+          "annual_events_unknown": 124,
           "townhouse_units": 0,
           "staged_filings_removed": 2
         },
         {
           "ward": 47,
-          "new_projects": 173,
-          "gross_new_units_classified": 692,
-          "project_net_known_projects": 126,
+          "new_projects": 170,
+          "gross_new_units_classified": 687,
+          "project_net_known_projects": 123,
           "project_net_unknown_projects": 47,
-          "gross_units_on_known_net_projects": 354,
+          "gross_units_on_known_net_projects": 349,
           "project_net_known_subtotal": 190,
           "sf_projects": 110,
           "sf_known_projects": 86,
@@ -79,8 +80,8 @@
           "demolition_known_unit_losses": 241,
           "explicit_conversion_permits": 62,
           "declared_conversion_net": -50,
-          "annual_net_known_subtotal": 403,
-          "annual_events_unknown": 80,
+          "annual_net_known_subtotal": 398,
+          "annual_events_unknown": 79,
           "townhouse_units": 0,
           "staged_filings_removed": 1
         }
@@ -149,7 +150,7 @@
         {
           "ward": 32,
           "outcome": "Zero",
-          "projects": 40
+          "projects": 39
         },
         {
           "ward": 32,
@@ -169,7 +170,7 @@
         {
           "ward": 1,
           "outcome": "Zero",
-          "projects": 16
+          "projects": 14
         },
         {
           "ward": 1,
@@ -261,36 +262,36 @@
         {
           "ward": 32,
           "subset": "All matched single-family projects",
-          "projects": 105,
-          "gross_units": 105,
+          "projects": 104,
+          "gross_units": 104,
           "estimated_net_units": -67
         },
         {
           "ward": 32,
           "subset": "Native PIN; no baseline flags",
-          "projects": 103,
-          "gross_units": 103,
+          "projects": 102,
+          "gross_units": 102,
           "estimated_net_units": -65
         },
         {
           "ward": 32,
           "subset": "Matched demolition permit",
-          "projects": 77,
-          "gross_units": 77,
+          "projects": 76,
+          "gross_units": 76,
           "estimated_net_units": -62
         },
         {
           "ward": 1,
           "subset": "All matched single-family projects",
-          "projects": 35,
-          "gross_units": 35,
+          "projects": 33,
+          "gross_units": 33,
           "estimated_net_units": -8
         },
         {
           "ward": 1,
           "subset": "Native PIN; no baseline flags",
-          "projects": 34,
-          "gross_units": 34,
+          "projects": 32,
+          "gross_units": 32,
           "estimated_net_units": -8
         },
         {
@@ -381,7 +382,7 @@
         {
           "ward": "Ward 32",
           "measure": "Gross new units",
-          "units": 105
+          "units": 104
         },
         {
           "ward": "Ward 32",
@@ -391,7 +392,7 @@
         {
           "ward": "Ward 1",
           "measure": "Gross new units",
-          "units": 35
+          "units": 33
         },
         {
           "ward": "Ward 1",
@@ -480,20 +481,20 @@
         {
           "ward": 1,
           "state": "Matched estimate",
-          "projects": 76,
-          "gross_units": 263
+          "projects": 70,
+          "gross_units": 247
         },
         {
           "ward": 1,
           "state": "Unresolved",
           "projects": 37,
-          "gross_units": 357
+          "gross_units": 374
         },
         {
           "ward": 47,
           "state": "Matched estimate",
-          "projects": 126,
-          "gross_units": 354
+          "projects": 123,
+          "gross_units": 349
         },
         {
           "ward": 47,
@@ -561,7 +562,7 @@
         {
           "ward": 32,
           "building_type": "Single-family principal buildings",
-          "units": 130
+          "units": 129
         },
         {
           "ward": 32,
@@ -575,22 +576,32 @@
         },
         {
           "ward": 32,
+          "building_type": "One-dwelling mixed-use buildings",
+          "units": 1
+        },
+        {
+          "ward": 32,
           "building_type": "Detached accessory dwellings",
           "units": 8
         },
         {
           "ward": 1,
           "building_type": "Single-family principal buildings",
-          "units": 45
+          "units": 43
         },
         {
           "ward": 1,
           "building_type": "Multifamily buildings",
-          "units": 570
+          "units": 573
         },
         {
           "ward": 1,
           "building_type": "Townhouse groups",
+          "units": 0
+        },
+        {
+          "ward": 1,
+          "building_type": "One-dwelling mixed-use buildings",
           "units": 0
         },
         {
@@ -606,7 +617,7 @@
         {
           "ward": 47,
           "building_type": "Multifamily buildings",
-          "units": 562
+          "units": 558
         },
         {
           "ward": 47,
@@ -615,8 +626,13 @@
         },
         {
           "ward": 47,
+          "building_type": "One-dwelling mixed-use buildings",
+          "units": 0
+        },
+        {
+          "ward": 47,
           "building_type": "Detached accessory dwellings",
-          "units": 20
+          "units": 19
         }
       ],
       "source": {
@@ -706,9 +722,9 @@
         {
           "ward": 1,
           "year": 2023,
-          "known_event_subtotal": 6,
+          "known_event_subtotal": 4,
           "unknown_events": 33,
-          "known_events": 47
+          "known_events": 46
         },
         {
           "ward": 1,
@@ -720,22 +736,22 @@
         {
           "ward": 1,
           "year": 2025,
-          "known_event_subtotal": 98,
-          "unknown_events": 33,
-          "known_events": 46
+          "known_event_subtotal": 117,
+          "unknown_events": 34,
+          "known_events": 45
         },
         {
           "ward": 1,
           "year": 2026,
-          "known_event_subtotal": 293,
+          "known_event_subtotal": 277,
           "unknown_events": 31,
-          "known_events": 47
+          "known_events": 43
         },
         {
           "ward": 47,
           "year": 2023,
           "known_event_subtotal": 169,
-          "unknown_events": 25,
+          "unknown_events": 24,
           "known_events": 90
         },
         {
@@ -748,16 +764,16 @@
         {
           "ward": 47,
           "year": 2025,
-          "known_event_subtotal": 141,
+          "known_event_subtotal": 139,
           "unknown_events": 22,
-          "known_events": 111
+          "known_events": 110
         },
         {
           "ward": 47,
           "year": 2026,
-          "known_event_subtotal": 36,
+          "known_event_subtotal": 33,
           "unknown_events": 7,
-          "known_events": 66
+          "known_events": 64
         }
       ],
       "source": {
@@ -2806,43 +2822,6 @@
           "intervening_authorization_permits": [],
           "review_flags": [],
           "description": "***DIRECT DEVELOPER SERVICES*** PROPOSED SIX-STORY MIXED USE BUILDING WITH FIRST FLOOR COMMERCIAL, SECOND FLOOR PARKING DECK, AND THIRD THRU SIXTH FLOOR (63) DWELLING UNITS.CONSTRUCTION TYPE IIA; OCCUPANCY R-2, B; AS PER PLANS."
-        },
-        {
-          "project_id": "new:101019642",
-          "ward": 1,
-          "cohort_date": "2023-07-18",
-          "address": "2440 N WASHTENAW AVE",
-          "permit_numbers": [
-            "101019642"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 2,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2023-07-18",
-          "baseline_units": 3,
-          "baseline_mfh_units": 3,
-          "baseline_year": 2022,
-          "baseline_requested_year": 2022,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1325425021"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": -1,
-          "net_project_mfh_units": -1,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "SPR 2019 CBRC: INTERIOR AND EXTERIOR RECONSTRUCTION OF FIRE-DAMAGED  2-STORY 2 DU'S BUILDING WITH NEW BASEMENT DUPLEX  AND REAR ENCLOSED PORCH AND WOOD DECK/ S.A.E. NO CHANGE IN NUMBER OF PLUMBING FIXTURES. (OCCUPANCY GROUP R-5, TYPE V A CONSTRUCTION)**CERTIFIED CORRECTIONS SUBJECT TO FIELD INSPECTIONS & AUDIT **"
         },
         {
           "project_id": "new:101005732",
@@ -11600,6 +11579,52 @@
           "description": "SPR 2019 CBC: FULL BUILDING PERMIT FOR 5-STORY, 16 DWELLING UNIT MULTI-FAMILY RESIDENTIAL BUILDING WITH 4 INDOOR PARKING SPACES (OCCUPANCY GROUPS R-2, M, S-2, TYPE IIIA CONSTRUCTION) INCLUDING 6' MASONRY TRASH ENCLOSURE"
         },
         {
+          "project_id": "new:101060346",
+          "ward": 1,
+          "cohort_date": "2025-02-07",
+          "address": "1257 N ASHLAND AVE",
+          "permit_numbers": [
+            "101060346"
+          ],
+          "kind": "new_construction",
+          "building_type": "multifamily",
+          "gross_new_units": 24,
+          "partial_phase_only": false,
+          "filings": 1,
+          "linked_demolition_permits": [
+            "B101060889"
+          ],
+          "pre_clearance_date": "2025-01-21",
+          "baseline_units": null,
+          "baseline_mfh_units": null,
+          "baseline_year": 2024,
+          "baseline_requested_year": 2024,
+          "baseline_match": "native_pin10",
+          "baseline_pin10s": [
+            "1705115020",
+            "1705115021",
+            "1705115022"
+          ],
+          "baseline_sources": [
+            "residential"
+          ],
+          "baseline_flags": [
+            "1705115022:no_residential_stock_source"
+          ],
+          "baseline_cards": 2,
+          "baseline_classes": [
+            "212",
+            "517"
+          ],
+          "net_project_units": null,
+          "net_project_mfh_units": null,
+          "intervening_authorization_permits": [],
+          "review_flags": [
+            "multiple_existing_buildings_scope_unresolved"
+          ],
+          "description": "SPR 2019 CBC: FULL BUILDING PERMIT FOR 5-STORY PLUS PENTHOUSE & ROOF DECK, 24 DWELLING UNIT MULTI-FAMILY RESIDENTIAL BUILDING WITH 10 INDOOR PARKING SPACES (OCCUPANCY GROUPS R-2, M, S-2, TYPE IIIA CONSTRUCTION)"
+        },
+        {
           "project_id": "new:101064623",
           "ward": 47,
           "cohort_date": "2025-02-11",
@@ -11670,43 +11695,6 @@
           "intervening_authorization_permits": [],
           "review_flags": [],
           "description": "DIRECT DEVELOPER SERVICES 2019 CBC ERECT 5 STORY W BASEMENT 62 DU RESIDENTIAL BUILDING WITH 31 GROUND FLOOR PARKING SPACES (CON TYPE IIIA FS OCC R2 S2) CONSULTANT REVIEWER: V3 COMPANIES OF IL"
-        },
-        {
-          "project_id": "new:101059696",
-          "ward": 1,
-          "cohort_date": "2025-02-26",
-          "address": "1420 W GRAND AVE",
-          "permit_numbers": [
-            "101059696"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 4,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2025-02-26",
-          "baseline_units": 4,
-          "baseline_mfh_units": 4,
-          "baseline_year": 2024,
-          "baseline_requested_year": 2024,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1708123060"
-          ],
-          "baseline_sources": [
-            "condominium"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 0,
-          "baseline_classes": [
-            "299"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "SPR 2019 CBC: INITIAL PERMIT FOR NEW ROOFTOP AMENITY DECK ON 3 STORY, 1 BASEMENT, 4 DWELLING UNIT RESIDENTIAL BUILDING. OCCUPANCY GROUP R-2. CONSTRUCTION CLASSIFFICATION III-A."
         },
         {
           "project_id": "new:101063545",
@@ -12425,43 +12413,6 @@
           "description": "SELF -CERT 2019 CBC: ERECT A TWO-STORY FRAME VA SINGLE FAMILY RESIDENCE WITH BASEMENT, ROOF DECK ,  ROOF ACCESS,  REAR RAISED DECK AND DETACHED 2 CAR GARAGE, EXISTING OCCUPANCY R-5 , PROPOSED OCCUPANCY R-5 , TYPE CONSTRUCTION VA, PER PLANS"
         },
         {
-          "project_id": "new:101066514",
-          "ward": 47,
-          "cohort_date": "2025-04-14",
-          "address": "3849 N LEAVITT ST",
-          "permit_numbers": [
-            "101066514"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 2,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2025-04-14",
-          "baseline_units": 2,
-          "baseline_mfh_units": 2,
-          "baseline_year": 2024,
-          "baseline_requested_year": 2024,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1419112004"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "SC 2019 CBC; FULL BUILDING PERMIT FOR PARTIAL INTERIOR RENOVATION OF 2 STORY TWO DWELLING UNIT BUILDING. PLUMBING AND ELECTRICAL  INCLUDED. ALL WORK TO OCCUR ON LOWER UNIT. NO EXTERIOR WORK OR CHANGE IN AREA OR FOOTPRINT. (OCCUPANCY GROUP R-5; TYPE VA CONSTRUCTION)"
-        },
-        {
           "project_id": "new:101064176",
           "ward": 32,
           "cohort_date": "2025-04-15",
@@ -12539,45 +12490,6 @@
             "accessory_with_housing_demolition_requires_review"
           ],
           "description": "SELF-CERT 2019 CBRC: NEW CONSTRUCTION (700) SQ. FT., 1-STORY, TYPE VA FRAME, 19 HT., 1-UNIT COACH HOUSE ADU WITH BASEMENT IN REAR OF PROPERTY WITH EXISTING 3-STORY, TYPE IIIA MASONRY AND TYPE VA FRAME, 27' HT., 3-UNIT RESIDENTIAL BUILDING WITH BASEMENT (NO WORK TO PRINCIPAL BUILDING) (OCCUPANCY GROUP R-5; TYPE VA CONSTRUCTION)."
-        },
-        {
-          "project_id": "new:101067870",
-          "ward": 1,
-          "cohort_date": "2025-04-15",
-          "address": "2048 N ALBANY AVE",
-          "permit_numbers": [
-            "101067870"
-          ],
-          "kind": "new_construction",
-          "building_type": "single_family",
-          "gross_new_units": 1,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2025-04-15",
-          "baseline_units": 1,
-          "baseline_mfh_units": 0,
-          "baseline_year": 2024,
-          "baseline_requested_year": 2024,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1336113048"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "203"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [
-            "existing_structure_context"
-          ],
-          "description": "2019 CBC SELF CERT: INTERIOR BASEMENT RENOVATION OF EXISTING TWO-STORY SINGLE-FAMILY RESIDENCE, TYPE V-B CONSTRUCTION, GROUP R-5 RESIDENTIAL OCCUPANCY."
         },
         {
           "project_id": "new:101062116",
@@ -13525,19 +13437,19 @@
             "B101067108"
           ],
           "pre_clearance_date": "2025-06-13",
-          "baseline_units": 3,
-          "baseline_mfh_units": 3,
+          "baseline_units": null,
+          "baseline_mfh_units": null,
           "baseline_year": 2024,
           "baseline_requested_year": 2024,
           "baseline_match": "native_pin10",
           "baseline_pin10s": [
             "1706430067"
           ],
-          "baseline_sources": [
-            "condominium"
-          ],
+          "baseline_sources": [],
           "baseline_flags": [
-            "additional_historical_address_parcels"
+            "1706430067:condominium_site_address_mismatch",
+            "additional_historical_address_parcels",
+            "condominium_site_scope_unverified"
           ],
           "baseline_cards": 0,
           "baseline_classes": [
@@ -16932,43 +16844,6 @@
           "description": "SELF-CERT 2019 CRBC: NEW CONSTRUCTION OF A (1,667) SQ. FT., 2-STORY, TYPE VA FRAME, 26' HT., SINGLE-FAMILY RESIDENCE WITH ROOF DECK AND NEW (378) SQ. FT., 2-CAR, ATTACHED GARAGE WITH ROOF DECK (OCCUPANCY GROUP R-5; TYPE VA CONSTRUCTION)."
         },
         {
-          "project_id": "new:101072671",
-          "ward": 1,
-          "cohort_date": "2026-02-02",
-          "address": "2024 W THOMAS ST",
-          "permit_numbers": [
-            "101072671"
-          ],
-          "kind": "new_construction",
-          "building_type": "single_family",
-          "gross_new_units": 1,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-02-02",
-          "baseline_units": 1,
-          "baseline_mfh_units": 0,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1706307034"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "203"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "REPLACE FRONT STAIR AND LANDING WITH NEW STEPS, RAILS, POSTS, AND ROOF IN SAME LOCATION ON SAME FOUNDATION WITH NEW HISTORIC DETAILING AS PER PLANS FOR THIS SINGLE-FAMILY DETACHED, 1.5-STORY, MASONRY DWELLING UNIT IN  UKRAINIAN VILLAGE HISTORIC DISTRICT."
-        },
-        {
           "project_id": "new:101076059",
           "ward": 1,
           "cohort_date": "2026-02-03",
@@ -18068,45 +17943,6 @@
             "accessory_scope_retained_main_building"
           ],
           "description": "SPR 2019 CBC: NEW CONSTRUCTION OF 2 STORY COACH-HOUSE ADU AND ASSOCIATED SITE WORK ON LOT WITH AN EXISTING 2 DWELLING UNIT PRIMARY BUILDING. (OCCUPANCY:R-5; CONSTRUCTION TYPE: VA)"
-        },
-        {
-          "project_id": "new:101075498",
-          "ward": 47,
-          "cohort_date": "2026-04-17",
-          "address": "2203 W GIDDINGS ST",
-          "permit_numbers": [
-            "101075498"
-          ],
-          "kind": "new_accessory",
-          "building_type": "single_family",
-          "gross_new_units": 1,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-04-17",
-          "baseline_units": 2,
-          "baseline_mfh_units": 2,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1418106031"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": 1,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [
-            "accessory_scope_retained_main_building"
-          ],
-          "description": "REMOVE EXISTING DEATCHED 2 CAR GARADE AND ERECT PROPOSED 3 CAR DETACHED FRAME GARAGE WITH COACH HOUSE (PER ADU ORDINANCE) PER PLANS, NO WORK TO EXISTING 2 STORY/2 UNIT RESIDENCE **CERTIFIED PLANS CORRECTIONS: CONDITIONAL PERMIT SUBJECT TO FIELD INSPECTIONS **"
         },
         {
           "project_id": "new:101081777",
@@ -19234,43 +19070,6 @@
           "description": "SELF-CERT 2019 CBC: NEW CONSTRUCTION OF A (2,706) SQ FT., 2-STORY, TYPE VA FRAME, 30' HT., SINGLE-FAMILY RESIDENCE WITH NEW (400) SQ. FT., TYPE VA FRAME, 14' HT., DETACHED 2-CAR GARAGE WITH ROOF DECK (OCCUPANCY GROUP R-5; TYPE VA CONSTRUCTION)."
         },
         {
-          "project_id": "new:101081251",
-          "ward": 1,
-          "cohort_date": "2026-07-08",
-          "address": "2518 W MEDILL AVE",
-          "permit_numbers": [
-            "101081251"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 2,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-07-08",
-          "baseline_units": 2,
-          "baseline_mfh_units": 2,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1336204028"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "SPR 2019 CBRC: INTERIOR AND EXTERIOR RECONSTRUCTION OF FIRE-DAMAGED, 2-STORY, 2 DWELLING UNIT BUILDING WITH A BASEMENT, NO CHANGE IN NUMBER OF DU'S, RELOCATION OF BATHROOM AND KITCHEN, INCLUDES ROOF REPAIRS, WINDOW REPLACEMENT, AND MEP AS PER PLANS(OCCUPANCY GROUP R-5, CONSTRUCTION TYPE IV)**CERTIFIED CORRECTIONS SUBJECT TO FIELD INSPECTIONS & AUDIT **"
-        },
-        {
           "project_id": "new:101084103",
           "ward": 32,
           "cohort_date": "2026-07-10",
@@ -19826,46 +19625,6 @@
           "description": "SC 2019 CBRC. ERECT A 3 STORY TYPE IIIA TWO DWELLING UNIT MASONRY BUILDING WITH A BASEMENT, A REAR 3 STORY PORCH AND STAIR, AN OCCUPIABLE ROOF DECK ABOVE THE 3RD FLOOR WITH A STAIR ENCLOSURE AND PERGOLA. A NEW REAR DETACHED 2 CAR GARAGE WITH A ROOF DECK, ACCESS STAIR AND PERGOLA, AS PER PLANS."
         },
         {
-          "project_id": "new:101085867",
-          "ward": 1,
-          "cohort_date": "2026-08-10",
-          "address": "1002 N WOOD ST",
-          "permit_numbers": [
-            "101085867"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 7,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-08-10",
-          "baseline_units": 6,
-          "baseline_mfh_units": 6,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1706416045"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": null,
-          "net_project_mfh_units": null,
-          "intervening_authorization_permits": [],
-          "review_flags": [
-            "existing_structure_context",
-            "retained_housing_scope_unresolved"
-          ],
-          "description": "SELF-CERT CBC TITLE 14, BRC TITLE 14R: INTERIOR DEMOLITION/STRIP-OUT OF AN EXISTING SEVEN (7) UNIT, THREE-STORY PLUS BASEMENT MASONRY BUILDING. REMOVE AND DISPOSE OF EXISTING INTERIOR COMPONENTS INCLUDING, BUT NOT LIMITED TO, NON-STRUCTURAL WALLS, DOORS, WINDOWS/FRAMES, FINISHES, AND EXISTING MECHANICAL, ELECTRICAL, AND PLUMBING (MEP) SYSTEMS AS INDICATED. EXTERIOR BUILDING SHELL REMAINS IN PLACE. ROOF AND FLOOR STRUCTURES TO REMAIN. WORK INCLUDES PREPARATION FOR RENOVATION.(OCCUPANCY: R-2 RESIDENTIAL MULTI-FAMILY  CONSTRUCTION TYPE III-A)"
-        },
-        {
           "project_id": "new:101082353",
           "ward": 32,
           "cohort_date": "2026-08-11",
@@ -20030,7 +19789,7 @@
             "101082363"
           ],
           "kind": "new_construction",
-          "building_type": "single_family",
+          "building_type": "mixed_use",
           "gross_new_units": 1,
           "partial_phase_only": false,
           "filings": 1,
@@ -20252,45 +20011,6 @@
           "intervening_authorization_permits": [],
           "review_flags": [],
           "description": "SELF CERT 2019 CBC: ERECT NEW 3 STORY WITH BASEMENT AND ROOF DECKS 4 UNIT RESIDENTIAL BUILDING WITH NEW 5 CAR DETACHED GARAGE WITH ROOF DECK PER PLANS. (CONSTRUCTIONTYPE V-A USE GROUP R-2)"
-        },
-        {
-          "project_id": "new:101080490",
-          "ward": 47,
-          "cohort_date": "2026-08-28",
-          "address": "1455 W WILSON AVE",
-          "permit_numbers": [
-            "101080490"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 2,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-08-28",
-          "baseline_units": 3,
-          "baseline_mfh_units": 3,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1417113001"
-          ],
-          "baseline_sources": [
-            "residential"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 1,
-          "baseline_classes": [
-            "211"
-          ],
-          "net_project_units": -1,
-          "net_project_mfh_units": -1,
-          "intervening_authorization_permits": [],
-          "review_flags": [
-            "existing_structure_context"
-          ],
-          "description": "SPR 2019 CBC: REMOVE AND REPLACE EXISTING FRONT ENTRY PORCH AND ROOFED BALCONY OF 2-STORY RESIDENTIAL BUILDING (2 DWELLING UNITS), INCLUDING FOUNDATIONS, IN SAME LOCATION, PER PLAN (OCCUPANCY: R-5; CONSTRUCTION TYPE: III)"
         },
         {
           "project_id": "new:101082351",
@@ -21210,44 +20930,6 @@
             "parcel_scope_requires_review"
           ],
           "description": "SELF CERT 2019 CBC :ERECT 2 STORY  VA SINGLE FAMILY RESIDENCE  WITH BASEMENT, ROOF ACCESS 198 SQFT , 300 SQFT ROOF DECK , FULLY SPRINKLER  13- D  SYSTEM AND ATTACHED 2 CAR GARAGE WITH ROOF DECK AND PERGOLAS , REAR WOOD FENCES , FRONT ORNAMENTAL IRON FENCES, EXISTING OCCUPANCY  R-5 , PROPOSED OCCUPANCY  R-5 , TYPE CONSTRUCTION VA , PER PLANS"
-        },
-        {
-          "project_id": "new:101078983",
-          "ward": 1,
-          "cohort_date": "2026-10-02",
-          "address": "1901 W DIVISION ST",
-          "permit_numbers": [
-            "101078983"
-          ],
-          "kind": "new_construction",
-          "building_type": "multifamily",
-          "gross_new_units": 6,
-          "partial_phase_only": false,
-          "filings": 1,
-          "linked_demolition_permits": [],
-          "pre_clearance_date": "2026-10-02",
-          "baseline_units": 6,
-          "baseline_mfh_units": 6,
-          "baseline_year": 2025,
-          "baseline_requested_year": 2025,
-          "baseline_match": "native_pin10",
-          "baseline_pin10s": [
-            "1706401047"
-          ],
-          "baseline_sources": [
-            "condominium"
-          ],
-          "baseline_flags": [],
-          "baseline_cards": 0,
-          "baseline_classes": [
-            "299",
-            "599"
-          ],
-          "net_project_units": 0,
-          "net_project_mfh_units": 0,
-          "intervening_authorization_permits": [],
-          "review_flags": [],
-          "description": "SPR 2019 CBRC: STRUCTURAL REPLACEMENT OF THE WESTERN SECTION OF THE SOUTHERN MAIN BUILDING CMU WALL IN-KIND.  REPLACE 4TH FLOOR BALCONY. NO INTERIOR MODIFICATIONS TO ROOM USE OR LAYOUT. (CONSTRUCTION CLASSIFICATION III-B, OCCUPANCY R-2, 6 DU)"
         },
         {
           "project_id": "new:101085903",
@@ -32688,16 +32370,16 @@
   },
   "narrative": {
     "deck": "A reproducible audit of gross construction counts, historical housing stock and the limits of a net-permitted-units measure.",
-    "summary": "## Executive Summary\n\n- **Matched single-family projects show a housing loss.** 105 Ward 32 projects describe 105 new principal homes, replacing an estimated 172 existing dwellings: **-67 net units**. This is an assessor-based estimate of project impact, not completed housing production.\n- **Coverage limits the wardwide answer.** 25 of 130 classified single-family projects remain unresolved. Across all classified new projects, supported net estimates cover only **42.3% of described gross units**. A full Ward 32 net total or citywide net ranking is not established.\n- **Keep multifamily construction visible, with a clearer definition.** The publisher reports 677 multifamily units and fifth place for Ward 32. The description audit identifies **35 townhouse units** that should be shown separately and several examples where permit type or an occupancy code gives the wrong unit count.",
-    "sf": "## Replacements change the single-family story\n\nAmong the 105 matched Ward 32 single-family principal-building projects, **55 reduce the estimated dwelling count, 40 replace homes one for one, and 10 add units**. Another 25 classified projects have unresolved site or baseline evidence. Detached accessory dwellings are a separate category.\n\nThis supports the proposed replacement mechanism within the matched cohort. It does not establish a causal effect of an alder, a completed-stock change, or the net impact of every permit in the ward. Assessor characteristics may lag physical changes.\n\nThe sign also remains negative in the narrower native-PIN subset with no baseline flags: **-65 units across 103 projects**. These subsets are selected by matchability, not random samples; the comparison does not remove assessor error.",
+    "summary": "## Executive Summary\n\n- **Matched single-family projects show a housing loss.** 104 Ward 32 projects describe 104 new principal homes, replacing an estimated 171 existing dwellings: **-67 net units**. This is an assessor-based estimate of project impact, not completed housing production.\n- **Coverage limits the wardwide answer.** 25 of 129 classified single-family projects remain unresolved. Across all classified new projects, supported net estimates cover only **42.3% of described gross units**. A full Ward 32 net total or citywide net ranking is not established.\n- **Keep multifamily construction visible, with a clearer definition.** The publisher reports 677 multifamily units and fifth place for Ward 32. The description audit identifies **35 townhouse units** that should be shown separately and several examples where permit type or an occupancy code gives the wrong unit count.",
+    "sf": "## Replacements change the single-family story\n\nAmong the 104 matched Ward 32 single-family principal-building projects, **55 reduce the estimated dwelling count, 39 replace homes one for one, and 10 add units**. Another 25 classified projects have unresolved site or baseline evidence. Detached accessory dwellings are a separate category.\n\nThis supports the proposed replacement mechanism within the matched cohort. It does not establish a causal effect of an alder, a completed-stock change, or the net impact of every permit in the ward. Assessor characteristics may lag physical changes.\n\nThe sign also remains negative in the narrower native-PIN subset with no baseline flags: **-65 units across 102 projects**. These subsets are selected by matchability, not random samples; the comparison does not remove assessor error.",
     "cases": "### Inspect the underlying sites\n\nThe examples below show why a permit for one house can contribute a negative net count. Baselines precede the earliest same-address demolition linked within five years. Their source, year, unit count and permit identifiers remain in the project ledger. A same-address link is a documented matching rule; complex assemblies and retained buildings require further review.",
-    "coverage": "## A matched subtotal is not the ward total\n\nThe independent classifier identifies **239 new projects describing 834 units** in Ward 32 after stage deduplication and current cancellation screening. The 175 projects with supported baselines describe 353 gross units and yield **+77 estimated net units**. The remaining 64 projects are unresolved and are concentrated in larger developments.\n\nDo not subtract the matched losses from all published gross units and label the result net. Do not rank wards by these partial subtotals or call them lower bounds. Unknown removals can reduce a result and unknown additions or scope changes can increase it. The project and unit denominators are both retained for inspection.",
+    "coverage": "## A matched subtotal is not the ward total\n\nThe independent classifier identifies **239 new projects describing 834 units** in Ward 32 after stage deduplication and current cancellation screening. The 175 projects with supported baselines describe 353 gross units and yield **+77 estimated net units**. The remaining 64 projects are unresolved and are concentrated in larger developments.\n\nDo not subtract the matched losses from all published gross units and label the result net. Any ordering of supported subtotals must be labeled as partial and shown with coverage; it is not a complete ward ranking or a lower bound. Unknown removals can reduce a result and unknown additions or scope changes can increase it. The project and unit denominators are both retained for inspection.",
     "gross": "## Gross multifamily counts remain a useful companion\n\nThe frozen publisher snapshot reports **827 Ward 32 units: 150 single-family and 677 multifamily**, with a single-family share of 18.1% versus 9.0% citywide. Ward 32 ranks fifth under the publisher's multifamily labels.\n\nThese figures reproduce the publisher's aggregate snapshot; they are not an independently validated apartment inventory. Our new cohort uses current-source status, description-level scope checks and a full-building cohort date where available, so its totals should not be forced to match the earlier snapshot.\n\nFor the new measure, show principal single-family homes, detached accessory dwellings, multifamily buildings and townhouse groups separately. Five Oakdale townhouse groups describe **35 units** across foundation and full-building filings. Counting both stages would produce 70; treating every multi-unit filing as one multifamily building would obscure the building type.",
     "sources": "## What the source exploration changed\n\nThe exploration examined a source of **851,077 Chicago permit records**, downloaded **200,453 records**, and retained all **124,831 permit types in the reporting window. Partition counts reconcile; database IDs and exact permit-number strings are unique in the extract.\n\n**Permit type is not the work scope.** New Construction includes garages, tents, cranes, revisions and some conversions. The published article also acknowledges missing description classifications and excluded demolitions. The independent parser preserves evidence spans, explicit before/after pairs and record-level review decisions.\n\n**Historical PIN handling is essential.** Populated recent permit PINs are 10-digit parcel IDs. The county's characteristics use 14-digit property/unit identifiers. Demolition PINs are absent through 2025. Resolve through historical Parcel Universe and property addresses; do not pad a 10-digit parcel ID into an invented condominium unit PIN.\n\n**Assessor tables have different grains.** Small-building records are PIN/year/card; condo records are unit-level. In the targeted historical condo extract, 1,089 of 2,851 rows are parking or storage. The two Chicago commercial reassessment extracts contain 68,113 rows and **no populated apt field**. Generic total-units values can include hotel rooms or commercial space, so ambiguous baselines remain unknown.\n\n**Status and geography need explicit rules.** 357 recent records have cancellation/revocation in status or milestone. Current status is not historical status as of issuance. Expiration alone is not treated as cancellation. The issue date generally means ready to issue subject to fees, not completion. All geography uses the 50 official 2023 ward polygons; missing and outside coordinates remain unassigned.",
     "traps": "### Three reproducible scope checks\n\n- **Ward 1, permit 101050179:** the description erects one house and ends with occupancy R-5. The reference dashboard lists five units; the review records one house. An occupancy class is not a unit count.\n- **Ward 47, permit 101032126:** the work replaces a garage; the adjacent six-unit condo building is explicitly not in scope. The reference lists six units; the new classifier excludes those dwellings.\n- **Ward 32, permit 101075042:** the description converts commercial ground-floor space to one new dwelling. The five-unit figure describes the building's resulting residential program; it is not five newly constructed homes.\n\nThese are specific observed cases, not an estimated error rate for the publisher's full dataset. All overrides and complete descriptions are retained for audit.",
-    "method": "## Recommended measurement contract\n\n**Project net units = authorized post-project site dwellings − documented pre-project site dwellings.** Count the same site on both sides, include retained housing, and preserve negative and zero results. Count vacant dwellings in the existing stock. Ownership conversions alone contribute zero. Legalizing an existing unit does not establish a new physical dwelling; possible legalizations are flagged.\n\n**Project identity.** Resolve explicit permit references and same-site foundation/full filings with the same unit program. Count a program once. Multiple principal buildings sharing a site, conflicting programs, retained housing and unclear parcel assemblies remain review cases. Use the first full-building filing for a project cohort when present; show partial-only projects as pipeline.\n\n**Existing-stock baseline.** Use a historical assessor year before the earliest linked project/clearance event. A prior year immediately before the construction permit may already describe cleared land. Resolve 10-digit parcel identities to year-specific 14-digit records; count distinct buildings/cards, filter condo parking/storage, and avoid repeated commercial entity rows. A missing row is not evidence of zero housing. Intervening housing authorizations require stock review rather than an assumption that the work was completed.\n\n**Two date views.** Project cohorts attach the full before/after impact to the housing project's cohort date. An annual authorization ledger records additions and removals in their permit years, subtracting each removal once. For a two-flat demolition in 2022 and a replacement house in 2024, project impact is −1; the annual ledger is −2 in 2022 and +1 in 2024. Never subtract the original two-flat again from the 2024 ledger.\n\n**Multifamily companion measures.** Publish gross newly authorized dwellings in buildings with two or more units, plus net multifamily stock authorized: multifamily dwellings afterward minus multifamily dwellings beforehand. A two-flat becoming one house means −1 total dwelling and −2 multifamily dwellings. Keep townhouse groups and detached accessory dwellings separate where the building definition is uncertain.\n\n**Release rule.** Publish coverage beside every subtotal and withhold complete ward totals/rankings while material baselines or scope remain unresolved. Compare 2023–2025 complete years separately from 2026 YTD. Fix ward boundaries for geographic comparisons and do not equate permit issuance with construction completion or causal political credit.",
+    "method": "## Recommended measurement contract\n\n**Project net units = authorized post-project site dwellings − documented pre-project site dwellings.** Count the same site on both sides, include retained housing, and preserve negative and zero results. Count vacant dwellings in the existing stock. Ownership conversions alone contribute zero. Legalizing an existing unit does not establish a new physical dwelling; possible legalizations are flagged.\n\n**Principal single-family scope (rules 1.1.0).** A new house must be the object of the construction scope. A new roof, deck, porch, pool, stair, equipment installation or interior renovation at a house does not create a new principal dwelling, even when the permit type says New Construction. Conversely, an explicit new principal house remains eligible when filed as Renovation/Alteration. A construction-type or occupancy label is not evidence of dwelling construction. Legalizations of already-built work and condo-unit combinations remain outside the new-house cohort. One-dwelling mixed-use buildings are tracked separately from principal single-family houses. Reviewed exceptions and source descriptions are retained in docs/review_decisions.csv and docs/citywide_scope_review.csv.\n\n**Condominium site scope.** A native 10-digit condo parent PIN does not establish that every dwelling on the parent parcel is removed by a house permit. When available historical condo addresses do not match the permit site, withhold the baseline and net estimate and retain condominium_site_scope_unverified. This guard does not certify retained-building or complex-site scope simply because an address matches.\n\n**Project identity.** Resolve explicit permit references and same-site foundation/full filings with the same unit program. Count a program once. Multiple principal buildings sharing a site, conflicting programs, retained housing and unclear parcel assemblies remain review cases. Use the first full-building filing for a project cohort when present; show partial-only projects as pipeline.\n\n**Existing-stock baseline.** Use a historical assessor year before the earliest linked project/clearance event. A prior year immediately before the construction permit may already describe cleared land. Resolve 10-digit parcel identities to year-specific 14-digit records; count distinct buildings/cards, filter condo parking/storage, and avoid repeated commercial entity rows. A missing row is not evidence of zero housing. Intervening housing authorizations require stock review rather than an assumption that the work was completed.\n\n**Two date views.** Project cohorts attach the full before/after impact to the housing project's cohort date. An annual authorization ledger records additions and removals in their permit years, subtracting each removal once. For a two-flat demolition in 2022 and a replacement house in 2024, project impact is −1; the annual ledger is −2 in 2022 and +1 in 2024. Never subtract the original two-flat again from the 2024 ledger.\n\n**Multifamily companion measures.** Publish gross newly authorized dwellings in buildings with two or more units, plus net multifamily stock authorized: multifamily dwellings afterward minus multifamily dwellings beforehand. A two-flat becoming one house means −1 total dwelling and −2 multifamily dwellings. Keep townhouse groups and detached accessory dwellings separate where the building definition is uncertain.\n\n**Release rule.** Publish coverage beside every subtotal and withhold complete ward totals/rankings while material baselines or scope remain unresolved. Exploratory ordering of supported subtotals is permitted only with an explicit partial-estimate label and unresolved-project counts; include positive and zero projects in every net subtotal. Compare 2023–2025 complete years separately from 2026 YTD. Fix ward boundaries for geographic comparisons and do not equate permit issuance with construction completion or causal political credit.",
     "ledger": "## Keep annual authorizations separate from project impact\n\nWard 32's reviewed ledger contains **228 building-demolition episodes**, with estimated unit losses supported for 174 episodes. Those known episodes describe 329 removed dwellings. The 23 explicit conversion records have a declared net change of -15, before withholding possible legalizations and baseline disagreements from physical-stock estimates.\n\nThe annual figures below are **known-event subtotals, not complete net totals**. Unknown events and unresolved candidates are retained in the ledger. The annual subtotal and project-cohort subtotal differ because their timing and supported populations differ. They must not be combined.",
-    "repro": "## Reproduce the result and finish the unresolved cases\n\nThe package contains frozen compressed source responses, exact non-secret request URLs and retrieval timestamps, source dictionaries, configuration, classification rules, review decisions, complete project/event CSVs, two executed notebooks, tests, and an open-source Python pipeline that generates the reviewed report data and Markdown.\n\nRun `python code/run.py --offline` to recompute the analysis from the saved inputs. The command regenerates this Markdown report, all project and event ledgers, and the reviewed evidence snapshot. Run `python code/validate.py` to check the six frozen core-output hashes. Run `python code/execute_notebooks.py` to rerun the notebook companions. No credentials or live connections are required for replay. Acquisition scripts resume cached requests; a live refresh is a separate new snapshot, not a replay of this one.\n\nThe next substantive task is the unresolved-project review queue, sorted by gross-unit impact. Resolve parcel assemblies, larger commercial/apartment baselines, retained buildings and mismatched existing-unit counts before releasing a full ward net total. The current evidence supports the replacement mechanism in the matched single-family cohort, while leaving Ward 32's complete net ranking open."
+    "repro": "## Reproduce the result and finish the unresolved cases\n\nThe package contains frozen compressed source responses, exact non-secret request URLs and retrieval timestamps, source dictionaries, configuration, classification rules, review decisions, complete project/event CSVs, two executed notebooks, tests, and an open-source Python pipeline that generates the reviewed report data and Markdown.\n\nRun `python code/run.py --offline` to recompute the three-ward analysis from the saved inputs. Run `python code/run.py --offline --citywide-single-family` for the separate citywide principal-house profile and its own expected output hashes. Its supplemental historical assessor responses were collected October 26, 2026; the permit cohort still ends October 8, 2026. The command regenerates this Markdown report, all project and event ledgers, and the reviewed evidence snapshot. Run `python code/validate.py` to check the six frozen core-output hashes. Run `python code/execute_notebooks.py` to rerun the notebook companions. No credentials or live connections are required for replay. Acquisition scripts resume cached requests; a live refresh is a separate new snapshot, not a replay of this one.\n\nThe next substantive task is the unresolved-project review queue, sorted by gross-unit impact. Resolve parcel assemblies, larger commercial/apartment baselines, retained buildings and mismatched existing-unit counts before releasing a full ward net total. The current evidence supports the replacement mechanism in the matched single-family cohort, while leaving Ward 32's complete net ranking open."
   },
   "statistics": {
     "source_records": 851077,
@@ -32724,11 +32406,11 @@
         "project_net_unknown_projects": 64,
         "gross_units_on_known_net_projects": 353,
         "project_net_known_subtotal": 77,
-        "sf_projects": 130,
-        "sf_known_projects": 105,
+        "sf_projects": 129,
+        "sf_known_projects": 104,
         "sf_net_known_subtotal": -67,
         "sf_known_negative": 55,
-        "sf_known_zero": 40,
+        "sf_known_zero": 39,
         "sf_known_positive": 10,
         "demolition_episodes": 228,
         "demolition_known_episodes": 174,
@@ -32742,35 +32424,35 @@
       },
       {
         "ward": 1,
-        "new_projects": 113,
-        "gross_new_units_classified": 620,
-        "project_net_known_projects": 76,
+        "new_projects": 107,
+        "gross_new_units_classified": 621,
+        "project_net_known_projects": 70,
         "project_net_unknown_projects": 37,
-        "gross_units_on_known_net_projects": 263,
-        "project_net_known_subtotal": 161,
-        "sf_projects": 45,
-        "sf_known_projects": 35,
+        "gross_units_on_known_net_projects": 247,
+        "project_net_known_subtotal": 162,
+        "sf_projects": 43,
+        "sf_known_projects": 33,
         "sf_net_known_subtotal": -8,
         "sf_known_negative": 12,
-        "sf_known_zero": 16,
+        "sf_known_zero": 14,
         "sf_known_positive": 7,
         "demolition_episodes": 95,
         "demolition_known_episodes": 69,
         "demolition_known_unit_losses": 135,
         "explicit_conversion_permits": 53,
         "declared_conversion_net": 9,
-        "annual_net_known_subtotal": 472,
-        "annual_events_unknown": 123,
+        "annual_net_known_subtotal": 473,
+        "annual_events_unknown": 124,
         "townhouse_units": 0,
         "staged_filings_removed": 2
       },
       {
         "ward": 47,
-        "new_projects": 173,
-        "gross_new_units_classified": 692,
-        "project_net_known_projects": 126,
+        "new_projects": 170,
+        "gross_new_units_classified": 687,
+        "project_net_known_projects": 123,
         "project_net_unknown_projects": 47,
-        "gross_units_on_known_net_projects": 354,
+        "gross_units_on_known_net_projects": 349,
         "project_net_known_subtotal": 190,
         "sf_projects": 110,
         "sf_known_projects": 86,
@@ -32783,8 +32465,8 @@
         "demolition_known_unit_losses": 241,
         "explicit_conversion_permits": 62,
         "declared_conversion_net": -50,
-        "annual_net_known_subtotal": 403,
-        "annual_events_unknown": 80,
+        "annual_net_known_subtotal": 398,
+        "annual_events_unknown": 79,
         "townhouse_units": 0,
         "staged_filings_removed": 1
       }

@@ -679,19 +679,6 @@
     "review_flags": []
   },
   {
-    "event_id": "addition:101019642",
-    "ward": 1,
-    "date": "2023-07-18",
-    "event_type": "new_construction",
-    "units_change": 2,
-    "mfh_change": 2,
-    "address": "2440 N WASHTENAW AVE",
-    "permit_numbers": [
-      "101019642"
-    ],
-    "review_flags": []
-  },
-  {
     "event_id": "addition:101005732",
     "ward": 1,
     "date": "2023-07-21",
@@ -3729,6 +3716,21 @@
     "review_flags": []
   },
   {
+    "event_id": "addition:101060346",
+    "ward": 1,
+    "date": "2025-02-07",
+    "event_type": "new_construction",
+    "units_change": 24,
+    "mfh_change": 24,
+    "address": "1257 N ASHLAND AVE",
+    "permit_numbers": [
+      "101060346"
+    ],
+    "review_flags": [
+      "multiple_existing_buildings_scope_unresolved"
+    ]
+  },
+  {
     "event_id": "addition:101064623",
     "ward": 47,
     "date": "2025-02-11",
@@ -3753,19 +3755,6 @@
     "address": "1805 W GRACE ST",
     "permit_numbers": [
       "101058570"
-    ],
-    "review_flags": []
-  },
-  {
-    "event_id": "addition:101059696",
-    "ward": 1,
-    "date": "2025-02-26",
-    "event_type": "new_construction",
-    "units_change": 4,
-    "mfh_change": 4,
-    "address": "1420 W GRAND AVE",
-    "permit_numbers": [
-      "101059696"
     ],
     "review_flags": []
   },
@@ -4021,19 +4010,6 @@
     ]
   },
   {
-    "event_id": "addition:101066514",
-    "ward": 47,
-    "date": "2025-04-14",
-    "event_type": "new_construction",
-    "units_change": 2,
-    "mfh_change": 2,
-    "address": "3849 N LEAVITT ST",
-    "permit_numbers": [
-      "101066514"
-    ],
-    "review_flags": []
-  },
-  {
     "event_id": "addition:101064176",
     "ward": 32,
     "date": "2025-04-15",
@@ -4060,21 +4036,6 @@
     "review_flags": [
       "accessory_scope_retained_main_building",
       "accessory_with_housing_demolition_requires_review"
-    ]
-  },
-  {
-    "event_id": "addition:101067870",
-    "ward": 1,
-    "date": "2025-04-15",
-    "event_type": "new_construction",
-    "units_change": 1,
-    "mfh_change": 0,
-    "address": "2048 N ALBANY AVE",
-    "permit_numbers": [
-      "101067870"
-    ],
-    "review_flags": [
-      "existing_structure_context"
     ]
   },
   {
@@ -5598,19 +5559,6 @@
     ]
   },
   {
-    "event_id": "addition:101072671",
-    "ward": 1,
-    "date": "2026-02-02",
-    "event_type": "new_construction",
-    "units_change": 1,
-    "mfh_change": 0,
-    "address": "2024 W THOMAS ST",
-    "permit_numbers": [
-      "101072671"
-    ],
-    "review_flags": []
-  },
-  {
     "event_id": "addition:101076059",
     "ward": 1,
     "date": "2026-02-03",
@@ -5991,21 +5939,6 @@
     "address": "3812 N HERMITAGE AVE",
     "permit_numbers": [
       "101079460"
-    ],
-    "review_flags": [
-      "accessory_scope_retained_main_building"
-    ]
-  },
-  {
-    "event_id": "addition:101075498",
-    "ward": 47,
-    "date": "2026-04-17",
-    "event_type": "new_accessory",
-    "units_change": 1,
-    "mfh_change": 0,
-    "address": "2203 W GIDDINGS ST",
-    "permit_numbers": [
-      "101075498"
     ],
     "review_flags": [
       "accessory_scope_retained_main_building"
@@ -6410,19 +6343,6 @@
     "review_flags": []
   },
   {
-    "event_id": "addition:101081251",
-    "ward": 1,
-    "date": "2026-07-08",
-    "event_type": "new_construction",
-    "units_change": 2,
-    "mfh_change": 2,
-    "address": "2518 W MEDILL AVE",
-    "permit_numbers": [
-      "101081251"
-    ],
-    "review_flags": []
-  },
-  {
     "event_id": "addition:101084103",
     "ward": 32,
     "date": "2026-07-10",
@@ -6625,22 +6545,6 @@
     "review_flags": []
   },
   {
-    "event_id": "addition:101085867",
-    "ward": 1,
-    "date": "2026-08-10",
-    "event_type": "new_construction",
-    "units_change": 7,
-    "mfh_change": 7,
-    "address": "1002 N WOOD ST",
-    "permit_numbers": [
-      "101085867"
-    ],
-    "review_flags": [
-      "existing_structure_context",
-      "retained_housing_scope_unresolved"
-    ]
-  },
-  {
     "event_id": "addition:101082353",
     "ward": 32,
     "date": "2026-08-11",
@@ -6702,7 +6606,7 @@
     "date": "2026-08-14",
     "event_type": "new_construction",
     "units_change": 1,
-    "mfh_change": 0,
+    "mfh_change": null,
     "address": "1948 N DAMEN AVE",
     "permit_numbers": [
       "101082363"
@@ -6773,21 +6677,6 @@
       "101084199"
     ],
     "review_flags": []
-  },
-  {
-    "event_id": "addition:101080490",
-    "ward": 47,
-    "date": "2026-08-28",
-    "event_type": "new_construction",
-    "units_change": 2,
-    "mfh_change": 2,
-    "address": "1455 W WILSON AVE",
-    "permit_numbers": [
-      "101080490"
-    ],
-    "review_flags": [
-      "existing_structure_context"
-    ]
   },
   {
     "event_id": "addition:101082351",
@@ -7121,19 +7010,6 @@
       "existing_structure_context",
       "parcel_scope_requires_review"
     ]
-  },
-  {
-    "event_id": "addition:101078983",
-    "ward": 1,
-    "date": "2026-10-02",
-    "event_type": "new_construction",
-    "units_change": 6,
-    "mfh_change": 6,
-    "address": "1901 W DIVISION ST",
-    "permit_numbers": [
-      "101078983"
-    ],
-    "review_flags": []
   },
   {
     "event_id": "addition:101085903",
@@ -26778,21 +26654,6 @@
     ]
   },
   {
-    "event_id": "unresolved:100996988",
-    "ward": 47,
-    "date": "2023-02-28",
-    "event_type": "unresolved_housing_candidate",
-    "units_change": null,
-    "mfh_change": null,
-    "address": "2173 W WILSON AVE",
-    "permit_numbers": [
-      "100996988"
-    ],
-    "review_flags": [
-      "conversion_without_explicit_unit_pair"
-    ]
-  },
-  {
     "event_id": "unresolved:100992757",
     "ward": 1,
     "date": "2023-03-03",
@@ -27494,7 +27355,7 @@
       "101049894"
     ],
     "review_flags": [
-      "adu_or_legalization_requires_scope_review"
+      "legalization_physical_change_unverified"
     ]
   },
   {
@@ -27659,7 +27520,7 @@
       "101054643"
     ],
     "review_flags": [
-      "adu_or_legalization_requires_scope_review"
+      "legalization_physical_change_unverified"
     ]
   },
   {
@@ -27824,7 +27685,7 @@
       "101059955"
     ],
     "review_flags": [
-      "adu_or_legalization_requires_scope_review"
+      "legalization_physical_change_unverified"
     ]
   },
   {
@@ -28274,7 +28135,22 @@
       "101058466"
     ],
     "review_flags": [
-      "adu_or_legalization_requires_scope_review"
+      "legalization_physical_change_unverified"
+    ]
+  },
+  {
+    "event_id": "unresolved:101043784",
+    "ward": 1,
+    "date": "2025-08-13",
+    "event_type": "unresolved_housing_candidate",
+    "units_change": null,
+    "mfh_change": null,
+    "address": "1638 W OHIO ST",
+    "permit_numbers": [
+      "101043784"
+    ],
+    "review_flags": [
+      "legalization_physical_change_unverified"
     ]
   },
   {
@@ -28634,7 +28510,7 @@
       "101079012"
     ],
     "review_flags": [
-      "adu_or_legalization_requires_scope_review"
+      "legalization_physical_change_unverified"
     ]
   },
   {

@@ -1,0 +1,40 @@
+{
+  "versions": [
+    {
+      "rules_version": "1.0.0",
+      "git_commit": "4f250f538abcc4b6c0bfe35b3b58e7eb6e10e179",
+      "expected_core_outputs": {
+        "focus_net_summary.json": "fbd4cad9f2050501951a5c0a1bb609d9913411f3f6c324cafe72f3573d5e632d",
+        "net_projects.json": "97b1ce1e3151cac68937c20567cc1041192a71c11bc9317fa170970ba9031d33",
+        "annual_authorization_events.json": "8766b1edc05a00bacc31ca4c3b05c0c9b0550c1d193a9d81830425626f932a22",
+        "report_statistics.json": "ae8be93c9837327c09f6adba4b23331ecd4137bee32ddca3ebcd082db3ffec40",
+        "sf_sensitivity.json": "31f6d6bcdf9178d400ceb2a46a10890efa9ecf82c735d691a7f1b5205e4f2072",
+        "report_snapshot.json": "279458b5df94326f759b399f29385a9af3d89e3ecf11461fd746a4aab09b0763"
+      },
+      "source_file_count": 363,
+      "notes": "Original public benchmark. Version 1.1.0 changes scope rules and regenerated derived outputs; original upstream ZIP bundles remain byte-for-byte unchanged."
+    },
+    {
+      "rules_version": "1.1.0",
+      "expected_core_outputs": {
+        "focus_net_summary.json": "127dad54da90086b222282307c26f3b3c66477264b831b4e013876b4a51a9bc3",
+        "net_projects.json": "d200fcfe68723f453bb8a64dff5807bddf63017aad14c0053d2fd5e138dd9087",
+        "annual_authorization_events.json": "48ec698c9d50a641736867dad5ac42f4f400fe8b143b6c89f671e422ec0c0c5f",
+        "report_statistics.json": "e719e4d268b2906448a55edd117868032642a1bc50849891c4b669396db632c9",
+        "sf_sensitivity.json": "0b27639bb3201732bc04066d90eb4700f8cc2d2a1162a886d49f927568879106",
+        "report_snapshot.json": "66f63ab4ac9964502bf3e7f3b64bdaad46c2dbf1e7cef513e6ffd4cb2c876bbd"
+      },
+      "expected_citywide_outputs": {
+        "ward_summary.json": "7ff5ab9003ab48794bc8681063382d43cf09deba3519117c701306f752caffb1",
+        "ward_summary.csv": "c350ba72e57dbe3c4563316f74a6d19aec1ef8a34be8c78a8209675eece1d7d5",
+        "single_family_projects.json": "cdc5ff649fa8984daeaf8eebcf675959a322293e393119433183cfd41e61c683",
+        "single_family_projects.csv": "e5616ccba231937bf2a643e4ae6a5e6d183387ef09ca038c6c5f1639e0cb6564",
+        "unresolved_projects.csv": "f37d5e39d280f74b04b1fed398b69955fe953bd322c16b87ed4900ecb3db9abf",
+        "scope_review_audit.csv": "3048348a87ff59edfa83b6fe2d91445b123a1ae743603a83cf4221c78d568545",
+        "validation.json": "dbde53dc5e160461da5ec9c21fffa2e982f176d3727d59316825b39d04f791d6"
+      },
+      "source_file_count": 495,
+      "notes": "Reviewed scope rules, condo-site guard, supplemental citywide sources and separately validated partial subtotals. See CHANGELOG.md and docs/citywide_methodology.md."
+    }
+  ]
+}

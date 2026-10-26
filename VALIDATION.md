@@ -2,10 +2,10 @@
 
 **Share with caveats.** This repository reproduces the reviewed analysis from its frozen source snapshot.
 
-- Verified all 363 source-file SHA-256 digests.
-- Reconciled 200,453 downloaded permit records and independently verified source-card baselines for 105 Ward 32 single-family projects.
+- Verified all 495 source-file SHA-256 digests.
+- Reconciled 200,453 downloaded permit records and independently verified source-card baselines for 104 Ward 32 single-family projects.
 - All six frozen core-output hashes match exactly.
-- The replay runs 20 methodology and snapshot tests.
+- The replay runs 31 methodology and snapshot tests, including the reviewed citywide scope fixtures.
 - Both saved notebooks contain 13 executed cells in total. Three analytical PNG figures were visually inspected in the original analysis.
 - Core calculations and Markdown report use Python 3.11+ and the standard library. Optional notebook execution uses pinned matplotlib/numpy dependencies.
 
